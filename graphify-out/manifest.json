@@ -1,0 +1,1597 @@
+{
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/RESEARCH-CATALOG.md": {
+    "mtime": 1781553030.8482962,
+    "ast_hash": "2e6d83256238b712e0b93541c8a7e29d",
+    "semantic_hash": "2e6d83256238b712e0b93541c8a7e29d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/.remember/tmp/last-ndc.ts": {
+    "mtime": 1781566406.2779121,
+    "ast_hash": "6e9e5518bcc0ebb53cb5b2294a196b77",
+    "semantic_hash": "6e9e5518bcc0ebb53cb5b2294a196b77"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/.remember/tmp/last-save.json": {
+    "mtime": 1781566406.1283548,
+    "ast_hash": "37ce52e26c04fe862cf028ffc07fd6fc",
+    "semantic_hash": "37ce52e26c04fe862cf028ffc07fd6fc"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/scrape.sh": {
+    "mtime": 1781557531.38895,
+    "ast_hash": "c84456d83ffbd17ed99bc059d5b8c9bd",
+    "semantic_hash": "c84456d83ffbd17ed99bc059d5b8c9bd"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/.remember/now.md": {
+    "mtime": 1781566445.8047407,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/.remember/today-2026-06-15.md": {
+    "mtime": 1781566445.8044453,
+    "ast_hash": "09d1e860091f9ed698a0d33c64662f15",
+    "semantic_hash": "09d1e860091f9ed698a0d33c64662f15"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/agenda/readme.md": {
+    "mtime": 1781555174.4465911,
+    "ast_hash": "186ae587bc8189672f26a3afa87fb184",
+    "semantic_hash": "186ae587bc8189672f26a3afa87fb184"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/arq/overview.md": {
+    "mtime": 1781555162.5679932,
+    "ast_hash": "06d3cec3ed4a50a142ff51fec8dc1c00",
+    "semantic_hash": "06d3cec3ed4a50a142ff51fec8dc1c00"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/asynq/readme.md": {
+    "mtime": 1781555185.631328,
+    "ast_hash": "307a6b9a4365472c59ab6ecc3387d23c",
+    "semantic_hash": "307a6b9a4365472c59ab6ecc3387d23c"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/bee-queue/readme.md": {
+    "mtime": 1781555172.9029412,
+    "ast_hash": "b12b0279c7dea86e83e1d54bcd21a5ca",
+    "semantic_hash": "b12b0279c7dea86e83e1d54bcd21a5ca"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/bull-v3/readme.md": {
+    "mtime": 1781555173.492516,
+    "ast_hash": "6948bd26fc50c8301015bb8949a66a5d",
+    "semantic_hash": "6948bd26fc50c8301015bb8949a66a5d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/bullmq/overview.md": {
+    "mtime": 1781555169.3306894,
+    "ast_hash": "5d4385609c9a72b11d45f922afabca72",
+    "semantic_hash": "5d4385609c9a72b11d45f922afabca72"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/bullmq/queues.md": {
+    "mtime": 1781555169.6483703,
+    "ast_hash": "32d2ac529c5ef07b9baeaa90619cd140",
+    "semantic_hash": "32d2ac529c5ef07b9baeaa90619cd140"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/bullmq/workers.md": {
+    "mtime": 1781555172.126487,
+    "ast_hash": "2a3d8704ff257b74b55cd6370a214aef",
+    "semantic_hash": "2a3d8704ff257b74b55cd6370a214aef"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/celery/overview.md": {
+    "mtime": 1781555155.4761634,
+    "ast_hash": "057d95f35878f7327f83d4d9b31f7324",
+    "semantic_hash": "057d95f35878f7327f83d4d9b31f7324"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/celery/tasks.md": {
+    "mtime": 1781555155.8510585,
+    "ast_hash": "bea9d1aed475086ea6334dc6cbae634b",
+    "semantic_hash": "bea9d1aed475086ea6334dc6cbae634b"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/celery/workers.md": {
+    "mtime": 1781555157.5142212,
+    "ast_hash": "55795b6e1d0d7b6866767fe8325cad2e",
+    "semantic_hash": "55795b6e1d0d7b6866767fe8325cad2e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/db-scheduler/readme.md": {
+    "mtime": 1781555182.3786628,
+    "ast_hash": "6baff59fc3b1de34732d5b72426b6ef9",
+    "semantic_hash": "6baff59fc3b1de34732d5b72426b6ef9"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/dramatiq/guide.md": {
+    "mtime": 1781555160.882715,
+    "ast_hash": "59e17f9cbe84e2818ede9c4dd5c73ef6",
+    "semantic_hash": "59e17f9cbe84e2818ede9c4dd5c73ef6"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/faktory/wiki.md": {
+    "mtime": 1781555188.2606409,
+    "ast_hash": "30f7971304960aeddc4fa44e4f649363",
+    "semantic_hash": "30f7971304960aeddc4fa44e4f649363"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/graphile-worker/overview.md": {
+    "mtime": 1781555175.1092594,
+    "ast_hash": "89f30ed368edb80fb0552b38cb541e7a",
+    "semantic_hash": "89f30ed368edb80fb0552b38cb541e7a"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/huey/overview.md": {
+    "mtime": 1781555159.757273,
+    "ast_hash": "a39218f69d4e7d0e210dffb494610611",
+    "semantic_hash": "a39218f69d4e7d0e210dffb494610611"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/jobrunr/background-methods.md": {
+    "mtime": 1781555177.1269157,
+    "ast_hash": "3bbf34656180a71b8979f81290c69492",
+    "semantic_hash": "3bbf34656180a71b8979f81290c69492"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/jobrunr/documentation.md": {
+    "mtime": 1781555177.117743,
+    "ast_hash": "74f9f97f20e1939a4ddc6557cf19d8d6",
+    "semantic_hash": "74f9f97f20e1939a4ddc6557cf19d8d6"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/machinery/readme.md": {
+    "mtime": 1781555184.2516303,
+    "ast_hash": "af58060b6abd98caa46c67143b3eeb6d",
+    "semantic_hash": "af58060b6abd98caa46c67143b3eeb6d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/pg-boss/readme.md": {
+    "mtime": 1781555175.5420344,
+    "ast_hash": "5444176057a8a1d5732f6154ad3a0b2e",
+    "semantic_hash": "5444176057a8a1d5732f6154ad3a0b2e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/quartz/documentation.md": {
+    "mtime": 1781555181.2262635,
+    "ast_hash": "fdf62bbe4e82c282f3ede9e38d79a8c3",
+    "semantic_hash": "fdf62bbe4e82c282f3ede9e38d79a8c3"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/resque/readme.md": {
+    "mtime": 1781555165.8667605,
+    "ast_hash": "f1678abbc3a15e8c1d9b5d6f71cec60b",
+    "semantic_hash": "f1678abbc3a15e8c1d9b5d6f71cec60b"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/river/docs.md": {
+    "mtime": 1781555185.5086913,
+    "ast_hash": "9fcac2eddb7727f1498931e2dab74ca8",
+    "semantic_hash": "9fcac2eddb7727f1498931e2dab74ca8"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/rq/docs.md": {
+    "mtime": 1781555157.825204,
+    "ast_hash": "d532c0aa14e92e0f2dbbb120f5a134fd",
+    "semantic_hash": "d532c0aa14e92e0f2dbbb120f5a134fd"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/sidekiq/best-practices.md": {
+    "mtime": 1781555165.1229851,
+    "ast_hash": "d3cf2e5e871f73607fd1c450ad963ed5",
+    "semantic_hash": "d3cf2e5e871f73607fd1c450ad963ed5"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/sidekiq/getting-started.md": {
+    "mtime": 1781555163.0089934,
+    "ast_hash": "dd95b19625edd79cd5d7b2c467d2794f",
+    "semantic_hash": "dd95b19625edd79cd5d7b2c467d2794f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/spring-batch/domain.md": {
+    "mtime": 1781555179.3018682,
+    "ast_hash": "ed396ddc202554fb617d6ba89592624e",
+    "semantic_hash": "ed396ddc202554fb617d6ba89592624e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/spring-batch/reference.md": {
+    "mtime": 1781555179.2080894,
+    "ast_hash": "217a4d1f6cb646bec09f1054a7b6f71d",
+    "semantic_hash": "217a4d1f6cb646bec09f1054a7b6f71d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/airflow/dags.md": {
+    "mtime": 1781555187.7954352,
+    "ast_hash": "a18762773f0dd0035b48f845c44795a4",
+    "semantic_hash": "a18762773f0dd0035b48f845c44795a4"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/airflow/executor.md": {
+    "mtime": 1781555189.5871894,
+    "ast_hash": "4db05e60d4cad4c0f2bc82331f77031d",
+    "semantic_hash": "4db05e60d4cad4c0f2bc82331f77031d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/airflow/overview.md": {
+    "mtime": 1781555186.7656727,
+    "ast_hash": "d3c56f5346f539b6706ab6cce42c0040",
+    "semantic_hash": "d3c56f5346f539b6706ab6cce42c0040"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/argo-workflows/overview.md": {
+    "mtime": 1781555195.0481489,
+    "ast_hash": "a8b8c43d845255118295c4f20730d77e",
+    "semantic_hash": "a8b8c43d845255118295c4f20730d77e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/dagster/overview.md": {
+    "mtime": 1781555192.9698505,
+    "ast_hash": "f2b2bd94cb4e432f2aff4b6dd2960c74",
+    "semantic_hash": "f2b2bd94cb4e432f2aff4b6dd2960c74"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/dolphinscheduler/overview.md": {
+    "mtime": 1781555195.023323,
+    "ast_hash": "6d5fff2dd74372dffe5db2e48d784308",
+    "semantic_hash": "6d5fff2dd74372dffe5db2e48d784308"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/flyte/overview.md": {
+    "mtime": 1781555196.9757078,
+    "ast_hash": "de6a44e3258ab7ecc3455a7c9948ba1b",
+    "semantic_hash": "de6a44e3258ab7ecc3455a7c9948ba1b"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/kestra/overview.md": {
+    "mtime": 1781555201.0457456,
+    "ast_hash": "c635b58a1181fc8093f1fc98c67bd3cb",
+    "semantic_hash": "c635b58a1181fc8093f1fc98c67bd3cb"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/kubeflow-pipelines/overview.md": {
+    "mtime": 1781555196.0725958,
+    "ast_hash": "e04099ddcb511298f16001d2184b29c2",
+    "semantic_hash": "e04099ddcb511298f16001d2184b29c2"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/luigi/overview.md": {
+    "mtime": 1781555192.9323554,
+    "ast_hash": "cb6b23c5929d0b1c6cb18f4c71f63748",
+    "semantic_hash": "cb6b23c5929d0b1c6cb18f4c71f63748"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/mage/overview.md": {
+    "mtime": 1781555200.045378,
+    "ast_hash": "85f6bf06b72f1100bb8f02f6cd583f02",
+    "semantic_hash": "85f6bf06b72f1100bb8f02f6cd583f02"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/metaflow/overview.md": {
+    "mtime": 1781555197.8688028,
+    "ast_hash": "17cee9763a9d3067b2aed70ba6334fc8",
+    "semantic_hash": "17cee9763a9d3067b2aed70ba6334fc8"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/n8n/overview.md": {
+    "mtime": 1781555202.2765698,
+    "ast_hash": "87b0fdb3960043c2ca67d5630ea10167",
+    "semantic_hash": "87b0fdb3960043c2ca67d5630ea10167"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/node-red/overview.md": {
+    "mtime": 1781555204.007416,
+    "ast_hash": "71cfd71b8c2c36742a44e9ad2173da2b",
+    "semantic_hash": "71cfd71b8c2c36742a44e9ad2173da2b"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/prefect/overview.md": {
+    "mtime": 1781555191.084767,
+    "ast_hash": "67bfdaee970645c144a477c3cd113702",
+    "semantic_hash": "67bfdaee970645c144a477c3cd113702"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/windmill/overview.md": {
+    "mtime": 1781555202.6426213,
+    "ast_hash": "d5feffa690a9b49a852a0ab52b50e7fc",
+    "semantic_hash": "d5feffa690a9b49a852a0ab52b50e7fc"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/cadence/overview.md": {
+    "mtime": 1781555207.2190611,
+    "ast_hash": "7d6ce8dfd2c568937a9aa501f9168636",
+    "semantic_hash": "7d6ce8dfd2c568937a9aa501f9168636"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/conductor-oss/overview.md": {
+    "mtime": 1781555214.457606,
+    "ast_hash": "5cf236d23e83b5173388e2c48d484180",
+    "semantic_hash": "5cf236d23e83b5173388e2c48d484180"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/dbos/overview.md": {
+    "mtime": 1781555210.5010448,
+    "ast_hash": "951e7ed86732588cb2522f5115e45ec3",
+    "semantic_hash": "951e7ed86732588cb2522f5115e45ec3"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/golem/overview.md": {
+    "mtime": 1781555212.9223022,
+    "ast_hash": "f88e11ef9cdf768a90bd2ad555c01967",
+    "semantic_hash": "f88e11ef9cdf768a90bd2ad555c01967"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/inngest/overview.md": {
+    "mtime": 1781555208.4209855,
+    "ast_hash": "7ac4c0577c6463b62d6563da26028e30",
+    "semantic_hash": "7ac4c0577c6463b62d6563da26028e30"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/resonate/overview.md": {
+    "mtime": 1781555212.480972,
+    "ast_hash": "248101f8811182bf685b8c1793b4550d",
+    "semantic_hash": "248101f8811182bf685b8c1793b4550d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/restate/overview.md": {
+    "mtime": 1781555207.3108313,
+    "ast_hash": "5007ae64f05a81ff83a985ccf61e9bb7",
+    "semantic_hash": "5007ae64f05a81ff83a985ccf61e9bb7"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/activities.md": {
+    "mtime": 1781555205.2434278,
+    "ast_hash": "cbe141c00ed0f1bce53d70095140465f",
+    "semantic_hash": "cbe141c00ed0f1bce53d70095140465f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/overview.md": {
+    "mtime": 1781555204.2701209,
+    "ast_hash": "84c2c11123822099bdf4abeaedb334ed",
+    "semantic_hash": "84c2c11123822099bdf4abeaedb334ed"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/workers.md": {
+    "mtime": 1781555206.2521532,
+    "ast_hash": "1db19cb978d6223f17f3672cf36d41ec",
+    "semantic_hash": "1db19cb978d6223f17f3672cf36d41ec"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/workflows.md": {
+    "mtime": 1781555205.2420897,
+    "ast_hash": "2834e3e3f11bebaae6640f530ba64dbe",
+    "semantic_hash": "2834e3e3f11bebaae6640f530ba64dbe"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/trigger-dev/overview.md": {
+    "mtime": 1781555209.9637778,
+    "ast_hash": "7d3272c94bf396cf8a3740401089581c",
+    "semantic_hash": "7d3272c94bf396cf8a3740401089581c"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/vercel-workflow/overview.md": {
+    "mtime": 1781555214.529327,
+    "ast_hash": "5191fb48ec5d4c04c55f357a7c8a0b29",
+    "semantic_hash": "5191fb48ec5d4c04c55f357a7c8a0b29"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/batch/what-is.md": {
+    "mtime": 1781555224.4034936,
+    "ast_hash": "4c876ca035d6c9de33877e7fde52dec6",
+    "semantic_hash": "4c876ca035d6c9de33877e7fde52dec6"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/ecs-scheduled-tasks/overview.md": {
+    "mtime": 1781555226.2717905,
+    "ast_hash": "a3b22757986ec463adffef3cc072bda7",
+    "semantic_hash": "a3b22757986ec463adffef3cc072bda7"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/eventbridge-scheduler/what-is.md": {
+    "mtime": 1781555222.1991944,
+    "ast_hash": "6d350aa6e5c9bb79bca074d1c2f848ed",
+    "semantic_hash": "6d350aa6e5c9bb79bca074d1c2f848ed"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/eventbridge/what-is.md": {
+    "mtime": 1781555222.3425305,
+    "ast_hash": "d7a0d63dd3d6b5a7d1f1aad29a3520b8",
+    "semantic_hash": "d7a0d63dd3d6b5a7d1f1aad29a3520b8"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/glue/what-is.md": {
+    "mtime": 1781555233.180043,
+    "ast_hash": "a016448447711ac1832e0c720f5a9e13",
+    "semantic_hash": "a016448447711ac1832e0c720f5a9e13"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/lambda/async-invoke.md": {
+    "mtime": 1781555227.0466483,
+    "ast_hash": "5214505c61359049aa183994e3c9bbc5",
+    "semantic_hash": "5214505c61359049aa183994e3c9bbc5"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/lambda/welcome.md": {
+    "mtime": 1781555225.9959548,
+    "ast_hash": "5b252ec9bbe1b4afa13978f20e9a60c3",
+    "semantic_hash": "5b252ec9bbe1b4afa13978f20e9a60c3"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/mwaa/what-is.md": {
+    "mtime": 1781555229.6468446,
+    "ast_hash": "72b6140df2ea77c963f1f60cc97a1116",
+    "semantic_hash": "72b6140df2ea77c963f1f60cc97a1116"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/sns/welcome.md": {
+    "mtime": 1781555219.7479084,
+    "ast_hash": "98b1eadcd4d6094558b8978574b6fb0b",
+    "semantic_hash": "98b1eadcd4d6094558b8978574b6fb0b"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/sqs/visibility-timeout.md": {
+    "mtime": 1781555219.5112057,
+    "ast_hash": "bb836867899a4657c7d3d7bd726168de",
+    "semantic_hash": "bb836867899a4657c7d3d7bd726168de"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/sqs/welcome.md": {
+    "mtime": 1781555216.7465403,
+    "ast_hash": "f0f98711c0c26f8a2817e7234d876f9f",
+    "semantic_hash": "f0f98711c0c26f8a2817e7234d876f9f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/step-functions/asl.md": {
+    "mtime": 1781555218.6262243,
+    "ast_hash": "200b69c8d73d4db6397a80a3f70fc112",
+    "semantic_hash": "200b69c8d73d4db6397a80a3f70fc112"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/step-functions/welcome.md": {
+    "mtime": 1781555215.7703037,
+    "ast_hash": "ef39bdeacbe91492ff36c5e4e2c0a264",
+    "semantic_hash": "ef39bdeacbe91492ff36c5e4e2c0a264"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/swf/welcome.md": {
+    "mtime": 1781555232.9673824,
+    "ast_hash": "0c1ff7f46c3a0c7f083ddb33261ac917",
+    "semantic_hash": "0c1ff7f46c3a0c7f083ddb33261ac917"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/batch/overview.md": {
+    "mtime": 1781555243.9066887,
+    "ast_hash": "fe96b5540a8033ab2a7d2bf4739bbd1f",
+    "semantic_hash": "fe96b5540a8033ab2a7d2bf4739bbd1f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/container-apps-jobs/overview.md": {
+    "mtime": 1781555242.5203736,
+    "ast_hash": "33caa9ccc0b10b5668fbbfebf9b35598",
+    "semantic_hash": "33caa9ccc0b10b5668fbbfebf9b35598"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/data-factory/intro.md": {
+    "mtime": 1781555244.7075634,
+    "ast_hash": "99462fbba16a55c8943a0fe142dc472e",
+    "semantic_hash": "99462fbba16a55c8943a0fe142dc472e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/durable-functions/overview.md": {
+    "mtime": 1781555237.0484524,
+    "ast_hash": "d5def9d003e38448ab895bc34aa712eb",
+    "semantic_hash": "d5def9d003e38448ab895bc34aa712eb"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/durable-functions/patterns.md": {
+    "mtime": 1781555236.1456218,
+    "ast_hash": "1af19771fb2849eb727b35d61010f7ca",
+    "semantic_hash": "1af19771fb2849eb727b35d61010f7ca"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/event-grid/overview.md": {
+    "mtime": 1781555246.6612704,
+    "ast_hash": "95e7ab9b36ac93e93f9bac65f6ba8ec2",
+    "semantic_hash": "95e7ab9b36ac93e93f9bac65f6ba8ec2"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/logic-apps/overview.md": {
+    "mtime": 1781555238.3543193,
+    "ast_hash": "7d49a30df7eda18292386223454afb8d",
+    "semantic_hash": "7d49a30df7eda18292386223454afb8d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/service-bus/overview.md": {
+    "mtime": 1781555239.4532804,
+    "ast_hash": "7dc66948b3fb48b4f87fe00099637392",
+    "semantic_hash": "7dc66948b3fb48b4f87fe00099637392"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/storage-queues/intro.md": {
+    "mtime": 1781555240.9289,
+    "ast_hash": "87cb6607ef0582495f5c04ec4252a772",
+    "semantic_hash": "87cb6607ef0582495f5c04ec4252a772"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/cloud-composer/overview.md": {
+    "mtime": 1781555257.493491,
+    "ast_hash": "fe75ec839747c865641896339fd3fcc7",
+    "semantic_hash": "fe75ec839747c865641896339fd3fcc7"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/cloud-run-jobs/overview.md": {
+    "mtime": 1781555249.811936,
+    "ast_hash": "7752fae0b4b867e13189c75fb97ed073",
+    "semantic_hash": "7752fae0b4b867e13189c75fb97ed073"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/cloud-scheduler/overview.md": {
+    "mtime": 1781555248.335916,
+    "ast_hash": "063ce007b6fccabcc11229a93434f67f",
+    "semantic_hash": "063ce007b6fccabcc11229a93434f67f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/cloud-tasks/overview.md": {
+    "mtime": 1781555245.5764246,
+    "ast_hash": "02c6ec145d030fb85f1c15a2ac3a0ea6",
+    "semantic_hash": "02c6ec145d030fb85f1c15a2ac3a0ea6"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/dataflow/overview.md": {
+    "mtime": 1781555261.0665736,
+    "ast_hash": "8d9bbc69fffab43d15810c157a7987a3",
+    "semantic_hash": "8d9bbc69fffab43d15810c157a7987a3"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/firebase-extensions/overview.md": {
+    "mtime": 1781555256.0801125,
+    "ast_hash": "fd3101aa148d788f800fcac72c387812",
+    "semantic_hash": "fd3101aa148d788f800fcac72c387812"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/firebase-functions/overview.md": {
+    "mtime": 1781555252.9450004,
+    "ast_hash": "95ed8f01fcdf454ae0289c93391de033",
+    "semantic_hash": "95ed8f01fcdf454ae0289c93391de033"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/firebase-task-functions/overview.md": {
+    "mtime": 1781555253.585408,
+    "ast_hash": "d34e6e337e8c8deb33190af1ee8cbc63",
+    "semantic_hash": "d34e6e337e8c8deb33190af1ee8cbc63"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/pubsub/overview.md": {
+    "mtime": 1781555247.582474,
+    "ast_hash": "90dc4cbfd8eecfa949d8850fcbdc197f",
+    "semantic_hash": "90dc4cbfd8eecfa949d8850fcbdc197f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/workflows/overview.md": {
+    "mtime": 1781555250.3249135,
+    "ast_hash": "7d1e66c20dc69c5d9939841b8edbe69d",
+    "semantic_hash": "7d1e66c20dc69c5d9939841b8edbe69d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/activemq-artemis/docs.md": {
+    "mtime": 1781555271.3925579,
+    "ast_hash": "e2618f9bd8730680a7a680b976c90e09",
+    "semantic_hash": "e2618f9bd8730680a7a680b976c90e09"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/kafka/design.md": {
+    "mtime": 1781555263.0597203,
+    "ast_hash": "1a2a900e0719198d84dec059618ed811",
+    "semantic_hash": "1a2a900e0719198d84dec059618ed811"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/kafka/documentation.md": {
+    "mtime": 1781555261.1215422,
+    "ast_hash": "1a2a900e0719198d84dec059618ed811",
+    "semantic_hash": "1a2a900e0719198d84dec059618ed811"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/nats/jetstream.md": {
+    "mtime": 1781555265.994013,
+    "ast_hash": "1b1098f1ef736b0e96dff44f482462a0",
+    "semantic_hash": "1b1098f1ef736b0e96dff44f482462a0"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/pulsar/concepts.md": {
+    "mtime": 1781555268.5178506,
+    "ast_hash": "2a0429383b9dc6f97efd4aaa44faad31",
+    "semantic_hash": "2a0429383b9dc6f97efd4aaa44faad31"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/rabbitmq/docs.md": {
+    "mtime": 1781555259.0530534,
+    "ast_hash": "9d902decd8eed5ff26b8dc12bb331fe8",
+    "semantic_hash": "9d902decd8eed5ff26b8dc12bb331fe8"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/rabbitmq/quorum-queues.md": {
+    "mtime": 1781555260.0856655,
+    "ast_hash": "58762b9e4fe0f1c3d354e5e336d9d96e",
+    "semantic_hash": "58762b9e4fe0f1c3d354e5e336d9d96e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/redis/streams.md": {
+    "mtime": 1781555271.6565597,
+    "ast_hash": "aa64c21afc1490e0b30a2150f61c3451",
+    "semantic_hash": "aa64c21afc1490e0b30a2150f61c3451"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/zeromq/guide.md": {
+    "mtime": 1781555269.6972413,
+    "ast_hash": "861e80741b7e12be38033c54c22cf067",
+    "semantic_hash": "861e80741b7e12be38033c54c22cf067"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/dask/overview.md": {
+    "mtime": 1781555283.2594495,
+    "ast_hash": "51c60c2c9aa5a9b9a1dda9f6f5bb75ad",
+    "semantic_hash": "51c60c2c9aa5a9b9a1dda9f6f5bb75ad"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/htcondor/overview.md": {
+    "mtime": 1781555279.827071,
+    "ast_hash": "8fb0bd45dd53ad58e8c483e01e83689c",
+    "semantic_hash": "8fb0bd45dd53ad58e8c483e01e83689c"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/k8s-cronjobs/concept.md": {
+    "mtime": 1781555273.458702,
+    "ast_hash": "049a3fab1f7b4abf7a4be85c18d80a1b",
+    "semantic_hash": "049a3fab1f7b4abf7a4be85c18d80a1b"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/k8s-job-api/reference.md": {
+    "mtime": 1781555274.7313209,
+    "ast_hash": "9aa55c7d31ac7f77125d090f9ef47b64",
+    "semantic_hash": "9aa55c7d31ac7f77125d090f9ef47b64"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/k8s-jobs/concept.md": {
+    "mtime": 1781555272.4717593,
+    "ast_hash": "e674806d7b72f876b63a9ba080ebab92",
+    "semantic_hash": "e674806d7b72f876b63a9ba080ebab92"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/keda/overview.md": {
+    "mtime": 1781555275.4943583,
+    "ast_hash": "eca1e92be1ad6fbb8b351d00daa67a3f",
+    "semantic_hash": "eca1e92be1ad6fbb8b351d00daa67a3f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/kueue/overview.md": {
+    "mtime": 1781555277.9208598,
+    "ast_hash": "d71a6e29c16725e94da040e1da4586e7",
+    "semantic_hash": "d71a6e29c16725e94da040e1da4586e7"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/nomad/docs.md": {
+    "mtime": 1781555278.6189458,
+    "ast_hash": "9e7a4386c99d5c2c4b1032098521eda8",
+    "semantic_hash": "9e7a4386c99d5c2c4b1032098521eda8"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/ray/core.md": {
+    "mtime": 1781555280.9402459,
+    "ast_hash": "040a6379db515d397f3a64f716b3f2c0",
+    "semantic_hash": "040a6379db515d397f3a64f716b3f2c0"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/slurm/overview.md": {
+    "mtime": 1781555282.7320065,
+    "ast_hash": "b7bf927c0467b5b49f5874e1267d7a97",
+    "semantic_hash": "b7bf927c0467b5b49f5874e1267d7a97"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/volcano/overview.md": {
+    "mtime": 1781555276.5902946,
+    "ast_hash": "ade46becaba025fc83f568328611d57b",
+    "semantic_hash": "ade46becaba025fc83f568328611d57b"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/09-data-pipeline/beam/overview.md": {
+    "mtime": 1781555286.3041253,
+    "ast_hash": "fd5c643d70d1f508f9170dec4efce4ff",
+    "semantic_hash": "fd5c643d70d1f508f9170dec4efce4ff"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/09-data-pipeline/dbt/overview.md": {
+    "mtime": 1781555286.8248796,
+    "ast_hash": "ebbf3872e4a766c8978816c0e3ab3bcc",
+    "semantic_hash": "ebbf3872e4a766c8978816c0e3ab3bcc"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/09-data-pipeline/debezium/overview.md": {
+    "mtime": 1781555289.881347,
+    "ast_hash": "543df061acb5293b851568ca89400c62",
+    "semantic_hash": "543df061acb5293b851568ca89400c62"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/09-data-pipeline/flink/overview.md": {
+    "mtime": 1781555293.4912271,
+    "ast_hash": "93965bbed00de71afd9c0849e40c7080",
+    "semantic_hash": "93965bbed00de71afd9c0849e40c7080"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/09-data-pipeline/nifi/docs.md": {
+    "mtime": 1781555288.5032256,
+    "ast_hash": "b8d7f0cc165bd358b1dfe62d0db01070",
+    "semantic_hash": "b8d7f0cc165bd358b1dfe62d0db01070"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/09-data-pipeline/spark/job-scheduling.md": {
+    "mtime": 1781555284.802961,
+    "ast_hash": "812209aa75af8ecd220c8cf91b80c7db",
+    "semantic_hash": "812209aa75af8ecd220c8cf91b80c7db"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/argo-cd/overview.md": {
+    "mtime": 1781555300.124627,
+    "ast_hash": "3e2d3f2dd034fe18af24bc26440e200d",
+    "semantic_hash": "3e2d3f2dd034fe18af24bc26440e200d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/buildkite/overview.md": {
+    "mtime": 1781555302.5477257,
+    "ast_hash": "7508c14e6e3aafcb78e0dd98de2ed02f",
+    "semantic_hash": "7508c14e6e3aafcb78e0dd98de2ed02f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/circleci/overview.md": {
+    "mtime": 1781555302.228057,
+    "ast_hash": "85953c41fe6841d9721bfdc1462511c2",
+    "semantic_hash": "85953c41fe6841d9721bfdc1462511c2"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/drone/overview.md": {
+    "mtime": 1781555326.1647716,
+    "ast_hash": "273a47297449ae06872054bd829298a8",
+    "semantic_hash": "273a47297449ae06872054bd829298a8"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/github-actions/overview.md": {
+    "mtime": 1781555290.9276817,
+    "ast_hash": "5a393ec7516290c06a740e3380fdb26f",
+    "semantic_hash": "5a393ec7516290c06a740e3380fdb26f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/github-actions/workflow-syntax.md": {
+    "mtime": 1781555292.204168,
+    "ast_hash": "5bd26c04a6e9eb22003136d845578d03",
+    "semantic_hash": "5bd26c04a6e9eb22003136d845578d03"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/gitlab-ci/overview.md": {
+    "mtime": 1781555296.4936924,
+    "ast_hash": "88bf0b03797af31b12061fd49fdaf04a",
+    "semantic_hash": "88bf0b03797af31b12061fd49fdaf04a"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/jenkins/pipeline.md": {
+    "mtime": 1781555299.1548905,
+    "ast_hash": "3d458dafb10fdc0ef49fda44e8a7ca3d",
+    "semantic_hash": "3d458dafb10fdc0ef49fda44e8a7ca3d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/tekton/overview.md": {
+    "mtime": 1781555301.510601,
+    "ast_hash": "d52a3388cd8f3cb01acb48f67a440fff",
+    "semantic_hash": "d52a3388cd8f3cb01acb48f67a440fff"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/11-scheduling/systemd-timers/man.md": {
+    "mtime": 1781555303.2566545,
+    "ast_hash": "1024de49a35a2d1d211982505ac4f5e0",
+    "semantic_hash": "1024de49a35a2d1d211982505ac4f5e0"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/12-observability/flower/overview.md": {
+    "mtime": 1781555308.772865,
+    "ast_hash": "5d83ac6dcb021c866ed8a3753803d4c3",
+    "semantic_hash": "5d83ac6dcb021c866ed8a3753803d4c3"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/12-observability/grafana/overview.md": {
+    "mtime": 1781555306.6558597,
+    "ast_hash": "5ce1cdd93c3f53105c1778144e2171ec",
+    "semantic_hash": "5ce1cdd93c3f53105c1778144e2171ec"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/12-observability/opentelemetry/docs.md": {
+    "mtime": 1781555304.5188265,
+    "ast_hash": "f0ed0b34b44843cb9a167a6ace32ca13",
+    "semantic_hash": "f0ed0b34b44843cb9a167a6ace32ca13"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/12-observability/prometheus/overview.md": {
+    "mtime": 1781555305.3907835,
+    "ast_hash": "f1427a98304a5d2687f4a85425d2dd20",
+    "semantic_hash": "f1427a98304a5d2687f4a85425d2dd20"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/asyncapi/overview.md": {
+    "mtime": 1781555319.164523,
+    "ast_hash": "212d19b1fc7ba240ca9fa1f68b7260e5",
+    "semantic_hash": "212d19b1fc7ba240ca9fa1f68b7260e5"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/bpmn/spec.md": {
+    "mtime": 1781555323.8729134,
+    "ast_hash": "8a6604947812bd690c9f7ef215cada64",
+    "semantic_hash": "8a6604947812bd690c9f7ef215cada64"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/cloudevents/primer.md": {
+    "mtime": 1781555314.8533943,
+    "ast_hash": "2c16f2a57ceb4ba2d6540ca6a223c384",
+    "semantic_hash": "2c16f2a57ceb4ba2d6540ca6a223c384"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/cloudevents/spec.md": {
+    "mtime": 1781555309.6971958,
+    "ast_hash": "0284066ed9e7002568b0f4bb2c70238f",
+    "semantic_hash": "0284066ed9e7002568b0f4bb2c70238f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/json-schema/overview.md": {
+    "mtime": 1781555324.9439275,
+    "ast_hash": "de64d6772d05be322f7e525cd0d009f3",
+    "semantic_hash": "de64d6772d05be322f7e525cd0d009f3"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/openapi/learn.md": {
+    "mtime": 1781555319.8193617,
+    "ast_hash": "4c6ad41af5c65c26671beb06a6494c43",
+    "semantic_hash": "4c6ad41af5c65c26671beb06a6494c43"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/serverless-workflow/overview.md": {
+    "mtime": 1781555321.6028714,
+    "ast_hash": "7944c14a8b27968f5852d8276ace89fd",
+    "semantic_hash": "7944c14a8b27968f5852d8276ace89fd"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/14-local-dev/azurite/overview.md": {
+    "mtime": 1781555328.2677824,
+    "ast_hash": "4c95efeffe2d64c61235f0c53216c2f0",
+    "semantic_hash": "4c95efeffe2d64c61235f0c53216c2f0"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/14-local-dev/docker-compose/overview.md": {
+    "mtime": 1781555331.1995902,
+    "ast_hash": "9ad288c9b25ce372abf3d4066b5c0268",
+    "semantic_hash": "9ad288c9b25ce372abf3d4066b5c0268"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/14-local-dev/firebase-emulator/overview.md": {
+    "mtime": 1781555331.3166986,
+    "ast_hash": "355fb57624b9b673bdb737e9d9b69737",
+    "semantic_hash": "355fb57624b9b673bdb737e9d9b69737"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/14-local-dev/localstack/overview.md": {
+    "mtime": 1781555328.0528107,
+    "ast_hash": "b9ce505e5347a36687e81ff67dfeddf4",
+    "semantic_hash": "b9ce505e5347a36687e81ff67dfeddf4"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/14-local-dev/testcontainers/overview.md": {
+    "mtime": 1781555330.2929816,
+    "ast_hash": "41160974727333eb1abbc3b0850235f2",
+    "semantic_hash": "41160974727333eb1abbc3b0850235f2"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/bullmq/flows.md": {
+    "mtime": 1781557666.319493,
+    "ast_hash": "281a10f104c1cc7a05406e556114ea83",
+    "semantic_hash": "281a10f104c1cc7a05406e556114ea83"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/bullmq/jobs-schedulers.md": {
+    "mtime": 1781557669.1490579,
+    "ast_hash": "e725b443879621594d0ef9a146f60237",
+    "semantic_hash": "e725b443879621594d0ef9a146f60237"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/bullmq/rate-limiting.md": {
+    "mtime": 1781557664.0691895,
+    "ast_hash": "abd59e676ebc81b53e8af2bfa4e64f5e",
+    "semantic_hash": "abd59e676ebc81b53e8af2bfa4e64f5e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/bullmq/retrying-failing-jobs.md": {
+    "mtime": 1781557664.9990234,
+    "ast_hash": "ec5a1b78d58f9b43a857b57e942f086d",
+    "semantic_hash": "ec5a1b78d58f9b43a857b57e942f086d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/celery/calling.md": {
+    "mtime": 1781557659.7221355,
+    "ast_hash": "95489fea391530c5dbef5f9d8067305f",
+    "semantic_hash": "95489fea391530c5dbef5f9d8067305f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/celery/canvas.md": {
+    "mtime": 1781557658.747048,
+    "ast_hash": "2c191ea58b96e03ed391eb493c7ec005",
+    "semantic_hash": "2c191ea58b96e03ed391eb493c7ec005"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/celery/configuration.md": {
+    "mtime": 1781557661.0098562,
+    "ast_hash": "9b06916cdaaf76a004faf143c643f85e",
+    "semantic_hash": "9b06916cdaaf76a004faf143c643f85e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/celery/monitoring.md": {
+    "mtime": 1781557662.8136594,
+    "ast_hash": "b6dea163052c1de0e639ac4cdaae0096",
+    "semantic_hash": "b6dea163052c1de0e639ac4cdaae0096"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/celery/optimizing.md": {
+    "mtime": 1781557662.637945,
+    "ast_hash": "52ca40b54af59230fc6fed8c33b66c1a",
+    "semantic_hash": "52ca40b54af59230fc6fed8c33b66c1a"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/celery/periodic-tasks.md": {
+    "mtime": 1781557660.0142338,
+    "ast_hash": "ca1190273e106bb48ee98c0fda8c64fe",
+    "semantic_hash": "ca1190273e106bb48ee98c0fda8c64fe"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/celery/routing.md": {
+    "mtime": 1781557660.836184,
+    "ast_hash": "c3d59e7e0c40659e0eee2e13ba92a2af",
+    "semantic_hash": "c3d59e7e0c40659e0eee2e13ba92a2af"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/sidekiq/advanced-options.md": {
+    "mtime": 1781557672.237134,
+    "ast_hash": "b26b1cdbb0551da78dc48594ea7ae4a5",
+    "semantic_hash": "b26b1cdbb0551da78dc48594ea7ae4a5"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/sidekiq/error-handling.md": {
+    "mtime": 1781557670.2730696,
+    "ast_hash": "c7a105a66dbc5bc6c153d61b7b9697d3",
+    "semantic_hash": "c7a105a66dbc5bc6c153d61b7b9697d3"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/01-task-queues/sidekiq/reliability.md": {
+    "mtime": 1781557668.6226127,
+    "ast_hash": "9f0875695e2263d58e727a6259f757fd",
+    "semantic_hash": "9f0875695e2263d58e727a6259f757fd"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/airflow/best-practices.md": {
+    "mtime": 1781557657.807048,
+    "ast_hash": "061434b9d3cadb6d33a2fd90a797109b",
+    "semantic_hash": "061434b9d3cadb6d33a2fd90a797109b"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/airflow/dag-run.md": {
+    "mtime": 1781557655.806651,
+    "ast_hash": "bfdbb6f5a293e04b1fbea5fce516bccb",
+    "semantic_hash": "bfdbb6f5a293e04b1fbea5fce516bccb"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/airflow/operators.md": {
+    "mtime": 1781557654.6874075,
+    "ast_hash": "137064a9124ba83e659fffac2a16686e",
+    "semantic_hash": "137064a9124ba83e659fffac2a16686e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/airflow/scheduler.md": {
+    "mtime": 1781557656.7668989,
+    "ast_hash": "1e0ad3aedb643b56ae5094b1d8bd6f9a",
+    "semantic_hash": "1e0ad3aedb643b56ae5094b1d8bd6f9a"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/airflow/taskflow.md": {
+    "mtime": 1781557654.687311,
+    "ast_hash": "29ea5a9122270aac5cf66f6847850858",
+    "semantic_hash": "29ea5a9122270aac5cf66f6847850858"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/airflow/tasks.md": {
+    "mtime": 1781557652.6428146,
+    "ast_hash": "02f8aa2f6abcde5949acb8fb664122c9",
+    "semantic_hash": "02f8aa2f6abcde5949acb8fb664122c9"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/02-workflow-orchestration/airflow/timetables.md": {
+    "mtime": 1781557739.5746987,
+    "ast_hash": "c6657d2bb44f3660dde0767bef9fa4eb",
+    "semantic_hash": "c6657d2bb44f3660dde0767bef9fa4eb"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/child-workflows.md": {
+    "mtime": 1781557626.4282327,
+    "ast_hash": "759661bb3743c8aa8a00d6740fc35844",
+    "semantic_hash": "759661bb3743c8aa8a00d6740fc35844"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/clusters.md": {
+    "mtime": 1781557629.5884433,
+    "ast_hash": "b352653cbe67c877b31455b0167a9fff",
+    "semantic_hash": "b352653cbe67c877b31455b0167a9fff"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/detecting-activity-failures.md": {
+    "mtime": 1781557622.360712,
+    "ast_hash": "e8886ec10e06e51d1ced91d6171308fb",
+    "semantic_hash": "e8886ec10e06e51d1ced91d6171308fb"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/detecting-workflow-failures.md": {
+    "mtime": 1781557622.12499,
+    "ast_hash": "b31f12b9f5fb6fcf523032acc9fa6e5a",
+    "semantic_hash": "b31f12b9f5fb6fcf523032acc9fa6e5a"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/message-passing.md": {
+    "mtime": 1781557623.6960535,
+    "ast_hash": "fb17c101cf8c076a472150dc176ddfbe",
+    "semantic_hash": "fb17c101cf8c076a472150dc176ddfbe"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/retry-policies.md": {
+    "mtime": 1781557619.1698358,
+    "ast_hash": "70001c0ec0e68bea741ae177568a1988",
+    "semantic_hash": "70001c0ec0e68bea741ae177568a1988"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/sdks.md": {
+    "mtime": 1781557627.8611934,
+    "ast_hash": "5f729972b12d0cc37221c3fc3af9402c",
+    "semantic_hash": "5f729972b12d0cc37221c3fc3af9402c"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/timeouts.md": {
+    "mtime": 1781557623.9594634,
+    "ast_hash": "d47ef68dabda73a77c241d5cd1e1354d",
+    "semantic_hash": "d47ef68dabda73a77c241d5cd1e1354d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/versioning.md": {
+    "mtime": 1781557631.1722553,
+    "ast_hash": "07ab61586b42d8c78aaaff8670e336a0",
+    "semantic_hash": "07ab61586b42d8c78aaaff8670e336a0"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/03-durable-execution/temporal/visibility.md": {
+    "mtime": 1781557626.330381,
+    "ast_hash": "2cf4596938f4973627f067adcc7f9bcb",
+    "semantic_hash": "2cf4596938f4973627f067adcc7f9bcb"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/sqs/architecture.md": {
+    "mtime": 1781557608.8819358,
+    "ast_hash": "20711bf5324410c3d34304199a84dc63",
+    "semantic_hash": "20711bf5324410c3d34304199a84dc63"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/sqs/dlq.md": {
+    "mtime": 1781557606.2200356,
+    "ast_hash": "9532db94a494843f6e783932e963c0d8",
+    "semantic_hash": "9532db94a494843f6e783932e963c0d8"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/sqs/exactly-once-fifo.md": {
+    "mtime": 1781557606.2472744,
+    "ast_hash": "e5a9b8298c75183b317f7ee594cf0684",
+    "semantic_hash": "e5a9b8298c75183b317f7ee594cf0684"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/sqs/message-dedup.md": {
+    "mtime": 1781557611.0398679,
+    "ast_hash": "a85c460a79ab4692024c63257ceaa642",
+    "semantic_hash": "a85c460a79ab4692024c63257ceaa642"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/step-functions/error-handling.md": {
+    "mtime": 1781557610.4855022,
+    "ast_hash": "e72b1f1fd3b712adedd2b6e571e48e38",
+    "semantic_hash": "e72b1f1fd3b712adedd2b6e571e48e38"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/step-functions/express-vs-standard.md": {
+    "mtime": 1781557619.3357174,
+    "ast_hash": "fa25a8db55662e53dd9ea19bcf9a6441",
+    "semantic_hash": "fa25a8db55662e53dd9ea19bcf9a6441"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/step-functions/map-state.md": {
+    "mtime": 1781557616.3182828,
+    "ast_hash": "d4239c0da3212c7b66186e30482c6e49",
+    "semantic_hash": "d4239c0da3212c7b66186e30482c6e49"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/04-cloud-aws/step-functions/states.md": {
+    "mtime": 1781557613.0645108,
+    "ast_hash": "ef64aead97488caff8af206dcfe9f5da",
+    "semantic_hash": "ef64aead97488caff8af206dcfe9f5da"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/durable-functions/entities.md": {
+    "mtime": 1781557637.0518715,
+    "ast_hash": "d4d6ccb44fa9d68f5dd104d935d29ff5",
+    "semantic_hash": "d4d6ccb44fa9d68f5dd104d935d29ff5"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/durable-functions/error-handling.md": {
+    "mtime": 1781557634.3017101,
+    "ast_hash": "930493e116468867af847fb6c5f20047",
+    "semantic_hash": "930493e116468867af847fb6c5f20047"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/durable-functions/eternal-orchestrations.md": {
+    "mtime": 1781557635.5114896,
+    "ast_hash": "01fcbf09626dd841202ad5e7a7b0e9b5",
+    "semantic_hash": "01fcbf09626dd841202ad5e7a7b0e9b5"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/durable-functions/orchestrations.md": {
+    "mtime": 1781557633.263276,
+    "ast_hash": "d7a423a8f2f9efb8583d9190f86c206b",
+    "semantic_hash": "d7a423a8f2f9efb8583d9190f86c206b"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/durable-functions/task-hubs.md": {
+    "mtime": 1781557639.9858606,
+    "ast_hash": "dd65d4e9b49e3171be83aaa5c6009155",
+    "semantic_hash": "dd65d4e9b49e3171be83aaa5c6009155"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/05-cloud-azure/durable-functions/versioning.md": {
+    "mtime": 1781557640.2209451,
+    "ast_hash": "4a3428037e5b49b80a96014065b3d81d",
+    "semantic_hash": "4a3428037e5b49b80a96014065b3d81d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/cloud-tasks/configure-queues.md": {
+    "mtime": 1781557646.2388518,
+    "ast_hash": "0e275c849108c8d8fb961a0e25d800d1",
+    "semantic_hash": "0e275c849108c8d8fb961a0e25d800d1"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/cloud-tasks/create-queues.md": {
+    "mtime": 1781557643.7690127,
+    "ast_hash": "4bc822f92ce94e8ada69edd2bce0c214",
+    "semantic_hash": "4bc822f92ce94e8ada69edd2bce0c214"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/cloud-tasks/http-target-tasks.md": {
+    "mtime": 1781557643.5244143,
+    "ast_hash": "0600d8def62f5544eda9c56e71ecf96e",
+    "semantic_hash": "0600d8def62f5544eda9c56e71ecf96e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/06-cloud-gcp-firebase/cloud-tasks/retry.md": {
+    "mtime": 1781557646.2133932,
+    "ast_hash": "9f6d8c34aece3c08aadd0c712f5c49c5",
+    "semantic_hash": "9f6d8c34aece3c08aadd0c712f5c49c5"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/activemq-artemis/address-model.md": {
+    "mtime": 1781557592.6286879,
+    "ast_hash": "b91f6392822ca3b049c2ac90b2f8260f",
+    "semantic_hash": "b91f6392822ca3b049c2ac90b2f8260f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/activemq-artemis/core.md": {
+    "mtime": 1781557592.526415,
+    "ast_hash": "906a077de2421a7580b7802d2d7b6ed2",
+    "semantic_hash": "906a077de2421a7580b7802d2d7b6ed2"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/activemq-artemis/persistence.md": {
+    "mtime": 1781557594.70122,
+    "ast_hash": "91f4079525170350d0c9ec59cc37f6ae",
+    "semantic_hash": "91f4079525170350d0c9ec59cc37f6ae"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/kafka/protocol.md": {
+    "mtime": 1781557587.9840767,
+    "ast_hash": "8756d0658d9b80a47e7bbf54bed4a207",
+    "semantic_hash": "8756d0658d9b80a47e7bbf54bed4a207"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/nats/consumers.md": {
+    "mtime": 1781557593.916517,
+    "ast_hash": "0de254dc931059ad17b402df5cd7ea10",
+    "semantic_hash": "0de254dc931059ad17b402df5cd7ea10"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/nats/streams.md": {
+    "mtime": 1781557597.0689518,
+    "ast_hash": "2b49b3e716f55a1aa30244127a507060",
+    "semantic_hash": "2b49b3e716f55a1aa30244127a507060"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/rabbitmq/confirms.md": {
+    "mtime": 1781557588.6667707,
+    "ast_hash": "7cc7d4267ece3815fdb65a8777a6c16d",
+    "semantic_hash": "7cc7d4267ece3815fdb65a8777a6c16d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/rabbitmq/consumers.md": {
+    "mtime": 1781557588.6216152,
+    "ast_hash": "fb4a6a67dc9dc3e95392eb5e58bbcead",
+    "semantic_hash": "fb4a6a67dc9dc3e95392eb5e58bbcead"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/rabbitmq/dlx.md": {
+    "mtime": 1781557589.6407785,
+    "ast_hash": "a9e5dda52cf4ea3cddae782c9c1b844b",
+    "semantic_hash": "a9e5dda52cf4ea3cddae782c9c1b844b"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/rabbitmq/queues.md": {
+    "mtime": 1781557587.609196,
+    "ast_hash": "3de15183b9c7f672dc926da0fc3a50c8",
+    "semantic_hash": "3de15183b9c7f672dc926da0fc3a50c8"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/rabbitmq/reliability.md": {
+    "mtime": 1781557590.679779,
+    "ast_hash": "b93d4ccc1b20a2055730f16e8cd2c806",
+    "semantic_hash": "b93d4ccc1b20a2055730f16e8cd2c806"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/rabbitmq/streams.md": {
+    "mtime": 1781557590.3896823,
+    "ast_hash": "838d0f19a2c4539f6363cdfbba665d61",
+    "semantic_hash": "838d0f19a2c4539f6363cdfbba665d61"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/07-brokers/redis/pubsub.md": {
+    "mtime": 1781557597.3226998,
+    "ast_hash": "234d4a7bf2b0479d80fc6ccfb05c2065",
+    "semantic_hash": "234d4a7bf2b0479d80fc6ccfb05c2065"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/k8s-jobs/cronjob-task.md": {
+    "mtime": 1781557648.9913852,
+    "ast_hash": "0e4d6f2409b1ff20f07c6bfd7474ef30",
+    "semantic_hash": "0e4d6f2409b1ff20f07c6bfd7474ef30"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/k8s-jobs/disruptions.md": {
+    "mtime": 1781557652.7171836,
+    "ast_hash": "5ad65a97895c44444f946a9a81100ed5",
+    "semantic_hash": "5ad65a97895c44444f946a9a81100ed5"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/k8s-jobs/indexed.md": {
+    "mtime": 1781557651.3328457,
+    "ast_hash": "b4357b937d145fd3f5320993b001558d",
+    "semantic_hash": "b4357b937d145fd3f5320993b001558d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/k8s-jobs/pod-failure-policy.md": {
+    "mtime": 1781557649.1382792,
+    "ast_hash": "5aeb69a6e6817e3a1b96280dbe86994f",
+    "semantic_hash": "5aeb69a6e6817e3a1b96280dbe86994f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/08-container-batch/k8s-jobs/workqueue.md": {
+    "mtime": 1781557651.6999142,
+    "ast_hash": "cb357a66616a5c73763cfb4ec08e362e",
+    "semantic_hash": "cb357a66616a5c73763cfb4ec08e362e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/circleci/concepts.md": {
+    "mtime": 1781557599.6458497,
+    "ast_hash": "6e516a21f8f30bb148935e4750635ce2",
+    "semantic_hash": "6e516a21f8f30bb148935e4750635ce2"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/circleci/config-reference.md": {
+    "mtime": 1781557600.262348,
+    "ast_hash": "dc92730e8993b6d9c2fbacc2f295b172",
+    "semantic_hash": "dc92730e8993b6d9c2fbacc2f295b172"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/circleci/workflows.md": {
+    "mtime": 1781557602.4707162,
+    "ast_hash": "bb7034e03c206fb1d9a46ddd9b56d2ea",
+    "semantic_hash": "bb7034e03c206fb1d9a46ddd9b56d2ea"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/drone/pipelines.md": {
+    "mtime": 1781557601.9342952,
+    "ast_hash": "a842d383c9a209db009fcc350e35ad45",
+    "semantic_hash": "a842d383c9a209db009fcc350e35ad45"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/10-cicd/drone/triggers.md": {
+    "mtime": 1781557604.0958228,
+    "ast_hash": "0e664eb65543ce8ee07ddd3b1c93a106",
+    "semantic_hash": "0e664eb65543ce8ee07ddd3b1c93a106"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/cloudevents/http-binding.md": {
+    "mtime": 1781557684.9333513,
+    "ast_hash": "57d01e92d4650549d1d77718e6e9f520",
+    "semantic_hash": "57d01e92d4650549d1d77718e6e9f520"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/cloudevents/json-format.md": {
+    "mtime": 1781557687.551304,
+    "ast_hash": "17331a1217498832f74b6e0b4c0c31d4",
+    "semantic_hash": "17331a1217498832f74b6e0b4c0c31d4"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/cloudevents/kafka-binding.md": {
+    "mtime": 1781557686.5754611,
+    "ast_hash": "1d0f96b8dbecd67611d5917e260fbaba",
+    "semantic_hash": "1d0f96b8dbecd67611d5917e260fbaba"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/json-schema/reference.md": {
+    "mtime": 1781557603.1305761,
+    "ast_hash": "b6562efa75c8c4d3ffd300f293536192",
+    "semantic_hash": "b6562efa75c8c4d3ffd300f293536192"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/json-schema/structuring.md": {
+    "mtime": 1781557605.429614,
+    "ast_hash": "17cd447c10bc3b6c5ed47f7e8b988193",
+    "semantic_hash": "17cd447c10bc3b6c5ed47f7e8b988193"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/openapi/spec.md": {
+    "mtime": 1781557605.5037556,
+    "ast_hash": "d710f251ef73e7f46f1c3bf64ef96e32",
+    "semantic_hash": "d710f251ef73e7f46f1c3bf64ef96e32"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/serverless-workflow/dsl-reference.md": {
+    "mtime": 1781557691.0550032,
+    "ast_hash": "7a77b484a4e7c8793a2c8a0e46dd64f7",
+    "semantic_hash": "7a77b484a4e7c8793a2c8a0e46dd64f7"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/13-specs/serverless-workflow/dsl.md": {
+    "mtime": 1781557689.5443323,
+    "ast_hash": "4683167f44b469317a73fac76062bbfd",
+    "semantic_hash": "4683167f44b469317a73fac76062bbfd"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/patterns/aws-builder-library/avoiding-fallback.md": {
+    "mtime": 1781557680.6259563,
+    "ast_hash": "b773df816a5cda1cf9d18e497a5c67da",
+    "semantic_hash": "b773df816a5cda1cf9d18e497a5c67da"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/patterns/aws-builder-library/queue-backlogs.md": {
+    "mtime": 1781557680.753057,
+    "ast_hash": "3bc884657629178b1a2761aa50c37928",
+    "semantic_hash": "3bc884657629178b1a2761aa50c37928"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/patterns/aws-builder-library/timeouts-retries-backoff.md": {
+    "mtime": 1781557676.5537891,
+    "ast_hash": "1083e6a0c891162b5d93e2844af9bd84",
+    "semantic_hash": "1083e6a0c891162b5d93e2844af9bd84"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/patterns/aws-builder-library/workflow-state-machines.md": {
+    "mtime": 1781557683.0486653,
+    "ast_hash": "bf44a96361e3bbe455f15d0e042a8fac",
+    "semantic_hash": "bf44a96361e3bbe455f15d0e042a8fac"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/patterns/microservices-io/api-composition.md": {
+    "mtime": 1781557676.2127962,
+    "ast_hash": "f41f12b3bbaa1defd3a25027104770b7",
+    "semantic_hash": "f41f12b3bbaa1defd3a25027104770b7"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/patterns/microservices-io/cqrs.md": {
+    "mtime": 1781557673.30623,
+    "ast_hash": "6ad0ec54faf959f008d7a61b20d994b1",
+    "semantic_hash": "6ad0ec54faf959f008d7a61b20d994b1"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/patterns/microservices-io/event-sourcing.md": {
+    "mtime": 1781557674.275634,
+    "ast_hash": "c00d1cd84fd8d0bcfe6c39c09ddcef80",
+    "semantic_hash": "c00d1cd84fd8d0bcfe6c39c09ddcef80"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/patterns/microservices-io/messaging.md": {
+    "mtime": 1781557675.3213434,
+    "ast_hash": "bee324a3e7b00fe8c6d6078c82ae3fd7",
+    "semantic_hash": "bee324a3e7b00fe8c6d6078c82ae3fd7"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/patterns/microservices-io/saga.md": {
+    "mtime": 1781557672.548986,
+    "ast_hash": "ec3a11bc264e9ee108c3de5472b27110",
+    "semantic_hash": "ec3a11bc264e9ee108c3de5472b27110"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/patterns/microservices-io/transactional-outbox.md": {
+    "mtime": 1781557673.41791,
+    "ast_hash": "4473d5eb05a6ef757c7e503bf139c235",
+    "semantic_hash": "4473d5eb05a6ef757c7e503bf139c235"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/_SYNTHESIS.md": {
+    "mtime": 1781560722.1203706,
+    "ast_hash": "a4912dd5e15e4a93a7cab6d9f6a9e194",
+    "semantic_hash": "a4912dd5e15e4a93a7cab6d9f6a9e194"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/airflow-ui/overview.md": {
+    "mtime": 1781560471.0002434,
+    "ast_hash": "3454eaea7f51ffd29b377cb03bf678b2",
+    "semantic_hash": "3454eaea7f51ffd29b377cb03bf678b2"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/app-insights/overview.md": {
+    "mtime": 1781560481.51271,
+    "ast_hash": "809a237fb35bd7d0cf65f2d38e5dc155",
+    "semantic_hash": "809a237fb35bd7d0cf65f2d38e5dc155"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/argo-workflows-ui/server.md": {
+    "mtime": 1781560478.4972258,
+    "ast_hash": "febb5bc5e11b5fe17190966e8958ddc5",
+    "semantic_hash": "febb5bc5e11b5fe17190966e8958ddc5"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/batch-console/monitoring.md": {
+    "mtime": 1781560468.8657131,
+    "ast_hash": "5a10b2fffd119b618278b579363c5e7f",
+    "semantic_hash": "5a10b2fffd119b618278b579363c5e7f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/bull-board/readme.md": {
+    "mtime": 1781560474.511254,
+    "ast_hash": "85d6b62396e340b13417c7ee13bc45d0",
+    "semantic_hash": "85d6b62396e340b13417c7ee13bc45d0"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/cloud-tasks-console/monitoring.md": {
+    "mtime": 1781560484.3572423,
+    "ast_hash": "2ca637ada55b9438a7afc76cc15d8109",
+    "semantic_hash": "2ca637ada55b9438a7afc76cc15d8109"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/cloud-workflows-console/execution-history.md": {
+    "mtime": 1781560484.3568578,
+    "ast_hash": "b8576c400acfd7b0684b549a74f43d71",
+    "semantic_hash": "b8576c400acfd7b0684b549a74f43d71"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/cloudwatch/dashboards.md": {
+    "mtime": 1781560464.828374,
+    "ast_hash": "840fb2b79f7832a5fb93407b075f5a6c",
+    "semantic_hash": "840fb2b79f7832a5fb93407b075f5a6c"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/cloudwatch/what-is.md": {
+    "mtime": 1781560462.083997,
+    "ast_hash": "e80988da1be1949c1ff1390825e2b270",
+    "semantic_hash": "e80988da1be1949c1ff1390825e2b270"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/dagster-ui/webserver.md": {
+    "mtime": 1781560477.334069,
+    "ast_hash": "5528edae7801d785ee1ed91018e86387",
+    "semantic_hash": "5528edae7801d785ee1ed91018e86387"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/docker-compose/ps.md": {
+    "mtime": 1781560467.0823526,
+    "ast_hash": "f4fb270a2d641d9dd658ccdbd7e11c7c",
+    "semantic_hash": "f4fb270a2d641d9dd658ccdbd7e11c7c"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/docker-desktop/use-desktop.md": {
+    "mtime": 1781560466.0618415,
+    "ast_hash": "c7bed3d29e6ff6c22c9b2f5ea788ac30",
+    "semantic_hash": "c7bed3d29e6ff6c22c9b2f5ea788ac30"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/docker/container-logs.md": {
+    "mtime": 1781560468.0720851,
+    "ast_hash": "68c76e9d79513f39251acd8d398d6ed1",
+    "semantic_hash": "68c76e9d79513f39251acd8d398d6ed1"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/durable-functions/diagnostics.md": {
+    "mtime": 1781560481.303865,
+    "ast_hash": "3ed8c12c9faaa110b84e0ae7322eabb9",
+    "semantic_hash": "3ed8c12c9faaa110b84e0ae7322eabb9"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/flower/screenshots.md": {
+    "mtime": 1781560473.095972,
+    "ast_hash": "f9f2b44d4f5e3c123fb99d8f22ce61a3",
+    "semantic_hash": "f9f2b44d4f5e3c123fb99d8f22ce61a3"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/grafana/dashboards.md": {
+    "mtime": 1781560487.8929687,
+    "ast_hash": "13cc9fdefefdfd845f3dcf7e477c3d26",
+    "semantic_hash": "13cc9fdefefdfd845f3dcf7e477c3d26"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/grafana/panels.md": {
+    "mtime": 1781560488.8714237,
+    "ast_hash": "a2e1eb2aff91e635bee46850ea903d53",
+    "semantic_hash": "a2e1eb2aff91e635bee46850ea903d53"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/inngest/function-runs.md": {
+    "mtime": 1781560486.6178,
+    "ast_hash": "ce9d608fec5a5abe0aafe1c5cdcd4dac",
+    "semantic_hash": "ce9d608fec5a5abe0aafe1c5cdcd4dac"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/jobrunr-dashboard/overview.md": {
+    "mtime": 1781560475.9409354,
+    "ast_hash": "18d7f7eea4c041cb6952b0ac1ef0f3c0",
+    "semantic_hash": "18d7f7eea4c041cb6952b0ac1ef0f3c0"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/k9s/overview.md": {
+    "mtime": 1781560455.8021312,
+    "ast_hash": "e3fcdf2028bf814c42fc62115bdafa1d",
+    "semantic_hash": "e3fcdf2028bf814c42fc62115bdafa1d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/kubernetes/dashboard.md": {
+    "mtime": 1781560453.8212423,
+    "ast_hash": "08386f530508daebab4bd5ea88e0a80c",
+    "semantic_hash": "08386f530508daebab4bd5ea88e0a80c"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/kubernetes/kubectl-quickref.md": {
+    "mtime": 1781560455.8039885,
+    "ast_hash": "1c938a5ce0019bc25099bf5391a57436",
+    "semantic_hash": "1c938a5ce0019bc25099bf5391a57436"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/lens/overview.md": {
+    "mtime": 1781560458.359202,
+    "ast_hash": "48f25e788a361dfa5fd39a3c092385fe",
+    "semantic_hash": "48f25e788a361dfa5fd39a3c092385fe"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/portainer/overview.md": {
+    "mtime": 1781560471.3765037,
+    "ast_hash": "0d11f60567bbca9fbacffa6764475cf2",
+    "semantic_hash": "0d11f60567bbca9fbacffa6764475cf2"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/prefect-ui/dashboard.md": {
+    "mtime": 1781560480.8337805,
+    "ast_hash": "48114d91790ea3f0448775bc70b06d98",
+    "semantic_hash": "48114d91790ea3f0448775bc70b06d98"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/sidekiq-web/monitoring.md": {
+    "mtime": 1781560476.111126,
+    "ast_hash": "93ac22c7c1a13c4691188c00d4c130a2",
+    "semantic_hash": "93ac22c7c1a13c4691188c00d4c130a2"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/sqs-console/monitoring.md": {
+    "mtime": 1781560464.8757489,
+    "ast_hash": "4a135f2ce3c8e65a729936fcd169fc32",
+    "semantic_hash": "4a135f2ce3c8e65a729936fcd169fc32"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/step-functions-console/execution-details.md": {
+    "mtime": 1781560461.5708754,
+    "ast_hash": "55d1b0c47b7932834518ab511ccca9e8",
+    "semantic_hash": "55d1b0c47b7932834518ab511ccca9e8"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/step-functions-console/workflow-studio.md": {
+    "mtime": 1781560460.303218,
+    "ast_hash": "5d652828443382b037765a8883b67b0d",
+    "semantic_hash": "5d652828443382b037765a8883b67b0d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/temporal/cloud-ui.md": {
+    "mtime": 1781560453.2224987,
+    "ast_hash": "9ff9f4ce2daba31ff3be827aad711189",
+    "semantic_hash": "9ff9f4ce2daba31ff3be827aad711189"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/temporal/web-ui.md": {
+    "mtime": 1781560452.0543993,
+    "ast_hash": "b7fd9c36f630bc1b45a855b99bc7c1d0",
+    "semantic_hash": "b7fd9c36f630bc1b45a855b99bc7c1d0"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/15-ui-monitoring/trigger-dev/runs-dashboard.md": {
+    "mtime": 1781560488.431806,
+    "ast_hash": "f72c74511fef71595be2eb47f94f2c3b",
+    "semantic_hash": "f72c74511fef71595be2eb47f94f2c3b"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/borg-omega/borg-paper.md": {
+    "mtime": 1781561030.3543246,
+    "ast_hash": "90c77b082093cb2e34d9c43671dcbaf6",
+    "semantic_hash": "90c77b082093cb2e34d9c43671dcbaf6"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/eip/competing-consumers.md": {
+    "mtime": 1781561021.4544241,
+    "ast_hash": "86b23a6a45ff9c76e5d09477e853f3f3",
+    "semantic_hash": "86b23a6a45ff9c76e5d09477e853f3f3"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/eip/dead-letter-channel.md": {
+    "mtime": 1781561018.9498334,
+    "ast_hash": "c66b931a8043511c3d87404f2a013b9d",
+    "semantic_hash": "c66b931a8043511c3d87404f2a013b9d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/eip/guaranteed-delivery.md": {
+    "mtime": 1781561019.045509,
+    "ast_hash": "2e5c0d4780d193bd68fcf43cb63cd54a",
+    "semantic_hash": "2e5c0d4780d193bd68fcf43cb63cd54a"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/eip/idempotent-receiver.md": {
+    "mtime": 1781561020.8455722,
+    "ast_hash": "ffb15d81026469be626ab9686d194d29",
+    "semantic_hash": "ffb15d81026469be626ab9686d194d29"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/eip/message-channel.md": {
+    "mtime": 1781561022.940504,
+    "ast_hash": "568425f94c95e4338e5e2397e240d610",
+    "semantic_hash": "568425f94c95e4338e5e2397e240d610"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/eip/transactional-client.md": {
+    "mtime": 1781561022.9410362,
+    "ast_hash": "c6f738bdb76e55ce636d3e24cca6d8f0",
+    "semantic_hash": "c6f738bdb76e55ce636d3e24cca6d8f0"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/patterns-distributed/heartbeat.md": {
+    "mtime": 1781561015.4624767,
+    "ast_hash": "35b7bd4fccb65885b8116f636d3ac3ae",
+    "semantic_hash": "35b7bd4fccb65885b8116f636d3ac3ae"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/patterns-distributed/idempotent-receiver.md": {
+    "mtime": 1781561014.9373608,
+    "ast_hash": "4882aa984c3d2ee3ca224571440ce764",
+    "semantic_hash": "4882aa984c3d2ee3ca224571440ce764"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/patterns-distributed/index.md": {
+    "mtime": 1781561010.9120066,
+    "ast_hash": "66388d57ec81964cdcce03b0c51b6b62",
+    "semantic_hash": "66388d57ec81964cdcce03b0c51b6b62"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/patterns-distributed/leader-follower.md": {
+    "mtime": 1781561016.5600224,
+    "ast_hash": "7ffbf8a909c45edd4e0b9cab52a5eece",
+    "semantic_hash": "7ffbf8a909c45edd4e0b9cab52a5eece"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/patterns-distributed/lease.md": {
+    "mtime": 1781561012.8391712,
+    "ast_hash": "9348c27d443440edbde1655b045ac6ee",
+    "semantic_hash": "9348c27d443440edbde1655b045ac6ee"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/patterns-distributed/state-watch.md": {
+    "mtime": 1781561016.6963854,
+    "ast_hash": "5e794d01ee98e69ca1345e6e43fe0154",
+    "semantic_hash": "5e794d01ee98e69ca1345e6e43fe0154"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/patterns-distributed/write-ahead-log.md": {
+    "mtime": 1781561012.999433,
+    "ast_hash": "e29005f2c8aa272616af1c59834f702b",
+    "semantic_hash": "e29005f2c8aa272616af1c59834f702b"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/raft/paper.md": {
+    "mtime": 1781561025.7093985,
+    "ast_hash": "36aecb9f8f427740fa4237aa9fd38cd9",
+    "semantic_hash": "36aecb9f8f427740fa4237aa9fd38cd9"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/sre-book/addressing-cascading-failures.md": {
+    "mtime": 1781561008.0965433,
+    "ast_hash": "0f7646070612d70a04ad98203445b195",
+    "semantic_hash": "0f7646070612d70a04ad98203445b195"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/sre-book/data-processing-pipelines.md": {
+    "mtime": 1781561008.6819553,
+    "ast_hash": "7c25771bb88482958bb8d15efe7a020e",
+    "semantic_hash": "7c25771bb88482958bb8d15efe7a020e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/sre-book/distributed-periodic-scheduling.md": {
+    "mtime": 1781561009.6636388,
+    "ast_hash": "1ea6f4ff97de7f334c1d4aaa6613ee87",
+    "semantic_hash": "1ea6f4ff97de7f334c1d4aaa6613ee87"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/sre-book/eliminating-toil.md": {
+    "mtime": 1781561005.7902155,
+    "ast_hash": "ddc35bad51f1e672c702931f61929838",
+    "semantic_hash": "ddc35bad51f1e672c702931f61929838"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/sre-book/embracing-risk.md": {
+    "mtime": 1781561005.0649824,
+    "ast_hash": "14ee08243d0d2e72bb0527838d9c332f",
+    "semantic_hash": "14ee08243d0d2e72bb0527838d9c332f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/sre-book/handling-overload.md": {
+    "mtime": 1781561005.7307508,
+    "ast_hash": "3655131857e3b496c9397008b5b5d729",
+    "semantic_hash": "3655131857e3b496c9397008b5b5d729"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/sre-book/managing-critical-state.md": {
+    "mtime": 1781561011.0660882,
+    "ast_hash": "575b297b28c061296ea25a919be283c2",
+    "semantic_hash": "575b297b28c061296ea25a919be283c2"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/sre-book/service-level-objectives.md": {
+    "mtime": 1781561004.2315023,
+    "ast_hash": "e2b9a19de6580d3eb4f6e2570af39d05",
+    "semantic_hash": "e2b9a19de6580d3eb4f6e2570af39d05"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/stripe-idempotency/blog.md": {
+    "mtime": 1781561024.3813162,
+    "ast_hash": "4c93087c34e0d7d13e33e3c37a741882",
+    "semantic_hash": "4c93087c34e0d7d13e33e3c37a741882"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/tail-at-scale/paper.md": {
+    "mtime": 1781561030.3614836,
+    "ast_hash": "3feba0bdf4db9f5f686635691857486a",
+    "semantic_hash": "3feba0bdf4db9f5f686635691857486a"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/16-education/uber-cadence/blog.md": {
+    "mtime": 1781561028.4972668,
+    "ast_hash": "78c277239bb2cacf6175a3a30db446ae",
+    "semantic_hash": "78c277239bb2cacf6175a3a30db446ae"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/aws-iam/batch-actions.md": {
+    "mtime": 1781566251.539435,
+    "ast_hash": "2bdfced6c4100837862508876bdc9b42",
+    "semantic_hash": "2bdfced6c4100837862508876bdc9b42"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/aws-iam/stepfunctions-actions.md": {
+    "mtime": 1781566254.7681723,
+    "ast_hash": "50c3615356e3e4adab3680b66b1691d8",
+    "semantic_hash": "50c3615356e3e4adab3680b66b1691d8"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/confluent-eos/blog.md": {
+    "mtime": 1781566265.4842951,
+    "ast_hash": "1ea72430b4600ef5234602993e370a14",
+    "semantic_hash": "1ea72430b4600ef5234602993e370a14"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/eip-claim-check/store-in-library.md": {
+    "mtime": 1781566259.1226363,
+    "ast_hash": "ca649f041ed4934bb9e28feee5bb1dbf",
+    "semantic_hash": "ca649f041ed4934bb9e28feee5bb1dbf"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/failure-taxonomy/dlq-redrive.md": {
+    "mtime": 1781566273.8061702,
+    "ast_hash": "8c1975e6133c167273c7a4ded5cc0d1b",
+    "semantic_hash": "8c1975e6133c167273c7a4ded5cc0d1b"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/hexagonal/cockburn.md": {
+    "mtime": 1781566271.8406096,
+    "ast_hash": "601d252c4ab12692fffed7772fcca67e",
+    "semantic_hash": "601d252c4ab12692fffed7772fcca67e"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/idempotent-consumer/pattern.md": {
+    "mtime": 1781566262.6820846,
+    "ast_hash": "27813e8d6f401d1d728e145f90661170",
+    "semantic_hash": "27813e8d6f401d1d728e145f90661170"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/k8s-rbac/overview.md": {
+    "mtime": 1781566254.440239,
+    "ast_hash": "b8b1bbf608dace42e46b1cb1b8ee9d43",
+    "semantic_hash": "b8b1bbf608dace42e46b1cb1b8ee9d43"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/keda-scaling/deployments.md": {
+    "mtime": 1781566267.4775379,
+    "ast_hash": "2c4c80caa453747dc00462ba85c5e6b6",
+    "semantic_hash": "2c4c80caa453747dc00462ba85c5e6b6"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/keda-scaling/jobs.md": {
+    "mtime": 1781566269.9494956,
+    "ast_hash": "c862910de5dd0ec6318f07eadb220ed4",
+    "semantic_hash": "c862910de5dd0ec6318f07eadb220ed4"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/lambda-scaling/provisioned-concurrency.md": {
+    "mtime": 1781566270.8749845,
+    "ast_hash": "6b34ebc7700617bc7bb396c38bed5fb5",
+    "semantic_hash": "6b34ebc7700617bc7bb396c38bed5fb5"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/localstack-chaos/overview.md": {
+    "mtime": 1781566269.2703505,
+    "ast_hash": "b6b3c7ce97dcf42b126e28d99c9c9fea",
+    "semantic_hash": "b6b3c7ce97dcf42b126e28d99c9c9fea"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/otel-semconv/general-metrics.md": {
+    "mtime": 1781566245.176895,
+    "ast_hash": "6eec3615ad18db399f6688a4a572cb0f",
+    "semantic_hash": "6eec3615ad18db399f6688a4a572cb0f"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/otel-semconv/messaging-metrics.md": {
+    "mtime": 1781566243.6860604,
+    "ast_hash": "266ec118519cb7e90aa5e9a839a85345",
+    "semantic_hash": "266ec118519cb7e90aa5e9a839a85345"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/otel-semconv/messaging-spans.md": {
+    "mtime": 1781566253.0011325,
+    "ast_hash": "d44eb8e0be74079462c61d1d77c9fc95",
+    "semantic_hash": "d44eb8e0be74079462c61d1d77c9fc95"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/sns-data-protection/overview.md": {
+    "mtime": 1781566260.2221231,
+    "ast_hash": "dc4151e5199caf4849b25815cc40305a",
+    "semantic_hash": "dc4151e5199caf4849b25815cc40305a"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/sqs-encryption/sse.md": {
+    "mtime": 1781566257.0155058,
+    "ast_hash": "8b47b73f21219bddbe0bbbddbad7671d",
+    "semantic_hash": "8b47b73f21219bddbe0bbbddbad7671d"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/sqs-large-messages/s3.md": {
+    "mtime": 1781566262.4136622,
+    "ast_hash": "969b9d31bf9752c9526a2700cf894cae",
+    "semantic_hash": "969b9d31bf9752c9526a2700cf894cae"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/strangler-fig/essay.md": {
+    "mtime": 1781566270.7249174,
+    "ast_hash": "7c14969b189224f6ef119d41a3e51943",
+    "semantic_hash": "7c14969b189224f6ef119d41a3e51943"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/temporal-encryption/data-encryption.md": {
+    "mtime": 1781566257.1631055,
+    "ast_hash": "8d4034e796d8096e37d8886bbc80c562",
+    "semantic_hash": "8d4034e796d8096e37d8886bbc80c562"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/temporal-security/authorization.md": {
+    "mtime": 1781566248.473156,
+    "ast_hash": "4c34a08987df64ceb9942cd6838875f2",
+    "semantic_hash": "4c34a08987df64ceb9942cd6838875f2"
+  },
+  "/Users/tylerj2/Documents/GitHub/Jobs-System/docs/17-gap-fill/temporal-testing/suite.md": {
+    "mtime": 1781566265.549075,
+    "ast_hash": "c8ea48d596d9824716b428d747e99c66",
+    "semantic_hash": "c8ea48d596d9824716b428d747e99c66"
+  }
+}
