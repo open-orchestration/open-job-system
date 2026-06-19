@@ -1,1 +1,4 @@
 .firecrawl/
+.DS_Store
+.graphify/
+docs/_*.log
