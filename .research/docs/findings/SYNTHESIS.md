@@ -1,0 +1,27 @@
+# Synthesis — promoted findings
+
+- [Reliability and delivery guarantees across BullMQ, Sidekiq, and Celery](d8564cbd0-reliability-delivery-guarantees.md) — reliability
+- [Observability and monitoring stack for job systems](d629d7d60-observability-monitoring-stack.md) — observability
+- [Task queue architecture across ecosystems](daf5dbe8a-task-queue-architecture.md) — task-queues
+- [Workflow orchestration engines: authoring models and execution](d86b66b28-workflow-orchestration-engines.md) — workflow-orchestration
+- [Durable execution: the persist-and-resume model and its delivery shapes](dd681af26-durable-execution-model.md) — durable-execution
+- [AWS managed job primitives: orchestration, queue, pub-sub, compute, scheduling](d4e4f56ce-aws-managed-primitives.md) — cloud-aws
+- [Azure managed job primitives and how they mirror the AWS stack](d2067494d-azure-managed-primitives.md) — cloud-azure
+- [GCP and Firebase managed job primitives complete the three-cloud parallel](dc998e846-gcp-firebase-managed-primitives.md) — cloud-gcp-firebase
+- [Message brokers: the queue vs log/stream paradigm split](d8bd7fe16-broker-paradigms.md) — brokers
+- [Compute substrate: Kubernetes batch primitives, queueing, and the HPC lineage](d63f65f39-compute-substrate-batch.md) — container-batch
+- [Data pipeline stack: capture, process, transform](d8ebac5c4-data-pipeline-stack.md) — data-pipeline
+- [CI/CD systems as job-graph executors for build, test, deploy](d2669ec87-cicd-job-graph-executors.md) — cicd
+- [systemd timers as a scheduling primitive: design lessons](d2314b94b-systemd-timers-scheduling.md) — scheduling
+- [Vendor-neutral specs as the portability layer for a generic job system](d6904c58a-specs-portability-layer.md) — specs
+- [Local parity via cloud emulators and Testcontainers](dd8f96260-local-dev-parity.md) — local-dev
+- [Operator UIs: engine-native dashboards vs general observability](d8c5f2828-operator-uis.md) — ui-monitoring
+- [The canonical patterns the catalog's tools instantiate](d5797c35a-canonical-patterns.md) — education
+- [Cross-cutting concerns: ports-and-adapters, idempotency, chaos, OTel conventions](da41bf2a7-cross-cutting-concerns.md) — gap-fill
+- [Core transactional and resilience patterns for distributed jobs](da9c1d5da-core-patterns.md) — patterns
+- [Throughput characteristics across Sidekiq, Celery, Temporal, and River](d7c5d5a95-throughput.md) — throughput
+- [Reliability and delivery guarantees: Temporal, River, and the delivery-guarantee divide](d2695a4d9-temporal-river-reliability.md) — reliability
+- [Operational complexity across BullMQ, Sidekiq, Celery, Temporal, and River](dd3344178-operational-complexity.md) — operational-complexity
+- [Reliability and distributed-systems principles a generic job system must embody](d14062f6d-education-deepening.md) — education
+- [Task queue engines in depth: configuration, retries, scheduling, and per-engine design](d77e4ce35-task-queues-deepening.md) — task-queues
+- [Operator UIs in depth: engine dashboards, cloud consoles, and container monitoring](d0c6ef52a-ui-monitoring-deepening.md) — ui-monitoring

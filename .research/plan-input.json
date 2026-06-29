@@ -1,0 +1,28 @@
+{
+  "shape": "comparison",
+  "entities": ["BullMQ", "Sidekiq", "Celery", "Temporal", "River"],
+  "dimensions": [
+    {"name": "reliability", "why": "Delivery guarantees, retries, and failure handling decide whether jobs survive crashes."},
+    {"name": "throughput", "why": "Sustained jobs/sec and latency under load determine fit for high-volume workloads."},
+    {"name": "operational complexity", "why": "Backing store, deployment, and observability burden drive total cost of ownership."}
+  ],
+  "topics": [],
+  "seed_gaps": [
+    {"topic": "reliability", "desc": "BullMQ reliability"},
+    {"topic": "reliability", "desc": "Sidekiq reliability"},
+    {"topic": "reliability", "desc": "Celery reliability"},
+    {"topic": "reliability", "desc": "Temporal reliability"},
+    {"topic": "reliability", "desc": "River reliability"},
+    {"topic": "throughput", "desc": "BullMQ throughput"},
+    {"topic": "throughput", "desc": "Sidekiq throughput"},
+    {"topic": "throughput", "desc": "Celery throughput"},
+    {"topic": "throughput", "desc": "Temporal throughput"},
+    {"topic": "throughput", "desc": "River throughput"},
+    {"topic": "operational complexity", "desc": "BullMQ operational complexity"},
+    {"topic": "operational complexity", "desc": "Sidekiq operational complexity"},
+    {"topic": "operational complexity", "desc": "Celery operational complexity"},
+    {"topic": "operational complexity", "desc": "Temporal operational complexity"},
+    {"topic": "operational complexity", "desc": "River operational complexity"}
+  ],
+  "rationale": "Five widely-used job/queue systems already documented in the catalog, compared on the three dimensions that most distinguish them: reliability, throughput, and operational complexity."
+}
