@@ -36,3 +36,9 @@
 - [SQS architecture and choosing among SQS, SNS, and Amazon MQ](d8e19f3eb-sqs-architecture.md) — cloud-aws
 - [Lambda asynchronous invocation: internal queue, retries, and DLQ](d8cbd8bbc-lambda-async-invoke.md) — cloud-aws
 - [AWS managed orchestration and integration service landscape](d44366119-aws-orchestration-landscape.md) — cloud-aws
+- [Temporal production hardening: security, payload codecs, and SDK testing](d7114325c-temporal-production-hardening.md) — gap-fill
+- [KEDA event-driven autoscaling: ScaledObject vs ScaledJob](d1f3c9011-keda-scaledobject-vs-scaledjob.md) — gap-fill
+- [AWS messaging security and large-payload handling: SQS encryption, S3 extended client, SNS data protection](de418bb60-aws-messaging-security.md) — gap-fill
+- [OpenTelemetry messaging semantic conventions: spans and metrics](d88e13383-otel-messaging-semconv.md) — gap-fill
+- [Authorization models: AWS IAM action/resource/condition keys vs Kubernetes RBAC](d1e67736c-iam-vs-k8s-rbac.md) — gap-fill
+- [Lambda provisioned concurrency](d297f224c-lambda-provisioned-concurrency.md) — gap-fill

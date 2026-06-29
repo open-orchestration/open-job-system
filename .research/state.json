@@ -4866,6 +4866,92 @@
       "created_at": "2026-06-29T22:03:45.660194+00:00",
       "promoted_path": ".research/docs/findings/d44366119-aws-orchestration-landscape.md",
       "promoted_at": "2026-06-29T22:07:11.080670+00:00"
+    },
+    {
+      "id": "d1f3c9011",
+      "topic": "gap-fill",
+      "title": "KEDA event-driven autoscaling: ScaledObject vs ScaledJob",
+      "path": ".research/docs/findings/_drafts/d1f3c9011-keda-scaledobject-vs-scaledjob.md",
+      "status": "promoted",
+      "cites": [
+        "c3d1ba0f9",
+        "c9e3c6415"
+      ],
+      "created_at": "2026-06-29T22:12:01.297314+00:00",
+      "promoted_path": ".research/docs/findings/d1f3c9011-keda-scaledobject-vs-scaledjob.md",
+      "promoted_at": "2026-06-29T22:14:36.733788+00:00"
+    },
+    {
+      "id": "d7114325c",
+      "topic": "gap-fill",
+      "title": "Temporal production hardening: security, payload codecs, and SDK testing",
+      "path": ".research/docs/findings/_drafts/d7114325c-temporal-production-hardening.md",
+      "status": "promoted",
+      "cites": [
+        "caa7de4d5",
+        "c89d6b902",
+        "cf4aa1182"
+      ],
+      "created_at": "2026-06-29T22:12:09.068069+00:00",
+      "promoted_path": ".research/docs/findings/d7114325c-temporal-production-hardening.md",
+      "promoted_at": "2026-06-29T22:14:29.271994+00:00"
+    },
+    {
+      "id": "d88e13383",
+      "topic": "gap-fill",
+      "title": "OpenTelemetry messaging semantic conventions: spans and metrics",
+      "path": ".research/docs/findings/_drafts/d88e13383-otel-messaging-semconv.md",
+      "status": "promoted",
+      "cites": [
+        "cca20d4f3",
+        "cff54f8f9"
+      ],
+      "created_at": "2026-06-29T22:12:18.946420+00:00",
+      "promoted_path": ".research/docs/findings/d88e13383-otel-messaging-semconv.md",
+      "promoted_at": "2026-06-29T22:16:07.977082+00:00"
+    },
+    {
+      "id": "de418bb60",
+      "topic": "gap-fill",
+      "title": "AWS messaging security and large-payload handling: SQS encryption, S3 extended client, SNS data protection",
+      "path": ".research/docs/findings/_drafts/de418bb60-aws-messaging-security.md",
+      "status": "promoted",
+      "cites": [
+        "c267065f9",
+        "cbdefa73b",
+        "c37c4c489"
+      ],
+      "created_at": "2026-06-29T22:12:27.583537+00:00",
+      "promoted_path": ".research/docs/findings/de418bb60-aws-messaging-security.md",
+      "promoted_at": "2026-06-29T22:14:54.215489+00:00"
+    },
+    {
+      "id": "d1e67736c",
+      "topic": "gap-fill",
+      "title": "Authorization models: AWS IAM action/resource/condition keys vs Kubernetes RBAC",
+      "path": ".research/docs/findings/_drafts/d1e67736c-iam-vs-k8s-rbac.md",
+      "status": "promoted",
+      "cites": [
+        "c6e762213",
+        "cf0410bb1",
+        "c46b7793b"
+      ],
+      "created_at": "2026-06-29T22:14:04.063144+00:00",
+      "promoted_path": ".research/docs/findings/d1e67736c-iam-vs-k8s-rbac.md",
+      "promoted_at": "2026-06-29T22:16:13.268449+00:00"
+    },
+    {
+      "id": "d297f224c",
+      "topic": "gap-fill",
+      "title": "Lambda provisioned concurrency",
+      "path": ".research/docs/findings/_drafts/d297f224c-lambda-provisioned-concurrency.md",
+      "status": "promoted",
+      "cites": [
+        "ca2f1f62b"
+      ],
+      "created_at": "2026-06-29T22:14:04.143811+00:00",
+      "promoted_path": ".research/docs/findings/d297f224c-lambda-provisioned-concurrency.md",
+      "promoted_at": "2026-06-29T22:17:16.441395+00:00"
     }
   ],
   "goal": {
