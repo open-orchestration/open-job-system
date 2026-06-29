@@ -1,2808 +1,2808 @@
 {
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/c30e424ce-g4e1b604f-temporal-durable-execution-reliability-guarantees-on-target-source-5.md": {
-    "mtime": 1782758573.3449812,
+    "mtime": 1782767532.989578,
     "ast_hash": "0ed95beb3437a52908fe312b48e4abc0",
     "semantic_hash": "0ed95beb3437a52908fe312b48e4abc0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/c427d1dd9-gcd302038-bullmq-reliability-2.md": {
-    "mtime": 1782748092.0225441,
+    "mtime": 1782767532.9898276,
     "ast_hash": "e754ba72bcdc0eb12106e82c451631b6",
     "semantic_hash": "e754ba72bcdc0eb12106e82c451631b6"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/c4397ad66-g4e1b604f-temporal-durable-execution-reliability-guarantees-on-target-source-3.md": {
-    "mtime": 1782758573.054687,
+    "mtime": 1782767532.9900696,
     "ast_hash": "a11b9c0441a772ade8374ea52961631f",
     "semantic_hash": "a11b9c0441a772ade8374ea52961631f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/c4cd6492f-g89573fbe-per-engine-delivery-guarantee-class-at-least-once-vs-exactly-once-1.md": {
-    "mtime": 1782758573.5067723,
+    "mtime": 1782767532.990271,
     "ast_hash": "68884996b97ff32d794aed2b5e54b57f",
     "semantic_hash": "68884996b97ff32d794aed2b5e54b57f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/c5e9d5baa-g89573fbe-per-engine-delivery-guarantee-class-at-least-once-vs-exactly-once-5.md": {
-    "mtime": 1782758574.1102803,
+    "mtime": 1782767532.990433,
     "ast_hash": "c47484d4ca0ceef15aae5e8662d04a4f",
     "semantic_hash": "c47484d4ca0ceef15aae5e8662d04a4f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/c6030ea42-g15f5eada-temporal-reliability-2.md": {
-    "mtime": 1782748091.2489643,
+    "mtime": 1782767532.9906733,
     "ast_hash": "6fa6dda995bed0f73cc7c4e1d4146009",
     "semantic_hash": "6fa6dda995bed0f73cc7c4e1d4146009"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/c64285464-g4e1b604f-temporal-durable-execution-reliability-guarantees-on-target-source-4.md": {
-    "mtime": 1782758573.1993153,
+    "mtime": 1782767532.990889,
     "ast_hash": "b68420a11b33af5288d65768ce6fd777",
     "semantic_hash": "b68420a11b33af5288d65768ce6fd777"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/c7b4003f6-g3edaad3d-sidekiq-reliability-3.md": {
-    "mtime": 1782748091.3943498,
+    "mtime": 1782767532.9910681,
     "ast_hash": "35d82118c15008848a24cf85c5b5cdaa",
     "semantic_hash": "35d82118c15008848a24cf85c5b5cdaa"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/c80bc2a20-g4e1b604f-temporal-durable-execution-reliability-guarantees-on-target-source-1.md": {
-    "mtime": 1782758572.7613227,
+    "mtime": 1782767532.9912481,
     "ast_hash": "cc78588ad2587468c0d68ffdbf844684",
     "semantic_hash": "cc78588ad2587468c0d68ffdbf844684"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/c8a3755a2-gd8033e57-river-postgres-backed-transactional-enqueue-reliability-3.md": {
-    "mtime": 1782758574.4051511,
+    "mtime": 1782767532.9914782,
     "ast_hash": "63accc2ba7930390c5863e19b56ebc69",
     "semantic_hash": "63accc2ba7930390c5863e19b56ebc69"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/c9397f0cc-g6561afa0-celery-reliability-4.md": {
-    "mtime": 1782748091.73713,
+    "mtime": 1782767532.9916947,
     "ast_hash": "78ce98d21503554c822dfec35be32d90",
     "semantic_hash": "78ce98d21503554c822dfec35be32d90"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/c9d6b59a6-gcd302038-bullmq-reliability-5.md": {
-    "mtime": 1782748092.1652718,
+    "mtime": 1782767532.9919715,
     "ast_hash": "159da8a0ab9717b1879d46d5b0bf70a8",
     "semantic_hash": "159da8a0ab9717b1879d46d5b0bf70a8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/ca14577a1-g6561afa0-celery-reliability-5.md": {
-    "mtime": 1782748091.8815594,
+    "mtime": 1782767532.992506,
     "ast_hash": "e9fae1d82288ad3579ab225805d1bebf",
     "semantic_hash": "e9fae1d82288ad3579ab225805d1bebf"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/ca2130003-g89573fbe-per-engine-delivery-guarantee-class-at-least-once-vs-exactly-once-3.md": {
-    "mtime": 1782758573.7975585,
+    "mtime": 1782767532.9927845,
     "ast_hash": "daf3bb4e4a6b28d535b050b91544db90",
     "semantic_hash": "daf3bb4e4a6b28d535b050b91544db90"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/cc64e3fc3-gd8033e57-river-postgres-backed-transactional-enqueue-reliability-1.md": {
-    "mtime": 1782758574.2575898,
+    "mtime": 1782767532.9929893,
     "ast_hash": "4c23a99a1939af679e280121a0db518e",
     "semantic_hash": "4c23a99a1939af679e280121a0db518e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/cc6fc3ea0-gd8033e57-river-postgres-backed-transactional-enqueue-reliability-5.md": {
-    "mtime": 1782758574.551722,
+    "mtime": 1782767532.993229,
     "ast_hash": "ebd5ba0cd5de2bde63331a298e74d091",
     "semantic_hash": "ebd5ba0cd5de2bde63331a298e74d091"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/cd107853c-g89573fbe-per-engine-delivery-guarantee-class-at-least-once-vs-exactly-once-4.md": {
-    "mtime": 1782758573.9460835,
+    "mtime": 1782767532.9934068,
     "ast_hash": "919249b956ed539dfee30b48644fb3b5",
     "semantic_hash": "919249b956ed539dfee30b48644fb3b5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/cd3da7a01-g89573fbe-per-engine-delivery-guarantee-class-at-least-once-vs-exactly-once-2.md": {
-    "mtime": 1782758573.6523845,
+    "mtime": 1782767532.993968,
     "ast_hash": "bf2c419d47fe62a8c75b2fe6ede94210",
     "semantic_hash": "bf2c419d47fe62a8c75b2fe6ede94210"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/cf6b75357-g6561afa0-celery-reliability-2.md": {
-    "mtime": 1782748091.538177,
+    "mtime": 1782767532.994216,
     "ast_hash": "77e9bc8dc28622def693a51881b03974",
     "semantic_hash": "77e9bc8dc28622def693a51881b03974"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/01-reliability/sources/cfca4102b-g4e1b604f-temporal-durable-execution-reliability-guarantees-on-target-source-2.md": {
-    "mtime": 1782758572.906249,
+    "mtime": 1782767532.9944263,
     "ast_hash": "a74e483a994925d7ce8ea1aa03818d2b",
     "semantic_hash": "a74e483a994925d7ce8ea1aa03818d2b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c09a53b6b-best-practices.md": {
-    "mtime": 1782749867.202722,
+    "mtime": 1782767532.9946127,
     "ast_hash": "d3cf2e5e871f73607fd1c450ad963ed5",
     "semantic_hash": "d3cf2e5e871f73607fd1c450ad963ed5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c09a53b6b-sidekiq-best-practices.md": {
-    "mtime": 1782749959.6455417,
+    "mtime": 1782767532.9946945,
     "ast_hash": "d3cf2e5e871f73607fd1c450ad963ed5",
     "semantic_hash": "d3cf2e5e871f73607fd1c450ad963ed5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c250479ba-river-docs.md": {
-    "mtime": 1782749959.209495,
+    "mtime": 1782767532.9948297,
     "ast_hash": "9fcac2eddb7727f1498931e2dab74ca8",
     "semantic_hash": "9fcac2eddb7727f1498931e2dab74ca8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c2890f63d-pg-boss-readme.md": {
-    "mtime": 1782749958.7692351,
+    "mtime": 1782767532.9950435,
     "ast_hash": "5444176057a8a1d5732f6154ad3a0b2e",
     "semantic_hash": "5444176057a8a1d5732f6154ad3a0b2e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c2d724def-resque-readme.md": {
-    "mtime": 1782749959.0642517,
+    "mtime": 1782767532.9951565,
     "ast_hash": "f1678abbc3a15e8c1d9b5d6f71cec60b",
     "semantic_hash": "f1678abbc3a15e8c1d9b5d6f71cec60b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c3f216354-huey-overview.md": {
-    "mtime": 1782749958.179727,
+    "mtime": 1782767532.9952717,
     "ast_hash": "a39218f69d4e7d0e210dffb494610611",
     "semantic_hash": "a39218f69d4e7d0e210dffb494610611"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c41c51928-celery-routing.md": {
-    "mtime": 1782749957.1394439,
+    "mtime": 1782767532.9953587,
     "ast_hash": "c3d59e7e0c40659e0eee2e13ba92a2af",
     "semantic_hash": "c3d59e7e0c40659e0eee2e13ba92a2af"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c41c51928-routing.md": {
-    "mtime": 1782749870.5192373,
+    "mtime": 1782767532.9954271,
     "ast_hash": "c3d59e7e0c40659e0eee2e13ba92a2af",
     "semantic_hash": "c3d59e7e0c40659e0eee2e13ba92a2af"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c484ea7d7-asynq-readme.md": {
-    "mtime": 1782749954.6038024,
+    "mtime": 1782767532.995472,
     "ast_hash": "307a6b9a4365472c59ab6ecc3387d23c",
     "semantic_hash": "307a6b9a4365472c59ab6ecc3387d23c"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c5276a516-celery-monitoring.md": {
-    "mtime": 1782749956.5440774,
+    "mtime": 1782767532.9955664,
     "ast_hash": "b6dea163052c1de0e639ac4cdaae0096",
     "semantic_hash": "b6dea163052c1de0e639ac4cdaae0096"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c5276a516-monitoring.md": {
-    "mtime": 1782749868.9881372,
+    "mtime": 1782767532.9956408,
     "ast_hash": "b6dea163052c1de0e639ac4cdaae0096",
     "semantic_hash": "b6dea163052c1de0e639ac4cdaae0096"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c536273f7-background-methods.md": {
-    "mtime": 1782749867.0573146,
+    "mtime": 1782767532.9957123,
     "ast_hash": "3bbf34656180a71b8979f81290c69492",
     "semantic_hash": "3bbf34656180a71b8979f81290c69492"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c536273f7-jobrunr-background-methods.md": {
-    "mtime": 1782749958.3263047,
+    "mtime": 1782767532.9957755,
     "ast_hash": "3bbf34656180a71b8979f81290c69492",
     "semantic_hash": "3bbf34656180a71b8979f81290c69492"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c5af79a4a-error-handling.md": {
-    "mtime": 1782749868.2530885,
+    "mtime": 1782767532.9958518,
     "ast_hash": "c7a105a66dbc5bc6c153d61b7b9697d3",
     "semantic_hash": "c7a105a66dbc5bc6c153d61b7b9697d3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c5af79a4a-sidekiq-error-handling.md": {
-    "mtime": 1782749959.786803,
+    "mtime": 1782767532.995918,
     "ast_hash": "c7a105a66dbc5bc6c153d61b7b9697d3",
     "semantic_hash": "c7a105a66dbc5bc6c153d61b7b9697d3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c5da9b16b-celery-configuration.md": {
-    "mtime": 1782749956.3454182,
+    "mtime": 1782767532.9960763,
     "ast_hash": "9b06916cdaaf76a004faf143c643f85e",
     "semantic_hash": "9b06916cdaaf76a004faf143c643f85e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c5da9b16b-configuration.md": {
-    "mtime": 1782749867.6555593,
+    "mtime": 1782767532.9962153,
     "ast_hash": "9b06916cdaaf76a004faf143c643f85e",
     "semantic_hash": "9b06916cdaaf76a004faf143c643f85e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c5ebfb6d8-arq-overview.md": {
-    "mtime": 1782749954.4578054,
+    "mtime": 1782767532.996878,
     "ast_hash": "06d3cec3ed4a50a142ff51fec8dc1c00",
     "semantic_hash": "06d3cec3ed4a50a142ff51fec8dc1c00"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c5fa7504c-getting-started.md": {
-    "mtime": 1782749868.5494978,
+    "mtime": 1782767532.9970033,
     "ast_hash": "dd95b19625edd79cd5d7b2c467d2794f",
     "semantic_hash": "dd95b19625edd79cd5d7b2c467d2794f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c5fa7504c-sidekiq-getting-started.md": {
-    "mtime": 1782749959.9326882,
+    "mtime": 1782767532.9970715,
     "ast_hash": "dd95b19625edd79cd5d7b2c467d2794f",
     "semantic_hash": "dd95b19625edd79cd5d7b2c467d2794f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c6259762b-bullmq-workers.md": {
-    "mtime": 1782749955.9089944,
+    "mtime": 1782767532.99717,
     "ast_hash": "2a3d8704ff257b74b55cd6370a214aef",
     "semantic_hash": "2a3d8704ff257b74b55cd6370a214aef"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c6259762b-workers.md": {
-    "mtime": 1782749870.9690995,
+    "mtime": 1782767532.997277,
     "ast_hash": "2a3d8704ff257b74b55cd6370a214aef",
     "semantic_hash": "2a3d8704ff257b74b55cd6370a214aef"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c70cbc0f6-domain.md": {
-    "mtime": 1782749868.1053803,
+    "mtime": 1782767532.9973722,
     "ast_hash": "ed396ddc202554fb617d6ba89592624e",
     "semantic_hash": "ed396ddc202554fb617d6ba89592624e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c70cbc0f6-spring-batch-domain.md": {
-    "mtime": 1782749960.2269018,
+    "mtime": 1782767532.9974554,
     "ast_hash": "ed396ddc202554fb617d6ba89592624e",
     "semantic_hash": "ed396ddc202554fb617d6ba89592624e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c730b6ae6-celery-tasks.md": {
-    "mtime": 1782749957.286837,
+    "mtime": 1782767532.9975755,
     "ast_hash": "bea9d1aed475086ea6334dc6cbae634b",
     "semantic_hash": "bea9d1aed475086ea6334dc6cbae634b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c730b6ae6-tasks.md": {
-    "mtime": 1782749870.6681643,
+    "mtime": 1782767532.9976842,
     "ast_hash": "bea9d1aed475086ea6334dc6cbae634b",
     "semantic_hash": "bea9d1aed475086ea6334dc6cbae634b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c7710d098-celery-overview.md": {
-    "mtime": 1782749956.8392112,
+    "mtime": 1782767532.997763,
     "ast_hash": "057d95f35878f7327f83d4d9b31f7324",
     "semantic_hash": "057d95f35878f7327f83d4d9b31f7324"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c7fc72595-celery-workers.md": {
-    "mtime": 1782749957.4301672,
+    "mtime": 1782767532.9978585,
     "ast_hash": "55795b6e1d0d7b6866767fe8325cad2e",
     "semantic_hash": "55795b6e1d0d7b6866767fe8325cad2e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c827016e6-docs.md": {
-    "mtime": 1782749867.8062232,
+    "mtime": 1782767532.9979334,
     "ast_hash": "d532c0aa14e92e0f2dbbb120f5a134fd",
     "semantic_hash": "d532c0aa14e92e0f2dbbb120f5a134fd"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c827016e6-rq-docs.md": {
-    "mtime": 1782749959.3558667,
+    "mtime": 1782767532.9979959,
     "ast_hash": "d532c0aa14e92e0f2dbbb120f5a134fd",
     "semantic_hash": "d532c0aa14e92e0f2dbbb120f5a134fd"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c85240a45-advanced-options.md": {
-    "mtime": 1782749866.9086514,
+    "mtime": 1782767532.998066,
     "ast_hash": "b26b1cdbb0551da78dc48594ea7ae4a5",
     "semantic_hash": "b26b1cdbb0551da78dc48594ea7ae4a5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c85240a45-sidekiq-advanced-options.md": {
-    "mtime": 1782749959.5000656,
+    "mtime": 1782767532.9981344,
     "ast_hash": "b26b1cdbb0551da78dc48594ea7ae4a5",
     "semantic_hash": "b26b1cdbb0551da78dc48594ea7ae4a5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c8b1b67f4-canvas.md": {
-    "mtime": 1782749867.506555,
+    "mtime": 1782767532.99822,
     "ast_hash": "2c191ea58b96e03ed391eb493c7ec005",
     "semantic_hash": "2c191ea58b96e03ed391eb493c7ec005"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c8b1b67f4-celery-canvas.md": {
-    "mtime": 1782749956.1988976,
+    "mtime": 1782767532.9982994,
     "ast_hash": "2c191ea58b96e03ed391eb493c7ec005",
     "semantic_hash": "2c191ea58b96e03ed391eb493c7ec005"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c9f14a04f-reference.md": {
-    "mtime": 1782749870.0715516,
+    "mtime": 1782767532.998357,
     "ast_hash": "217a4d1f6cb646bec09f1054a7b6f71d",
     "semantic_hash": "217a4d1f6cb646bec09f1054a7b6f71d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c9f14a04f-spring-batch-reference.md": {
-    "mtime": 1782749960.3719661,
+    "mtime": 1782767532.9984088,
     "ast_hash": "217a4d1f6cb646bec09f1054a7b6f71d",
     "semantic_hash": "217a4d1f6cb646bec09f1054a7b6f71d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c9f5b5376-reliability.md": {
-    "mtime": 1782749870.2224085,
+    "mtime": 1782767532.9984777,
     "ast_hash": "9f0875695e2263d58e727a6259f757fd",
     "semantic_hash": "9f0875695e2263d58e727a6259f757fd"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/c9f5b5376-sidekiq-reliability.md": {
-    "mtime": 1782749960.0818856,
+    "mtime": 1782767532.998541,
     "ast_hash": "9f0875695e2263d58e727a6259f757fd",
     "semantic_hash": "9f0875695e2263d58e727a6259f757fd"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/ca4ee7698-bullmq-overview.md": {
-    "mtime": 1782749955.3280532,
+    "mtime": 1782767532.9986234,
     "ast_hash": "5d4385609c9a72b11d45f922afabca72",
     "semantic_hash": "5d4385609c9a72b11d45f922afabca72"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/ca4ee7698-overview.md": {
-    "mtime": 1782749869.2849805,
+    "mtime": 1782767532.9987245,
     "ast_hash": "5d4385609c9a72b11d45f922afabca72",
     "semantic_hash": "5d4385609c9a72b11d45f922afabca72"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cb1edef8d-calling.md": {
-    "mtime": 1782749867.3577974,
+    "mtime": 1782767532.9988315,
     "ast_hash": "95489fea391530c5dbef5f9d8067305f",
     "semantic_hash": "95489fea391530c5dbef5f9d8067305f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cb1edef8d-celery-calling.md": {
-    "mtime": 1782749956.054567,
+    "mtime": 1782767532.998937,
     "ast_hash": "95489fea391530c5dbef5f9d8067305f",
     "semantic_hash": "95489fea391530c5dbef5f9d8067305f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cb4cc3d1d-documentation.md": {
-    "mtime": 1782749867.955358,
+    "mtime": 1782767532.999008,
     "ast_hash": "fdf62bbe4e82c282f3ede9e38d79a8c3",
     "semantic_hash": "fdf62bbe4e82c282f3ede9e38d79a8c3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cb4cc3d1d-quartz-documentation.md": {
-    "mtime": 1782749958.916262,
+    "mtime": 1782767532.9990804,
     "ast_hash": "fdf62bbe4e82c282f3ede9e38d79a8c3",
     "semantic_hash": "fdf62bbe4e82c282f3ede9e38d79a8c3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cb93af587-graphile-worker-overview.md": {
-    "mtime": 1782749958.0317757,
+    "mtime": 1782767532.9991767,
     "ast_hash": "89f30ed368edb80fb0552b38cb541e7a",
     "semantic_hash": "89f30ed368edb80fb0552b38cb541e7a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cc23533ba-dramatiq-guide.md": {
-    "mtime": 1782749957.7375555,
+    "mtime": 1782767532.9992676,
     "ast_hash": "59e17f9cbe84e2818ede9c4dd5c73ef6",
     "semantic_hash": "59e17f9cbe84e2818ede9c4dd5c73ef6"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cc23533ba-guide.md": {
-    "mtime": 1782749868.6951036,
+    "mtime": 1782767532.9993367,
     "ast_hash": "59e17f9cbe84e2818ede9c4dd5c73ef6",
     "semantic_hash": "59e17f9cbe84e2818ede9c4dd5c73ef6"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cc2531b1e-db-scheduler-readme.md": {
-    "mtime": 1782749957.5758677,
+    "mtime": 1782767532.9994705,
     "ast_hash": "6baff59fc3b1de34732d5b72426b6ef9",
     "semantic_hash": "6baff59fc3b1de34732d5b72426b6ef9"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cc2a17911-bullmq-rate-limiting.md": {
-    "mtime": 1782749955.616141,
+    "mtime": 1782767532.9995627,
     "ast_hash": "abd59e676ebc81b53e8af2bfa4e64f5e",
     "semantic_hash": "abd59e676ebc81b53e8af2bfa4e64f5e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cc2a17911-rate-limiting.md": {
-    "mtime": 1782749869.7516832,
+    "mtime": 1782767532.9996445,
     "ast_hash": "abd59e676ebc81b53e8af2bfa4e64f5e",
     "semantic_hash": "abd59e676ebc81b53e8af2bfa4e64f5e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cc53ad95f-jobrunr-documentation.md": {
-    "mtime": 1782749958.4722745,
+    "mtime": 1782767532.9997203,
     "ast_hash": "74f9f97f20e1939a4ddc6557cf19d8d6",
     "semantic_hash": "74f9f97f20e1939a4ddc6557cf19d8d6"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/ccb48ac57-machinery-readme.md": {
-    "mtime": 1782749958.615853,
+    "mtime": 1782767532.999795,
     "ast_hash": "af58060b6abd98caa46c67143b3eeb6d",
     "semantic_hash": "af58060b6abd98caa46c67143b3eeb6d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/ccb48ac57-readme.md": {
-    "mtime": 1782749869.9226985,
+    "mtime": 1782767533.0015361,
     "ast_hash": "af58060b6abd98caa46c67143b3eeb6d",
     "semantic_hash": "af58060b6abd98caa46c67143b3eeb6d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/ccc8a1c53-bee-queue-readme.md": {
-    "mtime": 1782749954.7492404,
+    "mtime": 1782767533.0016463,
     "ast_hash": "b12b0279c7dea86e83e1d54bcd21a5ca",
     "semantic_hash": "b12b0279c7dea86e83e1d54bcd21a5ca"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/ccda30e93-celery-periodic-tasks.md": {
-    "mtime": 1782749956.9896808,
+    "mtime": 1782767533.0017118,
     "ast_hash": "ca1190273e106bb48ee98c0fda8c64fe",
     "semantic_hash": "ca1190273e106bb48ee98c0fda8c64fe"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/ccda30e93-periodic-tasks.md": {
-    "mtime": 1782749869.4458787,
+    "mtime": 1782767533.001773,
     "ast_hash": "ca1190273e106bb48ee98c0fda8c64fe",
     "semantic_hash": "ca1190273e106bb48ee98c0fda8c64fe"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cdad54cb3-celery-optimizing.md": {
-    "mtime": 1782749956.6926885,
+    "mtime": 1782767533.0018363,
     "ast_hash": "52ca40b54af59230fc6fed8c33b66c1a",
     "semantic_hash": "52ca40b54af59230fc6fed8c33b66c1a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cdad54cb3-optimizing.md": {
-    "mtime": 1782749869.1361024,
+    "mtime": 1782767533.0018926,
     "ast_hash": "52ca40b54af59230fc6fed8c33b66c1a",
     "semantic_hash": "52ca40b54af59230fc6fed8c33b66c1a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cdd9c9723-bullmq-flows.md": {
-    "mtime": 1782749955.0381463,
+    "mtime": 1782767533.0019546,
     "ast_hash": "281a10f104c1cc7a05406e556114ea83",
     "semantic_hash": "281a10f104c1cc7a05406e556114ea83"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cdd9c9723-flows.md": {
-    "mtime": 1782749868.4025316,
+    "mtime": 1782767533.0020058,
     "ast_hash": "281a10f104c1cc7a05406e556114ea83",
     "semantic_hash": "281a10f104c1cc7a05406e556114ea83"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/ce0b23aa3-bullmq-jobs-schedulers.md": {
-    "mtime": 1782749955.1813545,
+    "mtime": 1782767533.002078,
     "ast_hash": "e725b443879621594d0ef9a146f60237",
     "semantic_hash": "e725b443879621594d0ef9a146f60237"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/ce0b23aa3-jobs-schedulers.md": {
-    "mtime": 1782749868.8413098,
+    "mtime": 1782767533.0021508,
     "ast_hash": "e725b443879621594d0ef9a146f60237",
     "semantic_hash": "e725b443879621594d0ef9a146f60237"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/ce5f329e8-bull-v3-readme.md": {
-    "mtime": 1782749954.8956947,
+    "mtime": 1782767533.0022464,
     "ast_hash": "6948bd26fc50c8301015bb8949a66a5d",
     "semantic_hash": "6948bd26fc50c8301015bb8949a66a5d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/ceac7ded8-bullmq-queues.md": {
-    "mtime": 1782749955.4721613,
+    "mtime": 1782767533.0024521,
     "ast_hash": "32d2ac529c5ef07b9baeaa90619cd140",
     "semantic_hash": "32d2ac529c5ef07b9baeaa90619cd140"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/ceac7ded8-queues.md": {
-    "mtime": 1782749869.597322,
+    "mtime": 1782767533.0025375,
     "ast_hash": "32d2ac529c5ef07b9baeaa90619cd140",
     "semantic_hash": "32d2ac529c5ef07b9baeaa90619cd140"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/ceb3f1786-agenda-readme.md": {
-    "mtime": 1782749954.3112323,
+    "mtime": 1782767533.0026977,
     "ast_hash": "186ae587bc8189672f26a3afa87fb184",
     "semantic_hash": "186ae587bc8189672f26a3afa87fb184"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cefe4d862-bullmq-retrying-failing-jobs.md": {
-    "mtime": 1782749955.760888,
+    "mtime": 1782767533.0028303,
     "ast_hash": "ec5a1b78d58f9b43a857b57e942f086d",
     "semantic_hash": "ec5a1b78d58f9b43a857b57e942f086d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cefe4d862-retrying-failing-jobs.md": {
-    "mtime": 1782749870.373341,
+    "mtime": 1782767533.0029392,
     "ast_hash": "ec5a1b78d58f9b43a857b57e942f086d",
     "semantic_hash": "ec5a1b78d58f9b43a857b57e942f086d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cfdb83c16-faktory-wiki.md": {
-    "mtime": 1782749957.882347,
+    "mtime": 1782767533.0030272,
     "ast_hash": "30f7971304960aeddc4fa44e4f649363",
     "semantic_hash": "30f7971304960aeddc4fa44e4f649363"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/03-task-queues/sources/cfdb83c16-wiki.md": {
-    "mtime": 1782749870.8196352,
+    "mtime": 1782767533.0030982,
     "ast_hash": "30f7971304960aeddc4fa44e4f649363",
     "semantic_hash": "30f7971304960aeddc4fa44e4f649363"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c023d8cc3-node-red-overview.md": {
-    "mtime": 1782749963.6289952,
+    "mtime": 1782767533.003262,
     "ast_hash": "71cfd71b8c2c36742a44e9ad2173da2b",
     "semantic_hash": "71cfd71b8c2c36742a44e9ad2173da2b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c18fa1028-airflow-executor.md": {
-    "mtime": 1782749961.1289322,
+    "mtime": 1782767533.0033321,
     "ast_hash": "4db05e60d4cad4c0f2bc82331f77031d",
     "semantic_hash": "4db05e60d4cad4c0f2bc82331f77031d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c18fa1028-executor.md": {
-    "mtime": 1782749871.680439,
+    "mtime": 1782767533.0033987,
     "ast_hash": "4db05e60d4cad4c0f2bc82331f77031d",
     "semantic_hash": "4db05e60d4cad4c0f2bc82331f77031d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c1be14e09-airflow-dags.md": {
-    "mtime": 1782749960.9851353,
+    "mtime": 1782767533.004166,
     "ast_hash": "a18762773f0dd0035b48f845c44795a4",
     "semantic_hash": "a18762773f0dd0035b48f845c44795a4"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c1be14e09-dags.md": {
-    "mtime": 1782749871.5314515,
+    "mtime": 1782767533.0044422,
     "ast_hash": "a18762773f0dd0035b48f845c44795a4",
     "semantic_hash": "a18762773f0dd0035b48f845c44795a4"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c22e3f6f3-argo-workflows-overview.md": {
-    "mtime": 1782749962.152903,
+    "mtime": 1782767533.0045264,
     "ast_hash": "a8b8c43d845255118295c4f20730d77e",
     "semantic_hash": "a8b8c43d845255118295c4f20730d77e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c25b85154-kestra-overview.md": {
-    "mtime": 1782749962.7493062,
+    "mtime": 1782767533.0046139,
     "ast_hash": "c635b58a1181fc8093f1fc98c67bd3cb",
     "semantic_hash": "c635b58a1181fc8093f1fc98c67bd3cb"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c2aaa51b8-dolphinscheduler-overview.md": {
-    "mtime": 1782749962.4571185,
+    "mtime": 1782767533.0046892,
     "ast_hash": "6d5fff2dd74372dffe5db2e48d784308",
     "semantic_hash": "6d5fff2dd74372dffe5db2e48d784308"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c2aaa51b8-overview.md": {
-    "mtime": 1782749871.9963567,
+    "mtime": 1782767533.0047545,
     "ast_hash": "6d5fff2dd74372dffe5db2e48d784308",
     "semantic_hash": "6d5fff2dd74372dffe5db2e48d784308"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c368c6093-mage-overview.md": {
-    "mtime": 1782749963.1912217,
+    "mtime": 1782767533.004821,
     "ast_hash": "85f6bf06b72f1100bb8f02f6cd583f02",
     "semantic_hash": "85f6bf06b72f1100bb8f02f6cd583f02"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c3867c7c7-flyte-overview.md": {
-    "mtime": 1782749962.6050022,
+    "mtime": 1782767533.0049133,
     "ast_hash": "de6a44e3258ab7ecc3455a7c9948ba1b",
     "semantic_hash": "de6a44e3258ab7ecc3455a7c9948ba1b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c3b02633d-airflow-tasks.md": {
-    "mtime": 1782749961.856938,
+    "mtime": 1782767533.0050015,
     "ast_hash": "02f8aa2f6abcde5949acb8fb664122c9",
     "semantic_hash": "02f8aa2f6abcde5949acb8fb664122c9"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c3b02633d-tasks.md": {
-    "mtime": 1782749872.444616,
+    "mtime": 1782767533.0050638,
     "ast_hash": "02f8aa2f6abcde5949acb8fb664122c9",
     "semantic_hash": "02f8aa2f6abcde5949acb8fb664122c9"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c662849c7-metaflow-overview.md": {
-    "mtime": 1782749963.3372962,
+    "mtime": 1782767533.0051293,
     "ast_hash": "17cee9763a9d3067b2aed70ba6334fc8",
     "semantic_hash": "17cee9763a9d3067b2aed70ba6334fc8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c7a50cffa-kubeflow-pipelines-overview.md": {
-    "mtime": 1782749962.8960357,
+    "mtime": 1782767533.0052044,
     "ast_hash": "e04099ddcb511298f16001d2184b29c2",
     "semantic_hash": "e04099ddcb511298f16001d2184b29c2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c7eff2026-airflow-taskflow.md": {
-    "mtime": 1782749961.7114692,
+    "mtime": 1782767533.005274,
     "ast_hash": "29ea5a9122270aac5cf66f6847850858",
     "semantic_hash": "29ea5a9122270aac5cf66f6847850858"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c7eff2026-taskflow.md": {
-    "mtime": 1782749872.295878,
+    "mtime": 1782767533.0053365,
     "ast_hash": "29ea5a9122270aac5cf66f6847850858",
     "semantic_hash": "29ea5a9122270aac5cf66f6847850858"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c87e53ec2-n8n-overview.md": {
-    "mtime": 1782749963.4850473,
+    "mtime": 1782767533.0054555,
     "ast_hash": "87b0fdb3960043c2ca67d5630ea10167",
     "semantic_hash": "87b0fdb3960043c2ca67d5630ea10167"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/c904f5453-luigi-overview.md": {
-    "mtime": 1782749963.0423272,
+    "mtime": 1782767533.0055463,
     "ast_hash": "cb6b23c5929d0b1c6cb18f4c71f63748",
     "semantic_hash": "cb6b23c5929d0b1c6cb18f4c71f63748"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/cc6584b00-windmill-overview.md": {
-    "mtime": 1782749963.9196336,
+    "mtime": 1782767533.0056143,
     "ast_hash": "d5feffa690a9b49a852a0ab52b50e7fc",
     "semantic_hash": "d5feffa690a9b49a852a0ab52b50e7fc"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/ccc1d94ae-airflow-operators.md": {
-    "mtime": 1782749961.2745578,
+    "mtime": 1782767533.0056963,
     "ast_hash": "137064a9124ba83e659fffac2a16686e",
     "semantic_hash": "137064a9124ba83e659fffac2a16686e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/ccc1d94ae-operators.md": {
-    "mtime": 1782749871.8422003,
+    "mtime": 1782767533.005767,
     "ast_hash": "137064a9124ba83e659fffac2a16686e",
     "semantic_hash": "137064a9124ba83e659fffac2a16686e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/cd32d3fbd-airflow-overview.md": {
-    "mtime": 1782749961.4199383,
+    "mtime": 1782767533.0058317,
     "ast_hash": "d3c56f5346f539b6706ab6cce42c0040",
     "semantic_hash": "d3c56f5346f539b6706ab6cce42c0040"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/cd3f8af81-airflow-timetables.md": {
-    "mtime": 1782749962.0062542,
+    "mtime": 1782767533.0059068,
     "ast_hash": "c6657d2bb44f3660dde0767bef9fa4eb",
     "semantic_hash": "c6657d2bb44f3660dde0767bef9fa4eb"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/cd3f8af81-timetables.md": {
-    "mtime": 1782749872.5911858,
+    "mtime": 1782767533.0059745,
     "ast_hash": "c6657d2bb44f3660dde0767bef9fa4eb",
     "semantic_hash": "c6657d2bb44f3660dde0767bef9fa4eb"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/cda19b1d5-dagster-overview.md": {
-    "mtime": 1782749962.2984073,
+    "mtime": 1782767533.006074,
     "ast_hash": "f2b2bd94cb4e432f2aff4b6dd2960c74",
     "semantic_hash": "f2b2bd94cb4e432f2aff4b6dd2960c74"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/cda20993b-prefect-overview.md": {
-    "mtime": 1782749963.7749233,
+    "mtime": 1782767533.0061736,
     "ast_hash": "67bfdaee970645c144a477c3cd113702",
     "semantic_hash": "67bfdaee970645c144a477c3cd113702"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/ce9d10d36-airflow-best-practices.md": {
-    "mtime": 1782749960.6960087,
+    "mtime": 1782767533.0062838,
     "ast_hash": "061434b9d3cadb6d33a2fd90a797109b",
     "semantic_hash": "061434b9d3cadb6d33a2fd90a797109b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/ce9d10d36-best-practices.md": {
-    "mtime": 1782749871.2324104,
+    "mtime": 1782767533.0063818,
     "ast_hash": "061434b9d3cadb6d33a2fd90a797109b",
     "semantic_hash": "061434b9d3cadb6d33a2fd90a797109b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/cf5123b41-airflow-scheduler.md": {
-    "mtime": 1782749961.5647326,
+    "mtime": 1782767533.0064359,
     "ast_hash": "1e0ad3aedb643b56ae5094b1d8bd6f9a",
     "semantic_hash": "1e0ad3aedb643b56ae5094b1d8bd6f9a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/cf5123b41-scheduler.md": {
-    "mtime": 1782749872.1454077,
+    "mtime": 1782767533.006495,
     "ast_hash": "1e0ad3aedb643b56ae5094b1d8bd6f9a",
     "semantic_hash": "1e0ad3aedb643b56ae5094b1d8bd6f9a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/cf76f81df-airflow-dag-run.md": {
-    "mtime": 1782749960.839988,
+    "mtime": 1782767533.0065818,
     "ast_hash": "bfdbb6f5a293e04b1fbea5fce516bccb",
     "semantic_hash": "bfdbb6f5a293e04b1fbea5fce516bccb"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/04-workflow-orchestration/sources/cf76f81df-dag-run.md": {
-    "mtime": 1782749871.384775,
+    "mtime": 1782767533.006658,
     "ast_hash": "bfdbb6f5a293e04b1fbea5fce516bccb",
     "semantic_hash": "bfdbb6f5a293e04b1fbea5fce516bccb"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c009c751c-golem-overview.md": {
-    "mtime": 1782749964.6779602,
+    "mtime": 1782767533.0068343,
     "ast_hash": "f88e11ef9cdf768a90bd2ad555c01967",
     "semantic_hash": "f88e11ef9cdf768a90bd2ad555c01967"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c009c751c-overview.md": {
-    "mtime": 1782749873.7794592,
+    "mtime": 1782767533.0069134,
     "ast_hash": "f88e11ef9cdf768a90bd2ad555c01967",
     "semantic_hash": "f88e11ef9cdf768a90bd2ad555c01967"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c0e3bb531-conductor-oss-overview.md": {
-    "mtime": 1782749964.3864384,
+    "mtime": 1782767533.0069876,
     "ast_hash": "5cf236d23e83b5173388e2c48d484180",
     "semantic_hash": "5cf236d23e83b5173388e2c48d484180"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c135ef9ee-cadence-overview.md": {
-    "mtime": 1782749964.240165,
+    "mtime": 1782767533.0070634,
     "ast_hash": "7d6ce8dfd2c568937a9aa501f9168636",
     "semantic_hash": "7d6ce8dfd2c568937a9aa501f9168636"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c1bd468eb-temporal-timeouts.md": {
-    "mtime": 1782749966.5785375,
+    "mtime": 1782767533.0071387,
     "ast_hash": "d47ef68dabda73a77c241d5cd1e1354d",
     "semantic_hash": "d47ef68dabda73a77c241d5cd1e1354d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c1bd468eb-timeouts.md": {
-    "mtime": 1782749874.2434065,
+    "mtime": 1782767533.0072253,
     "ast_hash": "d47ef68dabda73a77c241d5cd1e1354d",
     "semantic_hash": "d47ef68dabda73a77c241d5cd1e1354d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c207dad27-activities.md": {
-    "mtime": 1782749872.8649755,
+    "mtime": 1782767533.0073233,
     "ast_hash": "cbe141c00ed0f1bce53d70095140465f",
     "semantic_hash": "cbe141c00ed0f1bce53d70095140465f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c207dad27-temporal-activities.md": {
-    "mtime": 1782749965.2659395,
+    "mtime": 1782767533.0074232,
     "ast_hash": "cbe141c00ed0f1bce53d70095140465f",
     "semantic_hash": "cbe141c00ed0f1bce53d70095140465f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c2e8d1622-detecting-workflow-failures.md": {
-    "mtime": 1782749873.4638655,
+    "mtime": 1782767533.0075576,
     "ast_hash": "b31f12b9f5fb6fcf523032acc9fa6e5a",
     "semantic_hash": "b31f12b9f5fb6fcf523032acc9fa6e5a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c2e8d1622-temporal-detecting-workflow-failures.md": {
-    "mtime": 1782749965.8501227,
+    "mtime": 1782767533.0076852,
     "ast_hash": "b31f12b9f5fb6fcf523032acc9fa6e5a",
     "semantic_hash": "b31f12b9f5fb6fcf523032acc9fa6e5a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c3c530383-temporal-visibility.md": {
-    "mtime": 1782749966.8709168,
+    "mtime": 1782767533.0078068,
     "ast_hash": "2cf4596938f4973627f067adcc7f9bcb",
     "semantic_hash": "2cf4596938f4973627f067adcc7f9bcb"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c3c530383-visibility.md": {
-    "mtime": 1782749874.54353,
+    "mtime": 1782767533.0079153,
     "ast_hash": "2cf4596938f4973627f067adcc7f9bcb",
     "semantic_hash": "2cf4596938f4973627f067adcc7f9bcb"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c3c7c6653-message-passing.md": {
-    "mtime": 1782749873.6120212,
+    "mtime": 1782767533.0080183,
     "ast_hash": "fb17c101cf8c076a472150dc176ddfbe",
     "semantic_hash": "fb17c101cf8c076a472150dc176ddfbe"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c3c7c6653-temporal-message-passing.md": {
-    "mtime": 1782749965.9962685,
+    "mtime": 1782767533.0081086,
     "ast_hash": "fb17c101cf8c076a472150dc176ddfbe",
     "semantic_hash": "fb17c101cf8c076a472150dc176ddfbe"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c44c8dc25-restate-overview.md": {
-    "mtime": 1782749965.119633,
+    "mtime": 1782767533.008184,
     "ast_hash": "5007ae64f05a81ff83a985ccf61e9bb7",
     "semantic_hash": "5007ae64f05a81ff83a985ccf61e9bb7"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c53dcb818-inngest-overview.md": {
-    "mtime": 1782749964.8207862,
+    "mtime": 1782767533.008261,
     "ast_hash": "7ac4c0577c6463b62d6563da26028e30",
     "semantic_hash": "7ac4c0577c6463b62d6563da26028e30"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c5ec3f59d-dbos-overview.md": {
-    "mtime": 1782749964.5334072,
+    "mtime": 1782767533.0083387,
     "ast_hash": "951e7ed86732588cb2522f5115e45ec3",
     "semantic_hash": "951e7ed86732588cb2522f5115e45ec3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c71a7776f-temporal-workers.md": {
-    "mtime": 1782749967.0165844,
+    "mtime": 1782767533.0084507,
     "ast_hash": "1db19cb978d6223f17f3672cf36d41ec",
     "semantic_hash": "1db19cb978d6223f17f3672cf36d41ec"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c71a7776f-workers.md": {
-    "mtime": 1782749874.6969557,
+    "mtime": 1782767533.0085511,
     "ast_hash": "1db19cb978d6223f17f3672cf36d41ec",
     "semantic_hash": "1db19cb978d6223f17f3672cf36d41ec"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c98eed491-temporal-versioning.md": {
-    "mtime": 1782749966.7240286,
+    "mtime": 1782767533.0086389,
     "ast_hash": "07ab61586b42d8c78aaaff8670e336a0",
     "semantic_hash": "07ab61586b42d8c78aaaff8670e336a0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/c98eed491-versioning.md": {
-    "mtime": 1782749874.3915973,
+    "mtime": 1782767533.0087283,
     "ast_hash": "07ab61586b42d8c78aaaff8670e336a0",
     "semantic_hash": "07ab61586b42d8c78aaaff8670e336a0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/ca15813ee-temporal-overview.md": {
-    "mtime": 1782749966.140648,
+    "mtime": 1782767533.0088234,
     "ast_hash": "84c2c11123822099bdf4abeaedb334ed",
     "semantic_hash": "84c2c11123822099bdf4abeaedb334ed"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/ca75d348d-clusters.md": {
-    "mtime": 1782749873.1661544,
+    "mtime": 1782767533.0088942,
     "ast_hash": "b352653cbe67c877b31455b0167a9fff",
     "semantic_hash": "b352653cbe67c877b31455b0167a9fff"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/ca75d348d-temporal-clusters.md": {
-    "mtime": 1782749965.5577705,
+    "mtime": 1782767533.0089567,
     "ast_hash": "b352653cbe67c877b31455b0167a9fff",
     "semantic_hash": "b352653cbe67c877b31455b0167a9fff"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/ca8f99140-trigger-dev-overview.md": {
-    "mtime": 1782749967.3061788,
+    "mtime": 1782767533.0090222,
     "ast_hash": "7d3272c94bf396cf8a3740401089581c",
     "semantic_hash": "7d3272c94bf396cf8a3740401089581c"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/cb475b04f-retry-policies.md": {
-    "mtime": 1782749873.9314332,
+    "mtime": 1782767533.0090969,
     "ast_hash": "70001c0ec0e68bea741ae177568a1988",
     "semantic_hash": "70001c0ec0e68bea741ae177568a1988"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/cb475b04f-temporal-retry-policies.md": {
-    "mtime": 1782749966.287365,
+    "mtime": 1782767533.0091617,
     "ast_hash": "70001c0ec0e68bea741ae177568a1988",
     "semantic_hash": "70001c0ec0e68bea741ae177568a1988"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/cc4b57008-resonate-overview.md": {
-    "mtime": 1782749964.9674637,
+    "mtime": 1782767533.009228,
     "ast_hash": "248101f8811182bf685b8c1793b4550d",
     "semantic_hash": "248101f8811182bf685b8c1793b4550d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/cdd95b319-sdks.md": {
-    "mtime": 1782749874.0840418,
+    "mtime": 1782767533.0093029,
     "ast_hash": "5f729972b12d0cc37221c3fc3af9402c",
     "semantic_hash": "5f729972b12d0cc37221c3fc3af9402c"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/cdd95b319-temporal-sdks.md": {
-    "mtime": 1782749966.4354374,
+    "mtime": 1782767533.00937,
     "ast_hash": "5f729972b12d0cc37221c3fc3af9402c",
     "semantic_hash": "5f729972b12d0cc37221c3fc3af9402c"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/cdda82b92-temporal-workflows.md": {
-    "mtime": 1782749967.1605713,
+    "mtime": 1782767533.0098748,
     "ast_hash": "2834e3e3f11bebaae6640f530ba64dbe",
     "semantic_hash": "2834e3e3f11bebaae6640f530ba64dbe"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/cdda82b92-workflows.md": {
-    "mtime": 1782749874.8604321,
+    "mtime": 1782767533.009979,
     "ast_hash": "2834e3e3f11bebaae6640f530ba64dbe",
     "semantic_hash": "2834e3e3f11bebaae6640f530ba64dbe"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/ce1e072b0-detecting-activity-failures.md": {
-    "mtime": 1782749873.3147674,
+    "mtime": 1782767533.0100315,
     "ast_hash": "e8886ec10e06e51d1ced91d6171308fb",
     "semantic_hash": "e8886ec10e06e51d1ced91d6171308fb"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/ce1e072b0-temporal-detecting-activity-failures.md": {
-    "mtime": 1782749965.7037344,
+    "mtime": 1782767533.0100803,
     "ast_hash": "e8886ec10e06e51d1ced91d6171308fb",
     "semantic_hash": "e8886ec10e06e51d1ced91d6171308fb"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/ce9306d1f-child-workflows.md": {
-    "mtime": 1782749873.0143092,
+    "mtime": 1782767533.010189,
     "ast_hash": "759661bb3743c8aa8a00d6740fc35844",
     "semantic_hash": "759661bb3743c8aa8a00d6740fc35844"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/ce9306d1f-temporal-child-workflows.md": {
-    "mtime": 1782749965.412712,
+    "mtime": 1782767533.0102923,
     "ast_hash": "759661bb3743c8aa8a00d6740fc35844",
     "semantic_hash": "759661bb3743c8aa8a00d6740fc35844"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/05-durable-execution/sources/cebbccd61-vercel-workflow-overview.md": {
-    "mtime": 1782749967.466575,
+    "mtime": 1782767533.0103936,
     "ast_hash": "5191fb48ec5d4c04c55f357a7c8a0b29",
     "semantic_hash": "5191fb48ec5d4c04c55f357a7c8a0b29"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c1061168e-asl.md": {
-    "mtime": 1782749875.2846842,
+    "mtime": 1782767533.0105114,
     "ast_hash": "200b69c8d73d4db6397a80a3f70fc112",
     "semantic_hash": "200b69c8d73d4db6397a80a3f70fc112"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c1061168e-step-functions-asl.md": {
-    "mtime": 1782749969.9658034,
+    "mtime": 1782767533.0105639,
     "ast_hash": "200b69c8d73d4db6397a80a3f70fc112",
     "semantic_hash": "200b69c8d73d4db6397a80a3f70fc112"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c13277e4b-message-dedup.md": {
-    "mtime": 1782749876.3343549,
+    "mtime": 1782767533.010635,
     "ast_hash": "a85c460a79ab4692024c63257ceaa642",
     "semantic_hash": "a85c460a79ab4692024c63257ceaa642"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c13277e4b-sqs-message-dedup.md": {
-    "mtime": 1782749969.528722,
+    "mtime": 1782767533.0107005,
     "ast_hash": "a85c460a79ab4692024c63257ceaa642",
     "semantic_hash": "a85c460a79ab4692024c63257ceaa642"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c399ef9b9-exactly-once-fifo.md": {
-    "mtime": 1782749875.886805,
+    "mtime": 1782767533.0107622,
     "ast_hash": "e5a9b8298c75183b317f7ee594cf0684",
     "semantic_hash": "e5a9b8298c75183b317f7ee594cf0684"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c399ef9b9-sqs-exactly-once-fifo.md": {
-    "mtime": 1782749969.3863862,
+    "mtime": 1782767533.0108263,
     "ast_hash": "e5a9b8298c75183b317f7ee594cf0684",
     "semantic_hash": "e5a9b8298c75183b317f7ee594cf0684"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c4865634c-architecture.md": {
-    "mtime": 1782749875.1347682,
+    "mtime": 1782767533.010982,
     "ast_hash": "20711bf5324410c3d34304199a84dc63",
     "semantic_hash": "20711bf5324410c3d34304199a84dc63"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c4865634c-sqs-architecture.md": {
-    "mtime": 1782749969.0952528,
+    "mtime": 1782767533.0110307,
     "ast_hash": "20711bf5324410c3d34304199a84dc63",
     "semantic_hash": "20711bf5324410c3d34304199a84dc63"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c4f4b67ee-step-functions-welcome.md": {
-    "mtime": 1782749970.8406718,
+    "mtime": 1782767533.0111158,
     "ast_hash": "ef39bdeacbe91492ff36c5e4e2c0a264",
     "semantic_hash": "ef39bdeacbe91492ff36c5e4e2c0a264"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c4fcc4e49-async-invoke.md": {
-    "mtime": 1782749875.4355924,
+    "mtime": 1782767533.0113988,
     "ast_hash": "5214505c61359049aa183994e3c9bbc5",
     "semantic_hash": "5214505c61359049aa183994e3c9bbc5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c4fcc4e49-lambda-async-invoke.md": {
-    "mtime": 1782749968.512858,
+    "mtime": 1782767533.0114794,
     "ast_hash": "5214505c61359049aa183994e3c9bbc5",
     "semantic_hash": "5214505c61359049aa183994e3c9bbc5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c565f7ab3-dlq.md": {
-    "mtime": 1782749875.5845284,
+    "mtime": 1782767533.0115454,
     "ast_hash": "9532db94a494843f6e783932e963c0d8",
     "semantic_hash": "9532db94a494843f6e783932e963c0d8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c565f7ab3-sqs-dlq.md": {
-    "mtime": 1782749969.2407944,
+    "mtime": 1782767533.011608,
     "ast_hash": "9532db94a494843f6e783932e963c0d8",
     "semantic_hash": "9532db94a494843f6e783932e963c0d8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c6ac0dfc5-batch-what-is.md": {
-    "mtime": 1782749967.782587,
+    "mtime": 1782767533.0116956,
     "ast_hash": "4c876ca035d6c9de33877e7fde52dec6",
     "semantic_hash": "4c876ca035d6c9de33877e7fde52dec6"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c6ac0dfc5-what-is.md": {
-    "mtime": 1782749877.2310243,
+    "mtime": 1782767533.0117724,
     "ast_hash": "4c876ca035d6c9de33877e7fde52dec6",
     "semantic_hash": "4c876ca035d6c9de33877e7fde52dec6"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c6c9cf97a-map-state.md": {
-    "mtime": 1782749876.1874096,
+    "mtime": 1782767533.0118253,
     "ast_hash": "d4239c0da3212c7b66186e30482c6e49",
     "semantic_hash": "d4239c0da3212c7b66186e30482c6e49"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c6c9cf97a-step-functions-map-state.md": {
-    "mtime": 1782749970.4051697,
+    "mtime": 1782767533.011883,
     "ast_hash": "d4239c0da3212c7b66186e30482c6e49",
     "semantic_hash": "d4239c0da3212c7b66186e30482c6e49"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c6e7c00dd-error-handling.md": {
-    "mtime": 1782749875.7363918,
+    "mtime": 1782767533.0119736,
     "ast_hash": "e72b1f1fd3b712adedd2b6e571e48e38",
     "semantic_hash": "e72b1f1fd3b712adedd2b6e571e48e38"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c6e7c00dd-step-functions-error-handling.md": {
-    "mtime": 1782749970.1141331,
+    "mtime": 1782767533.0120566,
     "ast_hash": "e72b1f1fd3b712adedd2b6e571e48e38",
     "semantic_hash": "e72b1f1fd3b712adedd2b6e571e48e38"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c7ae5dfae-lambda-welcome.md": {
-    "mtime": 1782749968.6599684,
+    "mtime": 1782767533.012914,
     "ast_hash": "5b252ec9bbe1b4afa13978f20e9a60c3",
     "semantic_hash": "5b252ec9bbe1b4afa13978f20e9a60c3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c878a13f4-eventbridge-scheduler-what-is.md": {
-    "mtime": 1782749968.221749,
+    "mtime": 1782767533.0130126,
     "ast_hash": "6d350aa6e5c9bb79bca074d1c2f848ed",
     "semantic_hash": "6d350aa6e5c9bb79bca074d1c2f848ed"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c8acdab63-express-vs-standard.md": {
-    "mtime": 1782749876.038665,
+    "mtime": 1782767533.0131025,
     "ast_hash": "fa25a8db55662e53dd9ea19bcf9a6441",
     "semantic_hash": "fa25a8db55662e53dd9ea19bcf9a6441"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/c8acdab63-step-functions-express-vs-standard.md": {
-    "mtime": 1782749970.2608938,
+    "mtime": 1782767533.0131786,
     "ast_hash": "fa25a8db55662e53dd9ea19bcf9a6441",
     "semantic_hash": "fa25a8db55662e53dd9ea19bcf9a6441"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/cb331285a-ecs-scheduled-tasks-overview.md": {
-    "mtime": 1782749967.925768,
+    "mtime": 1782767533.013483,
     "ast_hash": "a3b22757986ec463adffef3cc072bda7",
     "semantic_hash": "a3b22757986ec463adffef3cc072bda7"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/cb331285a-overview.md": {
-    "mtime": 1782749876.4880805,
+    "mtime": 1782767533.013586,
     "ast_hash": "a3b22757986ec463adffef3cc072bda7",
     "semantic_hash": "a3b22757986ec463adffef3cc072bda7"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/cb3dbff3c-eventbridge-what-is.md": {
-    "mtime": 1782749968.0737562,
+    "mtime": 1782767533.013667,
     "ast_hash": "d7a0d63dd3d6b5a7d1f1aad29a3520b8",
     "semantic_hash": "d7a0d63dd3d6b5a7d1f1aad29a3520b8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/cb96f3ced-sqs-welcome.md": {
-    "mtime": 1782749969.8195715,
+    "mtime": 1782767533.0137162,
     "ast_hash": "f0f98711c0c26f8a2817e7234d876f9f",
     "semantic_hash": "f0f98711c0c26f8a2817e7234d876f9f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/cbd1c78b2-sqs-visibility-timeout.md": {
-    "mtime": 1782749969.6735044,
+    "mtime": 1782767533.0137894,
     "ast_hash": "bb836867899a4657c7d3d7bd726168de",
     "semantic_hash": "bb836867899a4657c7d3d7bd726168de"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/cbd1c78b2-visibility-timeout.md": {
-    "mtime": 1782749876.784706,
+    "mtime": 1782767533.0138624,
     "ast_hash": "bb836867899a4657c7d3d7bd726168de",
     "semantic_hash": "bb836867899a4657c7d3d7bd726168de"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/cbde547a8-glue-what-is.md": {
-    "mtime": 1782749968.368775,
+    "mtime": 1782767533.0139961,
     "ast_hash": "a016448447711ac1832e0c720f5a9e13",
     "semantic_hash": "a016448447711ac1832e0c720f5a9e13"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/cd57f8ab2-states.md": {
-    "mtime": 1782749876.635859,
+    "mtime": 1782767533.0140836,
     "ast_hash": "ef64aead97488caff8af206dcfe9f5da",
     "semantic_hash": "ef64aead97488caff8af206dcfe9f5da"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/cd57f8ab2-step-functions-states.md": {
-    "mtime": 1782749970.5507963,
+    "mtime": 1782767533.014154,
     "ast_hash": "ef64aead97488caff8af206dcfe9f5da",
     "semantic_hash": "ef64aead97488caff8af206dcfe9f5da"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/cdbd8c0c0-swf-welcome.md": {
-    "mtime": 1782749970.988069,
+    "mtime": 1782767533.0142236,
     "ast_hash": "0c1ff7f46c3a0c7f083ddb33261ac917",
     "semantic_hash": "0c1ff7f46c3a0c7f083ddb33261ac917"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/cdbd8c0c0-welcome.md": {
-    "mtime": 1782749877.0866022,
+    "mtime": 1782767533.0142825,
     "ast_hash": "0c1ff7f46c3a0c7f083ddb33261ac917",
     "semantic_hash": "0c1ff7f46c3a0c7f083ddb33261ac917"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/ce12ad49a-mwaa-what-is.md": {
-    "mtime": 1782749968.8054938,
+    "mtime": 1782767533.0143542,
     "ast_hash": "72b6140df2ea77c963f1f60cc97a1116",
     "semantic_hash": "72b6140df2ea77c963f1f60cc97a1116"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/06-cloud-aws/sources/ced180d84-sns-welcome.md": {
-    "mtime": 1782749968.949208,
+    "mtime": 1782767533.0144064,
     "ast_hash": "98b1eadcd4d6094558b8978574b6fb0b",
     "semantic_hash": "98b1eadcd4d6094558b8978574b6fb0b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c0008efe4-service-bus-overview.md": {
-    "mtime": 1782749973.1877623,
+    "mtime": 1782767533.0145543,
     "ast_hash": "7dc66948b3fb48b4f87fe00099637392",
     "semantic_hash": "7dc66948b3fb48b4f87fe00099637392"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c095a005f-event-grid-overview.md": {
-    "mtime": 1782749972.8908668,
+    "mtime": 1782767533.0146217,
     "ast_hash": "95e7ab9b36ac93e93f9bac65f6ba8ec2",
     "semantic_hash": "95e7ab9b36ac93e93f9bac65f6ba8ec2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c1040e934-durable-functions-versioning.md": {
-    "mtime": 1782749972.7459347,
+    "mtime": 1782767533.0146883,
     "ast_hash": "4a3428037e5b49b80a96014065b3d81d",
     "semantic_hash": "4a3428037e5b49b80a96014065b3d81d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c1040e934-versioning.md": {
-    "mtime": 1782749878.7212138,
+    "mtime": 1782767533.0147479,
     "ast_hash": "4a3428037e5b49b80a96014065b3d81d",
     "semantic_hash": "4a3428037e5b49b80a96014065b3d81d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c15a8c921-durable-functions-task-hubs.md": {
-    "mtime": 1782749972.600612,
+    "mtime": 1782767533.0148401,
     "ast_hash": "dd65d4e9b49e3171be83aaa5c6009155",
     "semantic_hash": "dd65d4e9b49e3171be83aaa5c6009155"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c15a8c921-task-hubs.md": {
-    "mtime": 1782749878.5621827,
+    "mtime": 1782767533.0150332,
     "ast_hash": "dd65d4e9b49e3171be83aaa5c6009155",
     "semantic_hash": "dd65d4e9b49e3171be83aaa5c6009155"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c316f2ab2-container-apps-jobs-overview.md": {
-    "mtime": 1782749971.416922,
+    "mtime": 1782767533.015122,
     "ast_hash": "33caa9ccc0b10b5668fbbfebf9b35598",
     "semantic_hash": "33caa9ccc0b10b5668fbbfebf9b35598"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c41adc238-logic-apps-overview.md": {
-    "mtime": 1782749973.0401247,
+    "mtime": 1782767533.015175,
     "ast_hash": "7d49a30df7eda18292386223454afb8d",
     "semantic_hash": "7d49a30df7eda18292386223454afb8d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c41adc238-overview.md": {
-    "mtime": 1782749878.2674649,
+    "mtime": 1782767533.015225,
     "ast_hash": "7d49a30df7eda18292386223454afb8d",
     "semantic_hash": "7d49a30df7eda18292386223454afb8d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c6f022566-storage-queues-intro.md": {
-    "mtime": 1782749973.3316731,
+    "mtime": 1782767533.0152874,
     "ast_hash": "87cb6607ef0582495f5c04ec4252a772",
     "semantic_hash": "87cb6607ef0582495f5c04ec4252a772"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c7fb12ad9-batch-overview.md": {
-    "mtime": 1782749971.2741132,
+    "mtime": 1782767533.0153527,
     "ast_hash": "fe96b5540a8033ab2a7d2bf4739bbd1f",
     "semantic_hash": "fe96b5540a8033ab2a7d2bf4739bbd1f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c986ff4cd-durable-functions-error-handling.md": {
-    "mtime": 1782749971.8538172,
+    "mtime": 1782767533.0154486,
     "ast_hash": "930493e116468867af847fb6c5f20047",
     "semantic_hash": "930493e116468867af847fb6c5f20047"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c986ff4cd-error-handling.md": {
-    "mtime": 1782749877.632718,
+    "mtime": 1782767533.0155458,
     "ast_hash": "930493e116468867af847fb6c5f20047",
     "semantic_hash": "930493e116468867af847fb6c5f20047"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c987ab833-durable-functions-eternal-orchestrations.md": {
-    "mtime": 1782749972.0028331,
+    "mtime": 1782767533.0156238,
     "ast_hash": "01fcbf09626dd841202ad5e7a7b0e9b5",
     "semantic_hash": "01fcbf09626dd841202ad5e7a7b0e9b5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/c987ab833-eternal-orchestrations.md": {
-    "mtime": 1782749877.7967286,
+    "mtime": 1782767533.0156827,
     "ast_hash": "01fcbf09626dd841202ad5e7a7b0e9b5",
     "semantic_hash": "01fcbf09626dd841202ad5e7a7b0e9b5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/cb73303e2-data-factory-intro.md": {
-    "mtime": 1782749971.5623448,
+    "mtime": 1782767533.0157247,
     "ast_hash": "99462fbba16a55c8943a0fe142dc472e",
     "semantic_hash": "99462fbba16a55c8943a0fe142dc472e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/cb73303e2-intro.md": {
-    "mtime": 1782749877.9502354,
+    "mtime": 1782767533.0157657,
     "ast_hash": "99462fbba16a55c8943a0fe142dc472e",
     "semantic_hash": "99462fbba16a55c8943a0fe142dc472e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/ce4cbbd94-durable-functions-overview.md": {
-    "mtime": 1782749972.3095727,
+    "mtime": 1782767533.0158203,
     "ast_hash": "d5def9d003e38448ab895bc34aa712eb",
     "semantic_hash": "d5def9d003e38448ab895bc34aa712eb"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/ce7a6a231-durable-functions-patterns.md": {
-    "mtime": 1782749972.455773,
+    "mtime": 1782767533.015886,
     "ast_hash": "1af19771fb2849eb727b35d61010f7ca",
     "semantic_hash": "1af19771fb2849eb727b35d61010f7ca"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/ce7a6a231-patterns.md": {
-    "mtime": 1782749878.4161606,
+    "mtime": 1782767533.0159461,
     "ast_hash": "1af19771fb2849eb727b35d61010f7ca",
     "semantic_hash": "1af19771fb2849eb727b35d61010f7ca"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/cf370497c-durable-functions-entities.md": {
-    "mtime": 1782749971.7082338,
+    "mtime": 1782767533.0160437,
     "ast_hash": "d4d6ccb44fa9d68f5dd104d935d29ff5",
     "semantic_hash": "d4d6ccb44fa9d68f5dd104d935d29ff5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/cf370497c-entities.md": {
-    "mtime": 1782749877.4868445,
+    "mtime": 1782767533.0174468,
     "ast_hash": "d4d6ccb44fa9d68f5dd104d935d29ff5",
     "semantic_hash": "d4d6ccb44fa9d68f5dd104d935d29ff5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/cfa15355b-durable-functions-orchestrations.md": {
-    "mtime": 1782749972.14845,
+    "mtime": 1782767533.0175042,
     "ast_hash": "d7a423a8f2f9efb8583d9190f86c206b",
     "semantic_hash": "d7a423a8f2f9efb8583d9190f86c206b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/07-cloud-azure/sources/cfa15355b-orchestrations.md": {
-    "mtime": 1782749878.1037297,
+    "mtime": 1782767533.0175562,
     "ast_hash": "d7a423a8f2f9efb8583d9190f86c206b",
     "semantic_hash": "d7a423a8f2f9efb8583d9190f86c206b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c15acad57-cloud-tasks-http-target-tasks.md": {
-    "mtime": 1782749974.3448572,
+    "mtime": 1782767533.017718,
     "ast_hash": "0600d8def62f5544eda9c56e71ecf96e",
     "semantic_hash": "0600d8def62f5544eda9c56e71ecf96e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c15acad57-http-target-tasks.md": {
-    "mtime": 1782749879.2637305,
+    "mtime": 1782767533.017794,
     "ast_hash": "0600d8def62f5544eda9c56e71ecf96e",
     "semantic_hash": "0600d8def62f5544eda9c56e71ecf96e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c32a79a8f-firebase-functions-overview.md": {
-    "mtime": 1782749975.0739892,
+    "mtime": 1782767533.0178576,
     "ast_hash": "95ed8f01fcdf454ae0289c93391de033",
     "semantic_hash": "95ed8f01fcdf454ae0289c93391de033"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c37dae40d-cloud-tasks-retry.md": {
-    "mtime": 1782749974.6336186,
+    "mtime": 1782767533.017913,
     "ast_hash": "9f6d8c34aece3c08aadd0c712f5c49c5",
     "semantic_hash": "9f6d8c34aece3c08aadd0c712f5c49c5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c37dae40d-retry.md": {
-    "mtime": 1782749879.559982,
+    "mtime": 1782767533.0179563,
     "ast_hash": "9f6d8c34aece3c08aadd0c712f5c49c5",
     "semantic_hash": "9f6d8c34aece3c08aadd0c712f5c49c5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c45b51242-cloud-run-jobs-overview.md": {
-    "mtime": 1782749973.756757,
+    "mtime": 1782767533.018057,
     "ast_hash": "7752fae0b4b867e13189c75fb97ed073",
     "semantic_hash": "7752fae0b4b867e13189c75fb97ed073"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c45b51242-overview.md": {
-    "mtime": 1782749879.4115772,
+    "mtime": 1782767533.0181441,
     "ast_hash": "7752fae0b4b867e13189c75fb97ed073",
     "semantic_hash": "7752fae0b4b867e13189c75fb97ed073"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c5d0890be-cloud-scheduler-overview.md": {
-    "mtime": 1782749973.9024508,
+    "mtime": 1782767533.0182533,
     "ast_hash": "063ce007b6fccabcc11229a93434f67f",
     "semantic_hash": "063ce007b6fccabcc11229a93434f67f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c60b72e99-dataflow-overview.md": {
-    "mtime": 1782749974.7786274,
+    "mtime": 1782767533.018334,
     "ast_hash": "8d9bbc69fffab43d15810c157a7987a3",
     "semantic_hash": "8d9bbc69fffab43d15810c157a7987a3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c812a53be-firebase-extensions-overview.md": {
-    "mtime": 1782749974.925633,
+    "mtime": 1782767533.0183902,
     "ast_hash": "fd3101aa148d788f800fcac72c387812",
     "semantic_hash": "fd3101aa148d788f800fcac72c387812"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c8bbf2e4d-cloud-tasks-configure-queues.md": {
-    "mtime": 1782749974.0544512,
+    "mtime": 1782767533.0184445,
     "ast_hash": "0e275c849108c8d8fb961a0e25d800d1",
     "semantic_hash": "0e275c849108c8d8fb961a0e25d800d1"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c8bbf2e4d-configure-queues.md": {
-    "mtime": 1782749878.96712,
+    "mtime": 1782767533.0184934,
     "ast_hash": "0e275c849108c8d8fb961a0e25d800d1",
     "semantic_hash": "0e275c849108c8d8fb961a0e25d800d1"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c98718cf0-pubsub-overview.md": {
-    "mtime": 1782749975.3637824,
+    "mtime": 1782767533.0185661,
     "ast_hash": "90dc4cbfd8eecfa949d8850fcbdc197f",
     "semantic_hash": "90dc4cbfd8eecfa949d8850fcbdc197f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/c99ac304a-cloud-tasks-overview.md": {
-    "mtime": 1782749974.4897802,
+    "mtime": 1782767533.018646,
     "ast_hash": "02c6ec145d030fb85f1c15a2ac3a0ea6",
     "semantic_hash": "02c6ec145d030fb85f1c15a2ac3a0ea6"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/ca057179c-cloud-tasks-create-queues.md": {
-    "mtime": 1782749974.1996996,
+    "mtime": 1782767533.0187178,
     "ast_hash": "4bc822f92ce94e8ada69edd2bce0c214",
     "semantic_hash": "4bc822f92ce94e8ada69edd2bce0c214"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/ca057179c-create-queues.md": {
-    "mtime": 1782749879.1145327,
+    "mtime": 1782767533.018782,
     "ast_hash": "4bc822f92ce94e8ada69edd2bce0c214",
     "semantic_hash": "4bc822f92ce94e8ada69edd2bce0c214"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/cbfe5d7cd-workflows-overview.md": {
-    "mtime": 1782749975.508745,
+    "mtime": 1782767533.0188546,
     "ast_hash": "7d1e66c20dc69c5d9939841b8edbe69d",
     "semantic_hash": "7d1e66c20dc69c5d9939841b8edbe69d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/cc804364e-firebase-task-functions-overview.md": {
-    "mtime": 1782749975.216734,
+    "mtime": 1782767533.0189083,
     "ast_hash": "d34e6e337e8c8deb33190af1ee8cbc63",
     "semantic_hash": "d34e6e337e8c8deb33190af1ee8cbc63"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/08-cloud-gcp-firebase/sources/cd1a4f815-cloud-composer-overview.md": {
-    "mtime": 1782749973.6132832,
+    "mtime": 1782767533.0189521,
     "ast_hash": "fe75ec839747c865641896339fd3fcc7",
     "semantic_hash": "fe75ec839747c865641896339fd3fcc7"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c19cb8573-guide.md": {
-    "mtime": 1782749881.2048512,
+    "mtime": 1782767533.0192237,
     "ast_hash": "861e80741b7e12be38033c54c22cf067",
     "semantic_hash": "861e80741b7e12be38033c54c22cf067"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c19cb8573-zeromq-guide.md": {
-    "mtime": 1782749978.921834,
+    "mtime": 1782767533.0194492,
     "ast_hash": "861e80741b7e12be38033c54c22cf067",
     "semantic_hash": "861e80741b7e12be38033c54c22cf067"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c1b49f029-queues.md": {
-    "mtime": 1782749881.961896,
+    "mtime": 1782767533.0195436,
     "ast_hash": "3de15183b9c7f672dc926da0fc3a50c8",
     "semantic_hash": "3de15183b9c7f672dc926da0fc3a50c8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c1b49f029-rabbitmq-queues.md": {
-    "mtime": 1782749978.0339437,
+    "mtime": 1782767533.0196354,
     "ast_hash": "3de15183b9c7f672dc926da0fc3a50c8",
     "semantic_hash": "3de15183b9c7f672dc926da0fc3a50c8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c1ec5fac0-concepts.md": {
-    "mtime": 1782749879.98363,
+    "mtime": 1782767533.0197465,
     "ast_hash": "2a0429383b9dc6f97efd4aaa44faad31",
     "semantic_hash": "2a0429383b9dc6f97efd4aaa44faad31"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c1ec5fac0-pulsar-concepts.md": {
-    "mtime": 1782749977.3054895,
+    "mtime": 1782767533.0198455,
     "ast_hash": "2a0429383b9dc6f97efd4aaa44faad31",
     "semantic_hash": "2a0429383b9dc6f97efd4aaa44faad31"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c4566170e-nats-streams.md": {
-    "mtime": 1782749977.1604865,
+    "mtime": 1782767533.0199134,
     "ast_hash": "2b49b3e716f55a1aa30244127a507060",
     "semantic_hash": "2b49b3e716f55a1aa30244127a507060"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c4566170e-streams.md": {
-    "mtime": 1782749882.4233508,
+    "mtime": 1782767533.0199766,
     "ast_hash": "2b49b3e716f55a1aa30244127a507060",
     "semantic_hash": "2b49b3e716f55a1aa30244127a507060"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c56a4eecc-activemq-artemis-address-model.md": {
-    "mtime": 1782749975.8219686,
+    "mtime": 1782767533.0200453,
     "ast_hash": "b91f6392822ca3b049c2ac90b2f8260f",
     "semantic_hash": "b91f6392822ca3b049c2ac90b2f8260f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c56a4eecc-address-model.md": {
-    "mtime": 1782749879.8356838,
+    "mtime": 1782767533.0201068,
     "ast_hash": "b91f6392822ca3b049c2ac90b2f8260f",
     "semantic_hash": "b91f6392822ca3b049c2ac90b2f8260f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c5724ce29-consumers.md": {
-    "mtime": 1782749880.2874546,
+    "mtime": 1782767533.0201693,
     "ast_hash": "0de254dc931059ad17b402df5cd7ea10",
     "semantic_hash": "0de254dc931059ad17b402df5cd7ea10"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c5724ce29-nats-consumers.md": {
-    "mtime": 1782749976.8476126,
+    "mtime": 1782767533.020228,
     "ast_hash": "0de254dc931059ad17b402df5cd7ea10",
     "semantic_hash": "0de254dc931059ad17b402df5cd7ea10"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c62b2d0a8-design.md": {
-    "mtime": 1782749880.6001606,
+    "mtime": 1782767533.0203335,
     "ast_hash": "1a2a900e0719198d84dec059618ed811",
     "semantic_hash": "1a2a900e0719198d84dec059618ed811"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c62b2d0a8-documentation.md": {
-    "mtime": 1782749881.0572252,
+    "mtime": 1782767533.0206442,
     "ast_hash": "1a2a900e0719198d84dec059618ed811",
     "semantic_hash": "1a2a900e0719198d84dec059618ed811"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c62b2d0a8-kafka-design.md": {
-    "mtime": 1782749976.4073594,
+    "mtime": 1782767533.0207353,
     "ast_hash": "1a2a900e0719198d84dec059618ed811",
     "semantic_hash": "1a2a900e0719198d84dec059618ed811"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c62b2d0a8-kafka-documentation.md": {
-    "mtime": 1782749976.5543292,
+    "mtime": 1782767533.020832,
     "ast_hash": "1a2a900e0719198d84dec059618ed811",
     "semantic_hash": "1a2a900e0719198d84dec059618ed811"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c66cb18d0-activemq-artemis-core.md": {
-    "mtime": 1782749975.9694674,
+    "mtime": 1782767533.0209372,
     "ast_hash": "906a077de2421a7580b7802d2d7b6ed2",
     "semantic_hash": "906a077de2421a7580b7802d2d7b6ed2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c66cb18d0-core.md": {
-    "mtime": 1782749880.4521353,
+    "mtime": 1782767533.0210254,
     "ast_hash": "906a077de2421a7580b7802d2d7b6ed2",
     "semantic_hash": "906a077de2421a7580b7802d2d7b6ed2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c67bac0a2-activemq-artemis-docs.md": {
-    "mtime": 1782749976.1168664,
+    "mtime": 1782767533.021076,
     "ast_hash": "e2618f9bd8730680a7a680b976c90e09",
     "semantic_hash": "e2618f9bd8730680a7a680b976c90e09"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c736c9e2c-jetstream.md": {
-    "mtime": 1782749881.3509054,
+    "mtime": 1782767533.0211425,
     "ast_hash": "1b1098f1ef736b0e96dff44f482462a0",
     "semantic_hash": "1b1098f1ef736b0e96dff44f482462a0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c736c9e2c-nats-jetstream.md": {
-    "mtime": 1782749976.9955578,
+    "mtime": 1782767533.021202,
     "ast_hash": "1b1098f1ef736b0e96dff44f482462a0",
     "semantic_hash": "1b1098f1ef736b0e96dff44f482462a0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c91aefe71-pubsub.md": {
-    "mtime": 1782749881.8136647,
+    "mtime": 1782767533.02126,
     "ast_hash": "234d4a7bf2b0479d80fc6ccfb05c2065",
     "semantic_hash": "234d4a7bf2b0479d80fc6ccfb05c2065"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c91aefe71-redis-pubsub.md": {
-    "mtime": 1782749978.6220472,
+    "mtime": 1782767533.0213227,
     "ast_hash": "234d4a7bf2b0479d80fc6ccfb05c2065",
     "semantic_hash": "234d4a7bf2b0479d80fc6ccfb05c2065"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c95827d78-rabbitmq-consumers.md": {
-    "mtime": 1782749977.5942614,
+    "mtime": 1782767533.0214152,
     "ast_hash": "fb4a6a67dc9dc3e95392eb5e58bbcead",
     "semantic_hash": "fb4a6a67dc9dc3e95392eb5e58bbcead"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c9fc89c19-docs.md": {
-    "mtime": 1782749880.908356,
+    "mtime": 1782767533.0214853,
     "ast_hash": "9d902decd8eed5ff26b8dc12bb331fe8",
     "semantic_hash": "9d902decd8eed5ff26b8dc12bb331fe8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/c9fc89c19-rabbitmq-docs.md": {
-    "mtime": 1782749977.8851833,
+    "mtime": 1782767533.0215523,
     "ast_hash": "9d902decd8eed5ff26b8dc12bb331fe8",
     "semantic_hash": "9d902decd8eed5ff26b8dc12bb331fe8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/ca1b52a3b-confirms.md": {
-    "mtime": 1782749880.1311986,
+    "mtime": 1782767533.0216353,
     "ast_hash": "7cc7d4267ece3815fdb65a8777a6c16d",
     "semantic_hash": "7cc7d4267ece3815fdb65a8777a6c16d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/ca1b52a3b-rabbitmq-confirms.md": {
-    "mtime": 1782749977.449797,
+    "mtime": 1782767533.0217147,
     "ast_hash": "7cc7d4267ece3815fdb65a8777a6c16d",
     "semantic_hash": "7cc7d4267ece3815fdb65a8777a6c16d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/ca2a2c636-quorum-queues.md": {
-    "mtime": 1782749882.1123598,
+    "mtime": 1782767533.0218427,
     "ast_hash": "58762b9e4fe0f1c3d354e5e336d9d96e",
     "semantic_hash": "58762b9e4fe0f1c3d354e5e336d9d96e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/ca2a2c636-rabbitmq-quorum-queues.md": {
-    "mtime": 1782749978.181458,
+    "mtime": 1782767533.021952,
     "ast_hash": "58762b9e4fe0f1c3d354e5e336d9d96e",
     "semantic_hash": "58762b9e4fe0f1c3d354e5e336d9d96e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/ca65bc95e-redis-streams.md": {
-    "mtime": 1782749978.7754395,
+    "mtime": 1782767533.0240116,
     "ast_hash": "aa64c21afc1490e0b30a2150f61c3451",
     "semantic_hash": "aa64c21afc1490e0b30a2150f61c3451"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/ca846c6c1-activemq-artemis-persistence.md": {
-    "mtime": 1782749976.2629983,
+    "mtime": 1782767533.024192,
     "ast_hash": "91f4079525170350d0c9ec59cc37f6ae",
     "semantic_hash": "91f4079525170350d0c9ec59cc37f6ae"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/ca846c6c1-persistence.md": {
-    "mtime": 1782749881.511228,
+    "mtime": 1782767533.024269,
     "ast_hash": "91f4079525170350d0c9ec59cc37f6ae",
     "semantic_hash": "91f4079525170350d0c9ec59cc37f6ae"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/cba5dcf86-rabbitmq-reliability.md": {
-    "mtime": 1782749978.328281,
+    "mtime": 1782767533.0243363,
     "ast_hash": "b93d4ccc1b20a2055730f16e8cd2c806",
     "semantic_hash": "b93d4ccc1b20a2055730f16e8cd2c806"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/cba5dcf86-reliability.md": {
-    "mtime": 1782749882.2610836,
+    "mtime": 1782767533.024395,
     "ast_hash": "b93d4ccc1b20a2055730f16e8cd2c806",
     "semantic_hash": "b93d4ccc1b20a2055730f16e8cd2c806"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/cbe0826f3-rabbitmq-streams.md": {
-    "mtime": 1782749978.4745703,
+    "mtime": 1782767533.024475,
     "ast_hash": "838d0f19a2c4539f6363cdfbba665d61",
     "semantic_hash": "838d0f19a2c4539f6363cdfbba665d61"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/cd0d8b284-kafka-protocol.md": {
-    "mtime": 1782749976.7010345,
+    "mtime": 1782767533.0247808,
     "ast_hash": "8756d0658d9b80a47e7bbf54bed4a207",
     "semantic_hash": "8756d0658d9b80a47e7bbf54bed4a207"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/cd0d8b284-protocol.md": {
-    "mtime": 1782749881.66052,
+    "mtime": 1782767533.0250301,
     "ast_hash": "8756d0658d9b80a47e7bbf54bed4a207",
     "semantic_hash": "8756d0658d9b80a47e7bbf54bed4a207"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/ce2406bb0-dlx.md": {
-    "mtime": 1782749880.757606,
+    "mtime": 1782767533.0251036,
     "ast_hash": "a9e5dda52cf4ea3cddae782c9c1b844b",
     "semantic_hash": "a9e5dda52cf4ea3cddae782c9c1b844b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/09-brokers/sources/ce2406bb0-rabbitmq-dlx.md": {
-    "mtime": 1782749977.7390745,
+    "mtime": 1782767533.0251572,
     "ast_hash": "a9e5dda52cf4ea3cddae782c9c1b844b",
     "semantic_hash": "a9e5dda52cf4ea3cddae782c9c1b844b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/c1b3281f7-core.md": {
-    "mtime": 1782749882.828863,
+    "mtime": 1782767533.025329,
     "ast_hash": "040a6379db515d397f3a64f716b3f2c0",
     "semantic_hash": "040a6379db515d397f3a64f716b3f2c0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/c1b3281f7-ray-core.md": {
-    "mtime": 1782749981.1152015,
+    "mtime": 1782767533.0254238,
     "ast_hash": "040a6379db515d397f3a64f716b3f2c0",
     "semantic_hash": "040a6379db515d397f3a64f716b3f2c0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/c21dc74a2-k8s-jobs-workqueue.md": {
-    "mtime": 1782749980.5294573,
+    "mtime": 1782767533.0255353,
     "ast_hash": "cb357a66616a5c73763cfb4ec08e362e",
     "semantic_hash": "cb357a66616a5c73763cfb4ec08e362e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/c21dc74a2-workqueue.md": {
-    "mtime": 1782749884.0342307,
+    "mtime": 1782767533.0256305,
     "ast_hash": "cb357a66616a5c73763cfb4ec08e362e",
     "semantic_hash": "cb357a66616a5c73763cfb4ec08e362e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/c224959d6-docs.md": {
-    "mtime": 1782749883.2749035,
+    "mtime": 1782767533.0257208,
     "ast_hash": "9e7a4386c99d5c2c4b1032098521eda8",
     "semantic_hash": "9e7a4386c99d5c2c4b1032098521eda8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/c224959d6-nomad-docs.md": {
-    "mtime": 1782749980.967639,
+    "mtime": 1782767533.0258176,
     "ast_hash": "9e7a4386c99d5c2c4b1032098521eda8",
     "semantic_hash": "9e7a4386c99d5c2c4b1032098521eda8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/c2747faca-kueue-overview.md": {
-    "mtime": 1782749980.824656,
+    "mtime": 1782767533.0258892,
     "ast_hash": "d71a6e29c16725e94da040e1da4586e7",
     "semantic_hash": "d71a6e29c16725e94da040e1da4586e7"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/c28f50fc4-slurm-overview.md": {
-    "mtime": 1782749981.2610133,
+    "mtime": 1782767533.0259614,
     "ast_hash": "b7bf927c0467b5b49f5874e1267d7a97",
     "semantic_hash": "b7bf927c0467b5b49f5874e1267d7a97"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/c41324cb5-keda-overview.md": {
-    "mtime": 1782749980.6783495,
+    "mtime": 1782767533.0260773,
     "ast_hash": "eca1e92be1ad6fbb8b351d00daa67a3f",
     "semantic_hash": "eca1e92be1ad6fbb8b351d00daa67a3f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/c4991bc3d-htcondor-overview.md": {
-    "mtime": 1782749979.358294,
+    "mtime": 1782767533.0261436,
     "ast_hash": "8fb0bd45dd53ad58e8c483e01e83689c",
     "semantic_hash": "8fb0bd45dd53ad58e8c483e01e83689c"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/c635be951-k8s-cronjobs-concept.md": {
-    "mtime": 1782749979.5034678,
+    "mtime": 1782767533.0262072,
     "ast_hash": "049a3fab1f7b4abf7a4be85c18d80a1b",
     "semantic_hash": "049a3fab1f7b4abf7a4be85c18d80a1b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/c8ef34c71-k8s-jobs-pod-failure-policy.md": {
-    "mtime": 1782749980.3823302,
+    "mtime": 1782767533.0263286,
     "ast_hash": "5aeb69a6e6817e3a1b96280dbe86994f",
     "semantic_hash": "5aeb69a6e6817e3a1b96280dbe86994f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/c8ef34c71-pod-failure-policy.md": {
-    "mtime": 1782749883.741014,
+    "mtime": 1782767533.0264266,
     "ast_hash": "5aeb69a6e6817e3a1b96280dbe86994f",
     "semantic_hash": "5aeb69a6e6817e3a1b96280dbe86994f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/ca3f81a0e-overview.md": {
-    "mtime": 1782749883.5811005,
+    "mtime": 1782767533.0265257,
     "ast_hash": "ade46becaba025fc83f568328611d57b",
     "semantic_hash": "ade46becaba025fc83f568328611d57b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/ca3f81a0e-volcano-overview.md": {
-    "mtime": 1782749981.4101849,
+    "mtime": 1782767533.0266175,
     "ast_hash": "ade46becaba025fc83f568328611d57b",
     "semantic_hash": "ade46becaba025fc83f568328611d57b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/cb7c4e028-indexed.md": {
-    "mtime": 1782749883.4241912,
+    "mtime": 1782767533.0266702,
     "ast_hash": "b4357b937d145fd3f5320993b001558d",
     "semantic_hash": "b4357b937d145fd3f5320993b001558d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/cb7c4e028-k8s-jobs-indexed.md": {
-    "mtime": 1782749980.237716,
+    "mtime": 1782767533.0267262,
     "ast_hash": "b4357b937d145fd3f5320993b001558d",
     "semantic_hash": "b4357b937d145fd3f5320993b001558d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/cd7189fe4-cronjob-task.md": {
-    "mtime": 1782749882.9761462,
+    "mtime": 1782767533.0268297,
     "ast_hash": "0e4d6f2409b1ff20f07c6bfd7474ef30",
     "semantic_hash": "0e4d6f2409b1ff20f07c6bfd7474ef30"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/cd7189fe4-k8s-jobs-cronjob-task.md": {
-    "mtime": 1782749979.9417505,
+    "mtime": 1782767533.0269358,
     "ast_hash": "0e4d6f2409b1ff20f07c6bfd7474ef30",
     "semantic_hash": "0e4d6f2409b1ff20f07c6bfd7474ef30"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/cdca2674b-disruptions.md": {
-    "mtime": 1782749883.1260614,
+    "mtime": 1782767533.0270574,
     "ast_hash": "5ad65a97895c44444f946a9a81100ed5",
     "semantic_hash": "5ad65a97895c44444f946a9a81100ed5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/cdca2674b-k8s-jobs-disruptions.md": {
-    "mtime": 1782749980.090385,
+    "mtime": 1782767533.0271683,
     "ast_hash": "5ad65a97895c44444f946a9a81100ed5",
     "semantic_hash": "5ad65a97895c44444f946a9a81100ed5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/ce572728a-k8s-job-api-reference.md": {
-    "mtime": 1782749979.6522908,
+    "mtime": 1782767533.0272927,
     "ast_hash": "9aa55c7d31ac7f77125d090f9ef47b64",
     "semantic_hash": "9aa55c7d31ac7f77125d090f9ef47b64"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/ce572728a-reference.md": {
-    "mtime": 1782749883.8902729,
+    "mtime": 1782767533.0274127,
     "ast_hash": "9aa55c7d31ac7f77125d090f9ef47b64",
     "semantic_hash": "9aa55c7d31ac7f77125d090f9ef47b64"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/cf56364e3-concept.md": {
-    "mtime": 1782749882.6775806,
+    "mtime": 1782767533.0275524,
     "ast_hash": "e674806d7b72f876b63a9ba080ebab92",
     "semantic_hash": "e674806d7b72f876b63a9ba080ebab92"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/cf56364e3-k8s-jobs-concept.md": {
-    "mtime": 1782749979.797948,
+    "mtime": 1782767533.0276737,
     "ast_hash": "e674806d7b72f876b63a9ba080ebab92",
     "semantic_hash": "e674806d7b72f876b63a9ba080ebab92"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/10-container-batch/sources/cf8e4385f-dask-overview.md": {
-    "mtime": 1782749979.2137878,
+    "mtime": 1782767533.027749,
     "ast_hash": "51c60c2c9aa5a9b9a1dda9f6f5bb75ad",
     "semantic_hash": "51c60c2c9aa5a9b9a1dda9f6f5bb75ad"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/11-data-pipeline/sources/c0394b138-beam-overview.md": {
-    "mtime": 1782749981.6536858,
+    "mtime": 1782767533.0282538,
     "ast_hash": "fd5c643d70d1f508f9170dec4efce4ff",
     "semantic_hash": "fd5c643d70d1f508f9170dec4efce4ff"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/11-data-pipeline/sources/c15e78c4b-dbt-overview.md": {
-    "mtime": 1782749981.858257,
+    "mtime": 1782767533.0283449,
     "ast_hash": "ebbf3872e4a766c8978816c0e3ab3bcc",
     "semantic_hash": "ebbf3872e4a766c8978816c0e3ab3bcc"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/11-data-pipeline/sources/c17f16782-debezium-overview.md": {
-    "mtime": 1782749982.0062068,
+    "mtime": 1782767533.0284443,
     "ast_hash": "543df061acb5293b851568ca89400c62",
     "semantic_hash": "543df061acb5293b851568ca89400c62"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/11-data-pipeline/sources/c17f16782-overview.md": {
-    "mtime": 1782749884.5652938,
+    "mtime": 1782767533.028538,
     "ast_hash": "543df061acb5293b851568ca89400c62",
     "semantic_hash": "543df061acb5293b851568ca89400c62"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/11-data-pipeline/sources/c9885a6d8-flink-overview.md": {
-    "mtime": 1782749982.1518688,
+    "mtime": 1782767533.0286176,
     "ast_hash": "93965bbed00de71afd9c0849e40c7080",
     "semantic_hash": "93965bbed00de71afd9c0849e40c7080"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/11-data-pipeline/sources/cfaca0434-docs.md": {
-    "mtime": 1782749884.2677932,
+    "mtime": 1782767533.028726,
     "ast_hash": "b8d7f0cc165bd358b1dfe62d0db01070",
     "semantic_hash": "b8d7f0cc165bd358b1dfe62d0db01070"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/11-data-pipeline/sources/cfaca0434-nifi-docs.md": {
-    "mtime": 1782749982.29822,
+    "mtime": 1782767533.028795,
     "ast_hash": "b8d7f0cc165bd358b1dfe62d0db01070",
     "semantic_hash": "b8d7f0cc165bd358b1dfe62d0db01070"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/11-data-pipeline/sources/cfb07f903-job-scheduling.md": {
-    "mtime": 1782749884.4162495,
+    "mtime": 1782767533.0288782,
     "ast_hash": "812209aa75af8ecd220c8cf91b80c7db",
     "semantic_hash": "812209aa75af8ecd220c8cf91b80c7db"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/11-data-pipeline/sources/cfb07f903-spark-job-scheduling.md": {
-    "mtime": 1782749982.4463077,
+    "mtime": 1782767533.028954,
     "ast_hash": "812209aa75af8ecd220c8cf91b80c7db",
     "semantic_hash": "812209aa75af8ecd220c8cf91b80c7db"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c130f57e1-tekton-overview.md": {
-    "mtime": 1782749984.654862,
+    "mtime": 1782767533.0291026,
     "ast_hash": "d52a3388cd8f3cb01acb48f67a440fff",
     "semantic_hash": "d52a3388cd8f3cb01acb48f67a440fff"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c16e7ac03-circleci-config-reference.md": {
-    "mtime": 1782749983.1662278,
+    "mtime": 1782767533.0292609,
     "ast_hash": "dc92730e8993b6d9c2fbacc2f295b172",
     "semantic_hash": "dc92730e8993b6d9c2fbacc2f295b172"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c16e7ac03-config-reference.md": {
-    "mtime": 1782749884.9914756,
+    "mtime": 1782767533.0293932,
     "ast_hash": "dc92730e8993b6d9c2fbacc2f295b172",
     "semantic_hash": "dc92730e8993b6d9c2fbacc2f295b172"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c175a526c-circleci-overview.md": {
-    "mtime": 1782749983.3129401,
+    "mtime": 1782767533.0294673,
     "ast_hash": "85953c41fe6841d9721bfdc1462511c2",
     "semantic_hash": "85953c41fe6841d9721bfdc1462511c2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c29364912-argo-cd-overview.md": {
-    "mtime": 1782749982.7253087,
+    "mtime": 1782767533.02954,
     "ast_hash": "3e2d3f2dd034fe18af24bc26440e200d",
     "semantic_hash": "3e2d3f2dd034fe18af24bc26440e200d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c395fcb65-gitlab-ci-overview.md": {
-    "mtime": 1782749984.3561876,
+    "mtime": 1782767533.0296462,
     "ast_hash": "88bf0b03797af31b12061fd49fdaf04a",
     "semantic_hash": "88bf0b03797af31b12061fd49fdaf04a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c3f8aaa77-circleci-concepts.md": {
-    "mtime": 1782749983.0195541,
+    "mtime": 1782767533.0297518,
     "ast_hash": "6e516a21f8f30bb148935e4750635ce2",
     "semantic_hash": "6e516a21f8f30bb148935e4750635ce2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c3f8aaa77-concepts.md": {
-    "mtime": 1782749884.820853,
+    "mtime": 1782767533.0314996,
     "ast_hash": "6e516a21f8f30bb148935e4750635ce2",
     "semantic_hash": "6e516a21f8f30bb148935e4750635ce2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c428c480a-jenkins-pipeline.md": {
-    "mtime": 1782749984.5057507,
+    "mtime": 1782767533.0315907,
     "ast_hash": "3d458dafb10fdc0ef49fda44e8a7ca3d",
     "semantic_hash": "3d458dafb10fdc0ef49fda44e8a7ca3d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c428c480a-pipeline.md": {
-    "mtime": 1782749885.2859242,
+    "mtime": 1782767533.0316584,
     "ast_hash": "3d458dafb10fdc0ef49fda44e8a7ca3d",
     "semantic_hash": "3d458dafb10fdc0ef49fda44e8a7ca3d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c77db9833-circleci-workflows.md": {
-    "mtime": 1782749983.4581575,
+    "mtime": 1782767533.03177,
     "ast_hash": "bb7034e03c206fb1d9a46ddd9b56d2ea",
     "semantic_hash": "bb7034e03c206fb1d9a46ddd9b56d2ea"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c77db9833-workflows.md": {
-    "mtime": 1782749885.8785748,
+    "mtime": 1782767533.0318727,
     "ast_hash": "bb7034e03c206fb1d9a46ddd9b56d2ea",
     "semantic_hash": "bb7034e03c206fb1d9a46ddd9b56d2ea"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c797764b0-drone-pipelines.md": {
-    "mtime": 1782749983.7481244,
+    "mtime": 1782767533.0319715,
     "ast_hash": "a842d383c9a209db009fcc350e35ad45",
     "semantic_hash": "a842d383c9a209db009fcc350e35ad45"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c797764b0-pipelines.md": {
-    "mtime": 1782749885.4332347,
+    "mtime": 1782767533.032059,
     "ast_hash": "a842d383c9a209db009fcc350e35ad45",
     "semantic_hash": "a842d383c9a209db009fcc350e35ad45"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c9c1805a5-github-actions-overview.md": {
-    "mtime": 1782749984.044476,
+    "mtime": 1782767533.0321288,
     "ast_hash": "5a393ec7516290c06a740e3380fdb26f",
     "semantic_hash": "5a393ec7516290c06a740e3380fdb26f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/c9c1805a5-overview.md": {
-    "mtime": 1782749885.1385024,
+    "mtime": 1782767533.0321944,
     "ast_hash": "5a393ec7516290c06a740e3380fdb26f",
     "semantic_hash": "5a393ec7516290c06a740e3380fdb26f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/cb5d2aa75-drone-overview.md": {
-    "mtime": 1782749983.6026015,
+    "mtime": 1782767533.0322635,
     "ast_hash": "273a47297449ae06872054bd829298a8",
     "semantic_hash": "273a47297449ae06872054bd829298a8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/cc0f727de-drone-triggers.md": {
-    "mtime": 1782749983.896462,
+    "mtime": 1782767533.0323792,
     "ast_hash": "0e664eb65543ce8ee07ddd3b1c93a106",
     "semantic_hash": "0e664eb65543ce8ee07ddd3b1c93a106"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/cc0f727de-triggers.md": {
-    "mtime": 1782749885.579289,
+    "mtime": 1782767533.0324821,
     "ast_hash": "0e664eb65543ce8ee07ddd3b1c93a106",
     "semantic_hash": "0e664eb65543ce8ee07ddd3b1c93a106"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/ce6e977f8-buildkite-overview.md": {
-    "mtime": 1782749982.8726327,
+    "mtime": 1782767533.0325842,
     "ast_hash": "7508c14e6e3aafcb78e0dd98de2ed02f",
     "semantic_hash": "7508c14e6e3aafcb78e0dd98de2ed02f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/cebcb4921-github-actions-workflow-syntax.md": {
-    "mtime": 1782749984.2107031,
+    "mtime": 1782767533.032773,
     "ast_hash": "5bd26c04a6e9eb22003136d845578d03",
     "semantic_hash": "5bd26c04a6e9eb22003136d845578d03"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/12-cicd/sources/cebcb4921-workflow-syntax.md": {
-    "mtime": 1782749885.73132,
+    "mtime": 1782767533.0329502,
     "ast_hash": "5bd26c04a6e9eb22003136d845578d03",
     "semantic_hash": "5bd26c04a6e9eb22003136d845578d03"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/13-scheduling/sources/c19760f77-man.md": {
-    "mtime": 1782749886.1077442,
+    "mtime": 1782767533.0331066,
     "ast_hash": "1024de49a35a2d1d211982505ac4f5e0",
     "semantic_hash": "1024de49a35a2d1d211982505ac4f5e0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/13-scheduling/sources/c19760f77-systemd-timers-man.md": {
-    "mtime": 1782749984.874935,
+    "mtime": 1782767533.0331788,
     "ast_hash": "1024de49a35a2d1d211982505ac4f5e0",
     "semantic_hash": "1024de49a35a2d1d211982505ac4f5e0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/14-observability/sources/c2792f5cd-overview.md": {
-    "mtime": 1782749886.488457,
+    "mtime": 1782767533.0333657,
     "ast_hash": "f1427a98304a5d2687f4a85425d2dd20",
     "semantic_hash": "f1427a98304a5d2687f4a85425d2dd20"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/14-observability/sources/c2792f5cd-prometheus-overview.md": {
-    "mtime": 1782749985.549235,
+    "mtime": 1782767533.0334725,
     "ast_hash": "f1427a98304a5d2687f4a85425d2dd20",
     "semantic_hash": "f1427a98304a5d2687f4a85425d2dd20"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/14-observability/sources/c2f4d8110-grafana-overview.md": {
-    "mtime": 1782749985.2587845,
+    "mtime": 1782767533.0336,
     "ast_hash": "5ce1cdd93c3f53105c1778144e2171ec",
     "semantic_hash": "5ce1cdd93c3f53105c1778144e2171ec"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/14-observability/sources/c6fe3f972-flower-overview.md": {
-    "mtime": 1782749985.1111958,
+    "mtime": 1782767533.033699,
     "ast_hash": "5d83ac6dcb021c866ed8a3753803d4c3",
     "semantic_hash": "5d83ac6dcb021c866ed8a3753803d4c3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/14-observability/sources/c76a8ccf7-docs.md": {
-    "mtime": 1782749886.3391364,
+    "mtime": 1782767533.03382,
     "ast_hash": "f0ed0b34b44843cb9a167a6ace32ca13",
     "semantic_hash": "f0ed0b34b44843cb9a167a6ace32ca13"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/14-observability/sources/c76a8ccf7-opentelemetry-docs.md": {
-    "mtime": 1782749985.4031126,
+    "mtime": 1782767533.033924,
     "ast_hash": "f0ed0b34b44843cb9a167a6ace32ca13",
     "semantic_hash": "f0ed0b34b44843cb9a167a6ace32ca13"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c0978fde7-json-schema-structuring.md": {
-    "mtime": 1782749987.2200933,
+    "mtime": 1782767533.0340745,
     "ast_hash": "17cd447c10bc3b6c5ed47f7e8b988193",
     "semantic_hash": "17cd447c10bc3b6c5ed47f7e8b988193"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c0978fde7-structuring.md": {
-    "mtime": 1782749888.2552426,
+    "mtime": 1782767533.034145,
     "ast_hash": "17cd447c10bc3b6c5ed47f7e8b988193",
     "semantic_hash": "17cd447c10bc3b6c5ed47f7e8b988193"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c206336e5-dsl.md": {
-    "mtime": 1782749886.9082894,
+    "mtime": 1782767533.0342643,
     "ast_hash": "4683167f44b469317a73fac76062bbfd",
     "semantic_hash": "4683167f44b469317a73fac76062bbfd"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c206336e5-serverless-workflow-dsl.md": {
-    "mtime": 1782749987.802962,
+    "mtime": 1782767533.034374,
     "ast_hash": "4683167f44b469317a73fac76062bbfd",
     "semantic_hash": "4683167f44b469317a73fac76062bbfd"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c20f15872-cloudevents-http-binding.md": {
-    "mtime": 1782749986.1297119,
+    "mtime": 1782767533.0344276,
     "ast_hash": "57d01e92d4650549d1d77718e6e9f520",
     "semantic_hash": "57d01e92d4650549d1d77718e6e9f520"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c20f15872-http-binding.md": {
-    "mtime": 1782749887.0572598,
+    "mtime": 1782767533.0344803,
     "ast_hash": "57d01e92d4650549d1d77718e6e9f520",
     "semantic_hash": "57d01e92d4650549d1d77718e6e9f520"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c27d9d4d3-bpmn-spec.md": {
-    "mtime": 1782749985.9810696,
+    "mtime": 1782767533.0345466,
     "ast_hash": "8a6604947812bd690c9f7ef215cada64",
     "semantic_hash": "8a6604947812bd690c9f7ef215cada64"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c27d9d4d3-spec.md": {
-    "mtime": 1782749888.105507,
+    "mtime": 1782767533.0346086,
     "ast_hash": "8a6604947812bd690c9f7ef215cada64",
     "semantic_hash": "8a6604947812bd690c9f7ef215cada64"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c2b839970-cloudevents-primer.md": {
-    "mtime": 1782749986.635551,
+    "mtime": 1782767533.0350041,
     "ast_hash": "2c16f2a57ceb4ba2d6540ca6a223c384",
     "semantic_hash": "2c16f2a57ceb4ba2d6540ca6a223c384"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c2b839970-primer.md": {
-    "mtime": 1782749887.807244,
+    "mtime": 1782767533.0352874,
     "ast_hash": "2c16f2a57ceb4ba2d6540ca6a223c384",
     "semantic_hash": "2c16f2a57ceb4ba2d6540ca6a223c384"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c2c73f13a-cloudevents-json-format.md": {
-    "mtime": 1782749986.275035,
+    "mtime": 1782767533.0353615,
     "ast_hash": "17331a1217498832f74b6e0b4c0c31d4",
     "semantic_hash": "17331a1217498832f74b6e0b4c0c31d4"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c2c73f13a-json-format.md": {
-    "mtime": 1782749887.2059517,
+    "mtime": 1782767533.0354314,
     "ast_hash": "17331a1217498832f74b6e0b4c0c31d4",
     "semantic_hash": "17331a1217498832f74b6e0b4c0c31d4"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c569055f7-json-schema-reference.md": {
-    "mtime": 1782749987.0752492,
+    "mtime": 1782767533.0355346,
     "ast_hash": "b6562efa75c8c4d3ffd300f293536192",
     "semantic_hash": "b6562efa75c8c4d3ffd300f293536192"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c569055f7-reference.md": {
-    "mtime": 1782749887.9577258,
+    "mtime": 1782767533.0356405,
     "ast_hash": "b6562efa75c8c4d3ffd300f293536192",
     "semantic_hash": "b6562efa75c8c4d3ffd300f293536192"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c7e1e1696-openapi-spec.md": {
-    "mtime": 1782749987.5152328,
+    "mtime": 1782767533.035973,
     "ast_hash": "d710f251ef73e7f46f1c3bf64ef96e32",
     "semantic_hash": "d710f251ef73e7f46f1c3bf64ef96e32"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/c8b3b5427-cloudevents-spec.md": {
-    "mtime": 1782749986.780103,
+    "mtime": 1782767533.0360672,
     "ast_hash": "0284066ed9e7002568b0f4bb2c70238f",
     "semantic_hash": "0284066ed9e7002568b0f4bb2c70238f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/cb37a61c6-cloudevents-kafka-binding.md": {
-    "mtime": 1782749986.4209228,
+    "mtime": 1782767533.036133,
     "ast_hash": "1d0f96b8dbecd67611d5917e260fbaba",
     "semantic_hash": "1d0f96b8dbecd67611d5917e260fbaba"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/cb37a61c6-kafka-binding.md": {
-    "mtime": 1782749887.3548572,
+    "mtime": 1782767533.0361915,
     "ast_hash": "1d0f96b8dbecd67611d5917e260fbaba",
     "semantic_hash": "1d0f96b8dbecd67611d5917e260fbaba"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/cba12dca9-learn.md": {
-    "mtime": 1782749887.501944,
+    "mtime": 1782767533.0362747,
     "ast_hash": "4c6ad41af5c65c26671beb06a6494c43",
     "semantic_hash": "4c6ad41af5c65c26671beb06a6494c43"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/cba12dca9-openapi-learn.md": {
-    "mtime": 1782749987.3670378,
+    "mtime": 1782767533.03636,
     "ast_hash": "4c6ad41af5c65c26671beb06a6494c43",
     "semantic_hash": "4c6ad41af5c65c26671beb06a6494c43"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/cc117ea67-dsl-reference.md": {
-    "mtime": 1782749886.7608006,
+    "mtime": 1782767533.0364897,
     "ast_hash": "7a77b484a4e7c8793a2c8a0e46dd64f7",
     "semantic_hash": "7a77b484a4e7c8793a2c8a0e46dd64f7"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/cc117ea67-serverless-workflow-dsl-reference.md": {
-    "mtime": 1782749987.6602373,
+    "mtime": 1782767533.036626,
     "ast_hash": "7a77b484a4e7c8793a2c8a0e46dd64f7",
     "semantic_hash": "7a77b484a4e7c8793a2c8a0e46dd64f7"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/ccaae1bf9-asyncapi-overview.md": {
-    "mtime": 1782749985.8330324,
+    "mtime": 1782767533.0367098,
     "ast_hash": "212d19b1fc7ba240ca9fa1f68b7260e5",
     "semantic_hash": "212d19b1fc7ba240ca9fa1f68b7260e5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/ce4bbacfb-json-schema-overview.md": {
-    "mtime": 1782749986.9274967,
+    "mtime": 1782767533.036808,
     "ast_hash": "de64d6772d05be322f7e525cd0d009f3",
     "semantic_hash": "de64d6772d05be322f7e525cd0d009f3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/ce4bbacfb-overview.md": {
-    "mtime": 1782749887.649573,
+    "mtime": 1782767533.0368948,
     "ast_hash": "de64d6772d05be322f7e525cd0d009f3",
     "semantic_hash": "de64d6772d05be322f7e525cd0d009f3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/15-specs/sources/ce5e8348b-serverless-workflow-overview.md": {
-    "mtime": 1782749987.9489424,
+    "mtime": 1782767533.0369704,
     "ast_hash": "7944c14a8b27968f5852d8276ace89fd",
     "semantic_hash": "7944c14a8b27968f5852d8276ace89fd"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/16-local-dev/sources/ca0f3688c-firebase-emulator-overview.md": {
-    "mtime": 1782749988.4870803,
+    "mtime": 1782767533.0371072,
     "ast_hash": "355fb57624b9b673bdb737e9d9b69737",
     "semantic_hash": "355fb57624b9b673bdb737e9d9b69737"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/16-local-dev/sources/cb229b574-testcontainers-overview.md": {
-    "mtime": 1782749988.7785432,
+    "mtime": 1782767533.0372179,
     "ast_hash": "41160974727333eb1abbc3b0850235f2",
     "semantic_hash": "41160974727333eb1abbc3b0850235f2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/16-local-dev/sources/cc5e4e34b-azurite-overview.md": {
-    "mtime": 1782749988.1930618,
+    "mtime": 1782767533.0372634,
     "ast_hash": "4c95efeffe2d64c61235f0c53216c2f0",
     "semantic_hash": "4c95efeffe2d64c61235f0c53216c2f0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/16-local-dev/sources/cdc1bee4c-localstack-overview.md": {
-    "mtime": 1782749988.634081,
+    "mtime": 1782767533.0373292,
     "ast_hash": "b9ce505e5347a36687e81ff67dfeddf4",
     "semantic_hash": "b9ce505e5347a36687e81ff67dfeddf4"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/16-local-dev/sources/cf07b08f2-docker-compose-overview.md": {
-    "mtime": 1782749988.3381617,
+    "mtime": 1782767533.040402,
     "ast_hash": "9ad288c9b25ce372abf3d4066b5c0268",
     "semantic_hash": "9ad288c9b25ce372abf3d4066b5c0268"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/16-local-dev/sources/cf07b08f2-overview.md": {
-    "mtime": 1782749888.486676,
+    "mtime": 1782767533.0406597,
     "ast_hash": "9ad288c9b25ce372abf3d4066b5c0268",
     "semantic_hash": "9ad288c9b25ce372abf3d4066b5c0268"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c083ff4c0-k9s-overview.md": {
-    "mtime": 1782749992.0982308,
+    "mtime": 1782767533.0408134,
     "ast_hash": "e3fcdf2028bf814c42fc62115bdafa1d",
     "semantic_hash": "e3fcdf2028bf814c42fc62115bdafa1d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c083ff4c0-overview.md": {
-    "mtime": 1782749890.4330595,
+    "mtime": 1782767533.040879,
     "ast_hash": "e3fcdf2028bf814c42fc62115bdafa1d",
     "semantic_hash": "e3fcdf2028bf814c42fc62115bdafa1d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c103bc45b-step-functions-console-workflow-studio.md": {
-    "mtime": 1782749993.4273255,
+    "mtime": 1782767533.0409381,
     "ast_hash": "5d652828443382b037765a8883b67b0d",
     "semantic_hash": "5d652828443382b037765a8883b67b0d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c103bc45b-workflow-studio.md": {
-    "mtime": 1782749892.127233,
+    "mtime": 1782767533.040994,
     "ast_hash": "5d652828443382b037765a8883b67b0d",
     "semantic_hash": "5d652828443382b037765a8883b67b0d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c11067bf2-batch-console-monitoring.md": {
-    "mtime": 1782749989.7279835,
+    "mtime": 1782767533.0410733,
     "ast_hash": "5a10b2fffd119b618278b579363c5e7f",
     "semantic_hash": "5a10b2fffd119b618278b579363c5e7f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c14919b16-cloudwatch-what-is.md": {
-    "mtime": 1782749990.4634926,
+    "mtime": 1782767533.0412037,
     "ast_hash": "e80988da1be1949c1ff1390825e2b270",
     "semantic_hash": "e80988da1be1949c1ff1390825e2b270"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c14919b16-what-is.md": {
-    "mtime": 1782749891.977016,
+    "mtime": 1782767533.0413218,
     "ast_hash": "e80988da1be1949c1ff1390825e2b270",
     "semantic_hash": "e80988da1be1949c1ff1390825e2b270"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c1e484888-container-logs.md": {
-    "mtime": 1782749889.0793064,
+    "mtime": 1782767533.0414112,
     "ast_hash": "68c76e9d79513f39251acd8d398d6ed1",
     "semantic_hash": "68c76e9d79513f39251acd8d398d6ed1"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c1e484888-docker-container-logs.md": {
-    "mtime": 1782749990.757767,
+    "mtime": 1782767533.0414891,
     "ast_hash": "68c76e9d79513f39251acd8d398d6ed1",
     "semantic_hash": "68c76e9d79513f39251acd8d398d6ed1"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c2b47b6c6-diagnostics.md": {
-    "mtime": 1782749889.5271242,
+    "mtime": 1782767533.0415723,
     "ast_hash": "3ed8c12c9faaa110b84e0ae7322eabb9",
     "semantic_hash": "3ed8c12c9faaa110b84e0ae7322eabb9"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c2b47b6c6-durable-functions-diagnostics.md": {
-    "mtime": 1782749991.2000535,
+    "mtime": 1782767533.041648,
     "ast_hash": "3ed8c12c9faaa110b84e0ae7322eabb9",
     "semantic_hash": "3ed8c12c9faaa110b84e0ae7322eabb9"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c2be088ad-dashboard.md": {
-    "mtime": 1782749889.2286081,
+    "mtime": 1782767533.041763,
     "ast_hash": "08386f530508daebab4bd5ea88e0a80c",
     "semantic_hash": "08386f530508daebab4bd5ea88e0a80c"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c2be088ad-kubernetes-dashboard.md": {
-    "mtime": 1782749992.243737,
+    "mtime": 1782767533.0418665,
     "ast_hash": "08386f530508daebab4bd5ea88e0a80c",
     "semantic_hash": "08386f530508daebab4bd5ea88e0a80c"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c2db8de1a-synthesis.md": {
-    "mtime": 1782749989.1417348,
+    "mtime": 1782767533.0419757,
     "ast_hash": "a4912dd5e15e4a93a7cab6d9f6a9e194",
     "semantic_hash": "a4912dd5e15e4a93a7cab6d9f6a9e194"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c48f43286-flower-screenshots.md": {
-    "mtime": 1782749991.3619678,
+    "mtime": 1782767533.042027,
     "ast_hash": "f9f2b44d4f5e3c123fb99d8f22ce61a3",
     "semantic_hash": "f9f2b44d4f5e3c123fb99d8f22ce61a3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c48f43286-screenshots.md": {
-    "mtime": 1782749891.1827374,
+    "mtime": 1782767533.0420704,
     "ast_hash": "f9f2b44d4f5e3c123fb99d8f22ce61a3",
     "semantic_hash": "f9f2b44d4f5e3c123fb99d8f22ce61a3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c4bb94cc2-sidekiq-web-monitoring.md": {
-    "mtime": 1782749992.9825556,
+    "mtime": 1782767533.043123,
     "ast_hash": "93ac22c7c1a13c4691188c00d4c130a2",
     "semantic_hash": "93ac22c7c1a13c4691188c00d4c130a2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c5285d005-bull-board-readme.md": {
-    "mtime": 1782749989.8748543,
+    "mtime": 1782767533.0432193,
     "ast_hash": "85d6b62396e340b13417c7ee13bc45d0",
     "semantic_hash": "85d6b62396e340b13417c7ee13bc45d0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c5285d005-readme.md": {
-    "mtime": 1782749890.8942719,
+    "mtime": 1782767533.0433004,
     "ast_hash": "85d6b62396e340b13417c7ee13bc45d0",
     "semantic_hash": "85d6b62396e340b13417c7ee13bc45d0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c540804ee-cloud-workflows-console-execution-history.md": {
-    "mtime": 1782749990.1717725,
+    "mtime": 1782767533.043377,
     "ast_hash": "b8576c400acfd7b0684b549a74f43d71",
     "semantic_hash": "b8576c400acfd7b0684b549a74f43d71"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c540804ee-execution-history.md": {
-    "mtime": 1782749889.8257172,
+    "mtime": 1782767533.043444,
     "ast_hash": "b8576c400acfd7b0684b549a74f43d71",
     "semantic_hash": "b8576c400acfd7b0684b549a74f43d71"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c56937ff8-dagster-ui-webserver.md": {
-    "mtime": 1782749990.6108696,
+    "mtime": 1782767533.0435178,
     "ast_hash": "5528edae7801d785ee1ed91018e86387",
     "semantic_hash": "5528edae7801d785ee1ed91018e86387"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c56937ff8-webserver.md": {
-    "mtime": 1782749891.828287,
+    "mtime": 1782767533.043589,
     "ast_hash": "5528edae7801d785ee1ed91018e86387",
     "semantic_hash": "5528edae7801d785ee1ed91018e86387"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c653cda54-monitoring.md": {
-    "mtime": 1782749890.2674341,
+    "mtime": 1782767533.043676,
     "ast_hash": "4a135f2ce3c8e65a729936fcd169fc32",
     "semantic_hash": "4a135f2ce3c8e65a729936fcd169fc32"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c653cda54-sqs-console-monitoring.md": {
-    "mtime": 1782749993.133534,
+    "mtime": 1782767533.0437505,
     "ast_hash": "4a135f2ce3c8e65a729936fcd169fc32",
     "semantic_hash": "4a135f2ce3c8e65a729936fcd169fc32"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c6da40640-portainer-overview.md": {
-    "mtime": 1782749992.6859367,
+    "mtime": 1782767533.043864,
     "ast_hash": "0d11f60567bbca9fbacffa6764475cf2",
     "semantic_hash": "0d11f60567bbca9fbacffa6764475cf2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c72ace91e-airflow-ui-overview.md": {
-    "mtime": 1782749989.2878113,
+    "mtime": 1782767533.0439425,
     "ast_hash": "3454eaea7f51ffd29b377cb03bf678b2",
     "semantic_hash": "3454eaea7f51ffd29b377cb03bf678b2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c74eb273d-function-runs.md": {
-    "mtime": 1782749889.9719992,
+    "mtime": 1782767533.0440397,
     "ast_hash": "ce9d608fec5a5abe0aafe1c5cdcd4dac",
     "semantic_hash": "ce9d608fec5a5abe0aafe1c5cdcd4dac"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c74eb273d-inngest-function-runs.md": {
-    "mtime": 1782749991.800427,
+    "mtime": 1782767533.0441303,
     "ast_hash": "ce9d608fec5a5abe0aafe1c5cdcd4dac",
     "semantic_hash": "ce9d608fec5a5abe0aafe1c5cdcd4dac"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c75fccaf6-kubectl-quickref.md": {
-    "mtime": 1782749890.117247,
+    "mtime": 1782767533.044252,
     "ast_hash": "1c938a5ce0019bc25099bf5391a57436",
     "semantic_hash": "1c938a5ce0019bc25099bf5391a57436"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/c75fccaf6-kubernetes-kubectl-quickref.md": {
-    "mtime": 1782749992.393361,
+    "mtime": 1782767533.044375,
     "ast_hash": "1c938a5ce0019bc25099bf5391a57436",
     "semantic_hash": "1c938a5ce0019bc25099bf5391a57436"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/ca4c5cb75-temporal-web-ui.md": {
-    "mtime": 1782749993.7208452,
+    "mtime": 1782767533.0444608,
     "ast_hash": "b7fd9c36f630bc1b45a855b99bc7c1d0",
     "semantic_hash": "b7fd9c36f630bc1b45a855b99bc7c1d0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/ca4c5cb75-web-ui.md": {
-    "mtime": 1782749891.6284816,
+    "mtime": 1782767533.0445251,
     "ast_hash": "b7fd9c36f630bc1b45a855b99bc7c1d0",
     "semantic_hash": "b7fd9c36f630bc1b45a855b99bc7c1d0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/ca5210dec-runs-dashboard.md": {
-    "mtime": 1782749891.038683,
+    "mtime": 1782767533.0446,
     "ast_hash": "f72c74511fef71595be2eb47f94f2c3b",
     "semantic_hash": "f72c74511fef71595be2eb47f94f2c3b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/ca5210dec-trigger-dev-runs-dashboard.md": {
-    "mtime": 1782749993.8655303,
+    "mtime": 1782767533.0446725,
     "ast_hash": "f72c74511fef71595be2eb47f94f2c3b",
     "semantic_hash": "f72c74511fef71595be2eb47f94f2c3b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/ca72fd994-jobrunr-dashboard-overview.md": {
-    "mtime": 1782749991.9474282,
+    "mtime": 1782767533.044768,
     "ast_hash": "18d7f7eea4c041cb6952b0ac1ef0f3c0",
     "semantic_hash": "18d7f7eea4c041cb6952b0ac1ef0f3c0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/cba04d3ef-prefect-ui-dashboard.md": {
-    "mtime": 1782749992.833104,
+    "mtime": 1782767533.0448692,
     "ast_hash": "48114d91790ea3f0448775bc70b06d98",
     "semantic_hash": "48114d91790ea3f0448775bc70b06d98"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/cbdb3129c-lens-overview.md": {
-    "mtime": 1782749992.5388215,
+    "mtime": 1782767533.044942,
     "ast_hash": "48f25e788a361dfa5fd39a3c092385fe",
     "semantic_hash": "48f25e788a361dfa5fd39a3c092385fe"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/cc2bc1b9f-docker-compose-ps.md": {
-    "mtime": 1782749990.9030788,
+    "mtime": 1782767533.0450323,
     "ast_hash": "f4fb270a2d641d9dd658ccdbd7e11c7c",
     "semantic_hash": "f4fb270a2d641d9dd658ccdbd7e11c7c"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/cc2bc1b9f-ps.md": {
-    "mtime": 1782749890.73109,
+    "mtime": 1782767533.0451055,
     "ast_hash": "f4fb270a2d641d9dd658ccdbd7e11c7c",
     "semantic_hash": "f4fb270a2d641d9dd658ccdbd7e11c7c"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/cc3200b67-cloud-tasks-console-monitoring.md": {
-    "mtime": 1782749990.0238538,
+    "mtime": 1782767533.0451727,
     "ast_hash": "2ca637ada55b9438a7afc76cc15d8109",
     "semantic_hash": "2ca637ada55b9438a7afc76cc15d8109"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/cc5e4a0a5-execution-details.md": {
-    "mtime": 1782749889.677124,
+    "mtime": 1782767533.0452456,
     "ast_hash": "55d1b0c47b7932834518ab511ccca9e8",
     "semantic_hash": "55d1b0c47b7932834518ab511ccca9e8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/cc5e4a0a5-step-functions-console-execution-details.md": {
-    "mtime": 1782749993.2809062,
+    "mtime": 1782767533.045324,
     "ast_hash": "55d1b0c47b7932834518ab511ccca9e8",
     "semantic_hash": "55d1b0c47b7932834518ab511ccca9e8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/cc85b94f6-dashboards.md": {
-    "mtime": 1782749889.3773398,
+    "mtime": 1782767533.0454376,
     "ast_hash": "13cc9fdefefdfd845f3dcf7e477c3d26",
     "semantic_hash": "13cc9fdefefdfd845f3dcf7e477c3d26"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/cc85b94f6-grafana-dashboards.md": {
-    "mtime": 1782749991.50817,
+    "mtime": 1782767533.0455358,
     "ast_hash": "13cc9fdefefdfd845f3dcf7e477c3d26",
     "semantic_hash": "13cc9fdefefdfd845f3dcf7e477c3d26"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/ccb08675c-cloudwatch-dashboards.md": {
-    "mtime": 1782749990.3171458,
+    "mtime": 1782767533.045677,
     "ast_hash": "840fb2b79f7832a5fb93407b075f5a6c",
     "semantic_hash": "840fb2b79f7832a5fb93407b075f5a6c"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/ccd377138-grafana-panels.md": {
-    "mtime": 1782749991.653455,
+    "mtime": 1782767533.0462148,
     "ast_hash": "a2e1eb2aff91e635bee46850ea903d53",
     "semantic_hash": "a2e1eb2aff91e635bee46850ea903d53"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/ccd377138-panels.md": {
-    "mtime": 1782749890.5817394,
+    "mtime": 1782767533.0463066,
     "ast_hash": "a2e1eb2aff91e635bee46850ea903d53",
     "semantic_hash": "a2e1eb2aff91e635bee46850ea903d53"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/ccefae857-argo-workflows-ui-server.md": {
-    "mtime": 1782749989.5815995,
+    "mtime": 1782767533.0463858,
     "ast_hash": "febb5bc5e11b5fe17190966e8958ddc5",
     "semantic_hash": "febb5bc5e11b5fe17190966e8958ddc5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/ccefae857-server.md": {
-    "mtime": 1782749891.3309262,
+    "mtime": 1782767533.0464563,
     "ast_hash": "febb5bc5e11b5fe17190966e8958ddc5",
     "semantic_hash": "febb5bc5e11b5fe17190966e8958ddc5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/cd4f034b7-app-insights-overview.md": {
-    "mtime": 1782749989.4356265,
+    "mtime": 1782767533.0465493,
     "ast_hash": "809a237fb35bd7d0cf65f2d38e5dc155",
     "semantic_hash": "809a237fb35bd7d0cf65f2d38e5dc155"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/ce7df5cce-cloud-ui.md": {
-    "mtime": 1782749888.927188,
+    "mtime": 1782767533.0466044,
     "ast_hash": "9ff9f4ce2daba31ff3be827aad711189",
     "semantic_hash": "9ff9f4ce2daba31ff3be827aad711189"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/ce7df5cce-temporal-cloud-ui.md": {
-    "mtime": 1782749993.5744543,
+    "mtime": 1782767533.0466635,
     "ast_hash": "9ff9f4ce2daba31ff3be827aad711189",
     "semantic_hash": "9ff9f4ce2daba31ff3be827aad711189"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/cea2cea43-docker-desktop-use-desktop.md": {
-    "mtime": 1782749991.0528455,
+    "mtime": 1782767533.046778,
     "ast_hash": "c7bed3d29e6ff6c22c9b2f5ea788ac30",
     "semantic_hash": "c7bed3d29e6ff6c22c9b2f5ea788ac30"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/17-ui-monitoring/sources/cea2cea43-use-desktop.md": {
-    "mtime": 1782749891.4824674,
+    "mtime": 1782767533.0468767,
     "ast_hash": "c7bed3d29e6ff6c22c9b2f5ea788ac30",
     "semantic_hash": "c7bed3d29e6ff6c22c9b2f5ea788ac30"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c0496c9ab-blog.md": {
-    "mtime": 1782749892.559419,
+    "mtime": 1782767533.0470197,
     "ast_hash": "4c93087c34e0d7d13e33e3c37a741882",
     "semantic_hash": "4c93087c34e0d7d13e33e3c37a741882"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c0496c9ab-stripe-idempotency-blog.md": {
-    "mtime": 1782749997.615401,
+    "mtime": 1782767533.0470924,
     "ast_hash": "4c93087c34e0d7d13e33e3c37a741882",
     "semantic_hash": "4c93087c34e0d7d13e33e3c37a741882"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c27b1a740-patterns-distributed-state-watch.md": {
-    "mtime": 1782749995.977359,
+    "mtime": 1782767533.047164,
     "ast_hash": "5e794d01ee98e69ca1345e6e43fe0154",
     "semantic_hash": "5e794d01ee98e69ca1345e6e43fe0154"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c27b1a740-state-watch.md": {
-    "mtime": 1782749895.4246166,
+    "mtime": 1782767533.0472295,
     "ast_hash": "5e794d01ee98e69ca1345e6e43fe0154",
     "semantic_hash": "5e794d01ee98e69ca1345e6e43fe0154"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c2b30a66c-embracing-risk.md": {
-    "mtime": 1782749893.6035514,
+    "mtime": 1782767533.0473113,
     "ast_hash": "14ee08243d0d2e72bb0527838d9c332f",
     "semantic_hash": "14ee08243d0d2e72bb0527838d9c332f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c2b30a66c-sre-book-embracing-risk.md": {
-    "mtime": 1782749997.0282218,
+    "mtime": 1782767533.0473828,
     "ast_hash": "14ee08243d0d2e72bb0527838d9c332f",
     "semantic_hash": "14ee08243d0d2e72bb0527838d9c332f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c3a6e1b7c-distributed-periodic-scheduling.md": {
-    "mtime": 1782749893.3083684,
+    "mtime": 1782767533.0474627,
     "ast_hash": "1ea6f4ff97de7f334c1d4aaa6613ee87",
     "semantic_hash": "1ea6f4ff97de7f334c1d4aaa6613ee87"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c3a6e1b7c-sre-book-distributed-periodic-scheduling.md": {
-    "mtime": 1782749996.7350051,
+    "mtime": 1782767533.0475392,
     "ast_hash": "1ea6f4ff97de7f334c1d4aaa6613ee87",
     "semantic_hash": "1ea6f4ff97de7f334c1d4aaa6613ee87"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c42eb4828-competing-consumers.md": {
-    "mtime": 1782749892.857841,
+    "mtime": 1782767533.047593,
     "ast_hash": "86b23a6a45ff9c76e5d09477e853f3f3",
     "semantic_hash": "86b23a6a45ff9c76e5d09477e853f3f3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c42eb4828-eip-competing-consumers.md": {
-    "mtime": 1782749994.3498137,
+    "mtime": 1782767533.0476437,
     "ast_hash": "86b23a6a45ff9c76e5d09477e853f3f3",
     "semantic_hash": "86b23a6a45ff9c76e5d09477e853f3f3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c43a86654-patterns-distributed-idempotent-receiver.md": {
-    "mtime": 1782749995.3887482,
+    "mtime": 1782767533.0477145,
     "ast_hash": "4882aa984c3d2ee3ca224571440ce764",
     "semantic_hash": "4882aa984c3d2ee3ca224571440ce764"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c4b20ebcd-leader-follower.md": {
-    "mtime": 1782749894.5065768,
+    "mtime": 1782767533.0478804,
     "ast_hash": "7ffbf8a909c45edd4e0b9cab52a5eece",
     "semantic_hash": "7ffbf8a909c45edd4e0b9cab52a5eece"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c4b20ebcd-patterns-distributed-leader-follower.md": {
-    "mtime": 1782749995.6859975,
+    "mtime": 1782767533.047946,
     "ast_hash": "7ffbf8a909c45edd4e0b9cab52a5eece",
     "semantic_hash": "7ffbf8a909c45edd4e0b9cab52a5eece"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c4d464333-eip-guaranteed-delivery.md": {
-    "mtime": 1782749994.6416512,
+    "mtime": 1782767533.0480006,
     "ast_hash": "2e5c0d4780d193bd68fcf43cb63cd54a",
     "semantic_hash": "2e5c0d4780d193bd68fcf43cb63cd54a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c4d464333-guaranteed-delivery.md": {
-    "mtime": 1782749893.7549348,
+    "mtime": 1782767533.0480504,
     "ast_hash": "2e5c0d4780d193bd68fcf43cb63cd54a",
     "semantic_hash": "2e5c0d4780d193bd68fcf43cb63cd54a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c64b8d13f-handling-overload.md": {
-    "mtime": 1782749893.9040442,
+    "mtime": 1782767533.048134,
     "ast_hash": "3655131857e3b496c9397008b5b5d729",
     "semantic_hash": "3655131857e3b496c9397008b5b5d729"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c64b8d13f-sre-book-handling-overload.md": {
-    "mtime": 1782749997.176042,
+    "mtime": 1782767533.0482047,
     "ast_hash": "3655131857e3b496c9397008b5b5d729",
     "semantic_hash": "3655131857e3b496c9397008b5b5d729"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c65bb5995-addressing-cascading-failures.md": {
-    "mtime": 1782749892.4103801,
+    "mtime": 1782767533.048316,
     "ast_hash": "0f7646070612d70a04ad98203445b195",
     "semantic_hash": "0f7646070612d70a04ad98203445b195"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c65bb5995-sre-book-addressing-cascading-failures.md": {
-    "mtime": 1782749996.4383123,
+    "mtime": 1782767533.0484176,
     "ast_hash": "0f7646070612d70a04ad98203445b195",
     "semantic_hash": "0f7646070612d70a04ad98203445b195"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c7c7a0c1b-index.md": {
-    "mtime": 1782749894.3498223,
+    "mtime": 1782767533.048519,
     "ast_hash": "66388d57ec81964cdcce03b0c51b6b62",
     "semantic_hash": "66388d57ec81964cdcce03b0c51b6b62"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c7c7a0c1b-patterns-distributed-index.md": {
-    "mtime": 1782749995.5389671,
+    "mtime": 1782767533.0486274,
     "ast_hash": "66388d57ec81964cdcce03b0c51b6b62",
     "semantic_hash": "66388d57ec81964cdcce03b0c51b6b62"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c7ec9717d-lease.md": {
-    "mtime": 1782749894.6567545,
+    "mtime": 1782767533.048696,
     "ast_hash": "9348c27d443440edbde1655b045ac6ee",
     "semantic_hash": "9348c27d443440edbde1655b045ac6ee"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c7ec9717d-patterns-distributed-lease.md": {
-    "mtime": 1782749995.8314407,
+    "mtime": 1782767533.0487633,
     "ast_hash": "9348c27d443440edbde1655b045ac6ee",
     "semantic_hash": "9348c27d443440edbde1655b045ac6ee"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c95640d69-eip-transactional-client.md": {
-    "mtime": 1782749995.0918522,
+    "mtime": 1782767533.0488229,
     "ast_hash": "c6f738bdb76e55ce636d3e24cca6d8f0",
     "semantic_hash": "c6f738bdb76e55ce636d3e24cca6d8f0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c95640d69-transactional-client.md": {
-    "mtime": 1782749895.5736632,
+    "mtime": 1782767533.048877,
     "ast_hash": "c6f738bdb76e55ce636d3e24cca6d8f0",
     "semantic_hash": "c6f738bdb76e55ce636d3e24cca6d8f0"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/c99d04f40-raft-paper.md": {
-    "mtime": 1782749996.2907674,
+    "mtime": 1782767533.0490046,
     "ast_hash": "36aecb9f8f427740fa4237aa9fd38cd9",
     "semantic_hash": "36aecb9f8f427740fa4237aa9fd38cd9"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cac52a7fc-data-processing-pipelines.md": {
-    "mtime": 1782749893.0058224,
+    "mtime": 1782767533.049089,
     "ast_hash": "7c25771bb88482958bb8d15efe7a020e",
     "semantic_hash": "7c25771bb88482958bb8d15efe7a020e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cac52a7fc-sre-book-data-processing-pipelines.md": {
-    "mtime": 1782749996.5878198,
+    "mtime": 1782767533.0491602,
     "ast_hash": "7c25771bb88482958bb8d15efe7a020e",
     "semantic_hash": "7c25771bb88482958bb8d15efe7a020e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cb4bea884-uber-cadence-blog.md": {
-    "mtime": 1782749997.9086192,
+    "mtime": 1782767533.049251,
     "ast_hash": "78c277239bb2cacf6175a3a30db446ae",
     "semantic_hash": "78c277239bb2cacf6175a3a30db446ae"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cb5717c9a-eip-idempotent-receiver.md": {
-    "mtime": 1782749994.7890909,
+    "mtime": 1782767533.0493078,
     "ast_hash": "ffb15d81026469be626ab9686d194d29",
     "semantic_hash": "ffb15d81026469be626ab9686d194d29"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cb5717c9a-idempotent-receiver.md": {
-    "mtime": 1782749894.1964512,
+    "mtime": 1782767533.0493586,
     "ast_hash": "ffb15d81026469be626ab9686d194d29",
     "semantic_hash": "ffb15d81026469be626ab9686d194d29"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cc13e9ae8-managing-critical-state.md": {
-    "mtime": 1782749894.8091738,
+    "mtime": 1782767533.0497386,
     "ast_hash": "575b297b28c061296ea25a919be283c2",
     "semantic_hash": "575b297b28c061296ea25a919be283c2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cc13e9ae8-sre-book-managing-critical-state.md": {
-    "mtime": 1782749997.323636,
+    "mtime": 1782767533.050049,
     "ast_hash": "575b297b28c061296ea25a919be283c2",
     "semantic_hash": "575b297b28c061296ea25a919be283c2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cc3c2b729-service-level-objectives.md": {
-    "mtime": 1782749895.2764518,
+    "mtime": 1782767533.0501335,
     "ast_hash": "e2b9a19de6580d3eb4f6e2570af39d05",
     "semantic_hash": "e2b9a19de6580d3eb4f6e2570af39d05"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cc3c2b729-sre-book-service-level-objectives.md": {
-    "mtime": 1782749997.4702065,
+    "mtime": 1782767533.0502095,
     "ast_hash": "e2b9a19de6580d3eb4f6e2570af39d05",
     "semantic_hash": "e2b9a19de6580d3eb4f6e2570af39d05"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cc9362abd-borg-omega-borg-paper.md": {
-    "mtime": 1782749994.2017686,
+    "mtime": 1782767533.050271,
     "ast_hash": "90c77b082093cb2e34d9c43671dcbaf6",
     "semantic_hash": "90c77b082093cb2e34d9c43671dcbaf6"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cc9362abd-borg-paper.md": {
-    "mtime": 1782749892.7090845,
+    "mtime": 1782767533.0503223,
     "ast_hash": "90c77b082093cb2e34d9c43671dcbaf6",
     "semantic_hash": "90c77b082093cb2e34d9c43671dcbaf6"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cca51008f-heartbeat.md": {
-    "mtime": 1782749894.049944,
+    "mtime": 1782767533.0503898,
     "ast_hash": "35b7bd4fccb65885b8116f636d3ac3ae",
     "semantic_hash": "35b7bd4fccb65885b8116f636d3ac3ae"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cca51008f-patterns-distributed-heartbeat.md": {
-    "mtime": 1782749995.2411425,
+    "mtime": 1782767533.0504475,
     "ast_hash": "35b7bd4fccb65885b8116f636d3ac3ae",
     "semantic_hash": "35b7bd4fccb65885b8116f636d3ac3ae"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/ce308bcff-paper.md": {
-    "mtime": 1782749895.11189,
+    "mtime": 1782767533.050522,
     "ast_hash": "3feba0bdf4db9f5f686635691857486a",
     "semantic_hash": "3feba0bdf4db9f5f686635691857486a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/ce308bcff-tail-at-scale-paper.md": {
-    "mtime": 1782749997.7612917,
+    "mtime": 1782767533.0505898,
     "ast_hash": "3feba0bdf4db9f5f686635691857486a",
     "semantic_hash": "3feba0bdf4db9f5f686635691857486a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/ce38ed520-eip-message-channel.md": {
-    "mtime": 1782749994.9322655,
+    "mtime": 1782767533.0506423,
     "ast_hash": "568425f94c95e4338e5e2397e240d610",
     "semantic_hash": "568425f94c95e4338e5e2397e240d610"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/ce38ed520-message-channel.md": {
-    "mtime": 1782749894.95962,
+    "mtime": 1782767533.0506964,
     "ast_hash": "568425f94c95e4338e5e2397e240d610",
     "semantic_hash": "568425f94c95e4338e5e2397e240d610"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/ce9e256be-patterns-distributed-write-ahead-log.md": {
-    "mtime": 1782749996.1442196,
+    "mtime": 1782767533.0507565,
     "ast_hash": "e29005f2c8aa272616af1c59834f702b",
     "semantic_hash": "e29005f2c8aa272616af1c59834f702b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/ce9e256be-write-ahead-log.md": {
-    "mtime": 1782749895.7256646,
+    "mtime": 1782767533.0508208,
     "ast_hash": "e29005f2c8aa272616af1c59834f702b",
     "semantic_hash": "e29005f2c8aa272616af1c59834f702b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cf0e546d4-dead-letter-channel.md": {
-    "mtime": 1782749893.155697,
+    "mtime": 1782767533.0508854,
     "ast_hash": "c66b931a8043511c3d87404f2a013b9d",
     "semantic_hash": "c66b931a8043511c3d87404f2a013b9d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cf0e546d4-eip-dead-letter-channel.md": {
-    "mtime": 1782749994.4939785,
+    "mtime": 1782767533.0509458,
     "ast_hash": "c66b931a8043511c3d87404f2a013b9d",
     "semantic_hash": "c66b931a8043511c3d87404f2a013b9d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cf19acc02-eliminating-toil.md": {
-    "mtime": 1782749893.4564714,
+    "mtime": 1782767533.0510144,
     "ast_hash": "ddc35bad51f1e672c702931f61929838",
     "semantic_hash": "ddc35bad51f1e672c702931f61929838"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/18-education/sources/cf19acc02-sre-book-eliminating-toil.md": {
-    "mtime": 1782749996.8821561,
+    "mtime": 1782767533.0510843,
     "ast_hash": "ddc35bad51f1e672c702931f61929838",
     "semantic_hash": "ddc35bad51f1e672c702931f61929838"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c267065f9-sqs-encryption-sse.md": {
-    "mtime": 1782750000.5904899,
+    "mtime": 1782767533.051211,
     "ast_hash": "8b47b73f21219bddbe0bbbddbad7671d",
     "semantic_hash": "8b47b73f21219bddbe0bbbddbad7671d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c267065f9-sse.md": {
-    "mtime": 1782749898.452461,
+    "mtime": 1782767533.0512588,
     "ast_hash": "8b47b73f21219bddbe0bbbddbad7671d",
     "semantic_hash": "8b47b73f21219bddbe0bbbddbad7671d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c2f4da0bd-eip-claim-check-store-in-library.md": {
-    "mtime": 1782749998.6771793,
+    "mtime": 1782767533.0513139,
     "ast_hash": "ca649f041ed4934bb9e28feee5bb1dbf",
     "semantic_hash": "ca649f041ed4934bb9e28feee5bb1dbf"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c2f4da0bd-store-in-library.md": {
-    "mtime": 1782749898.7638254,
+    "mtime": 1782767533.0513637,
     "ast_hash": "ca649f041ed4934bb9e28feee5bb1dbf",
     "semantic_hash": "ca649f041ed4934bb9e28feee5bb1dbf"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c37c4c489-sns-data-protection-overview.md": {
-    "mtime": 1782750000.4439054,
+    "mtime": 1782767533.0514424,
     "ast_hash": "dc4151e5199caf4849b25815cc40305a",
     "semantic_hash": "dc4151e5199caf4849b25815cc40305a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c3d1ba0f9-deployments.md": {
-    "mtime": 1782749896.803868,
+    "mtime": 1782767533.0515125,
     "ast_hash": "2c4c80caa453747dc00462ba85c5e6b6",
     "semantic_hash": "2c4c80caa453747dc00462ba85c5e6b6"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c3d1ba0f9-keda-scaling-deployments.md": {
-    "mtime": 1782749999.4109821,
+    "mtime": 1782767533.0515747,
     "ast_hash": "2c4c80caa453747dc00462ba85c5e6b6",
     "semantic_hash": "2c4c80caa453747dc00462ba85c5e6b6"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c41ae3b26-blog.md": {
-    "mtime": 1782749896.3010237,
+    "mtime": 1782767533.0516694,
     "ast_hash": "1ea72430b4600ef5234602993e370a14",
     "semantic_hash": "1ea72430b4600ef5234602993e370a14"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c41ae3b26-confluent-eos-blog.md": {
-    "mtime": 1782749998.5227582,
+    "mtime": 1782767533.0517583,
     "ast_hash": "1ea72430b4600ef5234602993e370a14",
     "semantic_hash": "1ea72430b4600ef5234602993e370a14"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c46b7793b-k8s-rbac-overview.md": {
-    "mtime": 1782749999.2639391,
+    "mtime": 1782767533.0518193,
     "ast_hash": "b8b1bbf608dace42e46b1cb1b8ee9d43",
     "semantic_hash": "b8b1bbf608dace42e46b1cb1b8ee9d43"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c46b7793b-overview.md": {
-    "mtime": 1782749897.8534122,
+    "mtime": 1782767533.0550501,
     "ast_hash": "b8b1bbf608dace42e46b1cb1b8ee9d43",
     "semantic_hash": "b8b1bbf608dace42e46b1cb1b8ee9d43"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c573f2c4a-cockburn.md": {
-    "mtime": 1782749896.4511976,
+    "mtime": 1782767533.0553648,
     "ast_hash": "601d252c4ab12692fffed7772fcca67e",
     "semantic_hash": "601d252c4ab12692fffed7772fcca67e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c573f2c4a-hexagonal-cockburn.md": {
-    "mtime": 1782749998.9682705,
+    "mtime": 1782767533.0554364,
     "ast_hash": "601d252c4ab12692fffed7772fcca67e",
     "semantic_hash": "601d252c4ab12692fffed7772fcca67e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c6e762213-aws-iam-batch-actions.md": {
-    "mtime": 1782749998.2300968,
+    "mtime": 1782767533.0555143,
     "ast_hash": "2bdfced6c4100837862508876bdc9b42",
     "semantic_hash": "2bdfced6c4100837862508876bdc9b42"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c6e762213-batch-actions.md": {
-    "mtime": 1782749896.147884,
+    "mtime": 1782767533.0555909,
     "ast_hash": "2bdfced6c4100837862508876bdc9b42",
     "semantic_hash": "2bdfced6c4100837862508876bdc9b42"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c89d6b902-data-encryption.md": {
-    "mtime": 1782749896.6527014,
+    "mtime": 1782767533.0556657,
     "ast_hash": "8d4034e796d8096e37d8886bbc80c562",
     "semantic_hash": "8d4034e796d8096e37d8886bbc80c562"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c89d6b902-temporal-encryption-data-encryption.md": {
-    "mtime": 1782750001.0524943,
+    "mtime": 1782767533.0557323,
     "ast_hash": "8d4034e796d8096e37d8886bbc80c562",
     "semantic_hash": "8d4034e796d8096e37d8886bbc80c562"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c9a0d88a5-dlq-redrive.md": {
-    "mtime": 1782749896.9523618,
+    "mtime": 1782767533.0557957,
     "ast_hash": "8c1975e6133c167273c7a4ded5cc0d1b",
     "semantic_hash": "8c1975e6133c167273c7a4ded5cc0d1b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c9a0d88a5-failure-taxonomy-dlq-redrive.md": {
-    "mtime": 1782749998.8228111,
+    "mtime": 1782767533.055858,
     "ast_hash": "8c1975e6133c167273c7a4ded5cc0d1b",
     "semantic_hash": "8c1975e6133c167273c7a4ded5cc0d1b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c9e3c6415-jobs.md": {
-    "mtime": 1782749897.3993523,
+    "mtime": 1782767533.0559306,
     "ast_hash": "c862910de5dd0ec6318f07eadb220ed4",
     "semantic_hash": "c862910de5dd0ec6318f07eadb220ed4"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/c9e3c6415-keda-scaling-jobs.md": {
-    "mtime": 1782749999.557197,
+    "mtime": 1782767533.0559938,
     "ast_hash": "c862910de5dd0ec6318f07eadb220ed4",
     "semantic_hash": "c862910de5dd0ec6318f07eadb220ed4"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/ca2f1f62b-lambda-scaling-provisioned-concurrency.md": {
-    "mtime": 1782749999.7055988,
+    "mtime": 1782767533.0560944,
     "ast_hash": "6b34ebc7700617bc7bb396c38bed5fb5",
     "semantic_hash": "6b34ebc7700617bc7bb396c38bed5fb5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/ca2f1f62b-provisioned-concurrency.md": {
-    "mtime": 1782749898.1551044,
+    "mtime": 1782767533.0561824,
     "ast_hash": "6b34ebc7700617bc7bb396c38bed5fb5",
     "semantic_hash": "6b34ebc7700617bc7bb396c38bed5fb5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/caa7de4d5-authorization.md": {
-    "mtime": 1782749896.0012333,
+    "mtime": 1782767533.0562549,
     "ast_hash": "4c34a08987df64ceb9942cd6838875f2",
     "semantic_hash": "4c34a08987df64ceb9942cd6838875f2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/caa7de4d5-temporal-security-authorization.md": {
-    "mtime": 1782750001.1986654,
+    "mtime": 1782767533.056316,
     "ast_hash": "4c34a08987df64ceb9942cd6838875f2",
     "semantic_hash": "4c34a08987df64ceb9942cd6838875f2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cbdefa73b-s3.md": {
-    "mtime": 1782749898.302868,
+    "mtime": 1782767533.0563946,
     "ast_hash": "969b9d31bf9752c9526a2700cf894cae",
     "semantic_hash": "969b9d31bf9752c9526a2700cf894cae"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cbdefa73b-sqs-large-messages-s3.md": {
-    "mtime": 1782750000.738443,
+    "mtime": 1782767533.056468,
     "ast_hash": "969b9d31bf9752c9526a2700cf894cae",
     "semantic_hash": "969b9d31bf9752c9526a2700cf894cae"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cbe579382-general-metrics.md": {
-    "mtime": 1782749897.2510376,
+    "mtime": 1782767533.0565205,
     "ast_hash": "6eec3615ad18db399f6688a4a572cb0f",
     "semantic_hash": "6eec3615ad18db399f6688a4a572cb0f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cbe579382-otel-semconv-general-metrics.md": {
-    "mtime": 1782750000.0002291,
+    "mtime": 1782767533.0565739,
     "ast_hash": "6eec3615ad18db399f6688a4a572cb0f",
     "semantic_hash": "6eec3615ad18db399f6688a4a572cb0f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cca20d4f3-messaging-spans.md": {
-    "mtime": 1782749897.7018542,
+    "mtime": 1782767533.0566885,
     "ast_hash": "d44eb8e0be74079462c61d1d77c9fc95",
     "semantic_hash": "d44eb8e0be74079462c61d1d77c9fc95"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cca20d4f3-otel-semconv-messaging-spans.md": {
-    "mtime": 1782750000.2984262,
+    "mtime": 1782767533.0567932,
     "ast_hash": "d44eb8e0be74079462c61d1d77c9fc95",
     "semantic_hash": "d44eb8e0be74079462c61d1d77c9fc95"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cdb0541dc-essay.md": {
-    "mtime": 1782749897.1015592,
+    "mtime": 1782767533.056905,
     "ast_hash": "7c14969b189224f6ef119d41a3e51943",
     "semantic_hash": "7c14969b189224f6ef119d41a3e51943"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cdb0541dc-strangler-fig-essay.md": {
-    "mtime": 1782750000.902284,
+    "mtime": 1782767533.0570064,
     "ast_hash": "7c14969b189224f6ef119d41a3e51943",
     "semantic_hash": "7c14969b189224f6ef119d41a3e51943"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cee234102-idempotent-consumer-pattern.md": {
-    "mtime": 1782749999.1184032,
+    "mtime": 1782767533.057058,
     "ast_hash": "27813e8d6f401d1d728e145f90661170",
     "semantic_hash": "27813e8d6f401d1d728e145f90661170"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cee234102-pattern.md": {
-    "mtime": 1782749898.0021088,
+    "mtime": 1782767533.0571096,
     "ast_hash": "27813e8d6f401d1d728e145f90661170",
     "semantic_hash": "27813e8d6f401d1d728e145f90661170"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cf0410bb1-aws-iam-stepfunctions-actions.md": {
-    "mtime": 1782749998.3752203,
+    "mtime": 1782767533.0571673,
     "ast_hash": "50c3615356e3e4adab3680b66b1691d8",
     "semantic_hash": "50c3615356e3e4adab3680b66b1691d8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cf0410bb1-stepfunctions-actions.md": {
-    "mtime": 1782749898.6036966,
+    "mtime": 1782767533.057228,
     "ast_hash": "50c3615356e3e4adab3680b66b1691d8",
     "semantic_hash": "50c3615356e3e4adab3680b66b1691d8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cf4aa1182-suite.md": {
-    "mtime": 1782749898.9125464,
+    "mtime": 1782767533.0573058,
     "ast_hash": "c8ea48d596d9824716b428d747e99c66",
     "semantic_hash": "c8ea48d596d9824716b428d747e99c66"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cf4aa1182-temporal-testing-suite.md": {
-    "mtime": 1782750001.3460162,
+    "mtime": 1782767533.0573711,
     "ast_hash": "c8ea48d596d9824716b428d747e99c66",
     "semantic_hash": "c8ea48d596d9824716b428d747e99c66"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cfbd279fd-localstack-chaos-overview.md": {
-    "mtime": 1782749999.8520906,
+    "mtime": 1782767533.057436,
     "ast_hash": "b6b3c7ce97dcf42b126e28d99c9c9fea",
     "semantic_hash": "b6b3c7ce97dcf42b126e28d99c9c9fea"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cff54f8f9-messaging-metrics.md": {
-    "mtime": 1782749897.550843,
+    "mtime": 1782767533.0575106,
     "ast_hash": "266ec118519cb7e90aa5e9a839a85345",
     "semantic_hash": "266ec118519cb7e90aa5e9a839a85345"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/19-gap-fill/sources/cff54f8f9-otel-semconv-messaging-metrics.md": {
-    "mtime": 1782750000.1493402,
+    "mtime": 1782767533.0575871,
     "ast_hash": "266ec118519cb7e90aa5e9a839a85345",
     "semantic_hash": "266ec118519cb7e90aa5e9a839a85345"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/20-patterns/sources/c290494f5-microservices-io-messaging.md": {
-    "mtime": 1782755663.1653137,
+    "mtime": 1782767533.0577836,
     "ast_hash": "bee324a3e7b00fe8c6d6078c82ae3fd7",
     "semantic_hash": "bee324a3e7b00fe8c6d6078c82ae3fd7"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/20-patterns/sources/c2d3133e6-aws-builder-library-timeouts-retries-backoff.md": {
-    "mtime": 1782755662.4248533,
+    "mtime": 1782767533.05787,
     "ast_hash": "1083e6a0c891162b5d93e2844af9bd84",
     "semantic_hash": "1083e6a0c891162b5d93e2844af9bd84"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/20-patterns/sources/c3242780f-microservices-io-transactional-outbox.md": {
-    "mtime": 1782755663.4614022,
+    "mtime": 1782767533.0579696,
     "ast_hash": "4473d5eb05a6ef757c7e503bf139c235",
     "semantic_hash": "4473d5eb05a6ef757c7e503bf139c235"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/20-patterns/sources/c399aec44-aws-builder-library-workflow-state-machines.md": {
-    "mtime": 1782755662.5757008,
+    "mtime": 1782767533.0581312,
     "ast_hash": "bf44a96361e3bbe455f15d0e042a8fac",
     "semantic_hash": "bf44a96361e3bbe455f15d0e042a8fac"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/20-patterns/sources/c519b593f-aws-builder-library-queue-backlogs.md": {
-    "mtime": 1782755662.2757974,
+    "mtime": 1782767533.0590453,
     "ast_hash": "3bc884657629178b1a2761aa50c37928",
     "semantic_hash": "3bc884657629178b1a2761aa50c37928"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/20-patterns/sources/c6b9ea514-microservices-io-event-sourcing.md": {
-    "mtime": 1782755663.016673,
+    "mtime": 1782767533.059227,
     "ast_hash": "c00d1cd84fd8d0bcfe6c39c09ddcef80",
     "semantic_hash": "c00d1cd84fd8d0bcfe6c39c09ddcef80"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/20-patterns/sources/c9c48a59f-microservices-io-cqrs.md": {
-    "mtime": 1782755662.8700917,
+    "mtime": 1782767533.0593343,
     "ast_hash": "6ad0ec54faf959f008d7a61b20d994b1",
     "semantic_hash": "6ad0ec54faf959f008d7a61b20d994b1"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/20-patterns/sources/cb07c0c51-microservices-io-saga.md": {
-    "mtime": 1782755663.3133254,
+    "mtime": 1782767533.0595503,
     "ast_hash": "ec3a11bc264e9ee108c3de5472b27110",
     "semantic_hash": "ec3a11bc264e9ee108c3de5472b27110"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/20-patterns/sources/cb7874314-microservices-io-api-composition.md": {
-    "mtime": 1782755662.7233858,
+    "mtime": 1782767533.0596373,
     "ast_hash": "f41f12b3bbaa1defd3a25027104770b7",
     "semantic_hash": "f41f12b3bbaa1defd3a25027104770b7"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/20-patterns/sources/cfe9dcaec-aws-builder-library-avoiding-fallback.md": {
-    "mtime": 1782755662.1255276,
+    "mtime": 1782767533.059717,
     "ast_hash": "b773df816a5cda1cf9d18e497a5c67da",
     "semantic_hash": "b773df816a5cda1cf9d18e497a5c67da"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/c162af10e-ge13bb8e6-celery-throughput-tasks-per-second-prefetch-worker-concurrency-performance-4.md": {
-    "mtime": 1782758576.3996649,
+    "mtime": 1782767533.0601285,
     "ast_hash": "d39342a6bfa0faa857d4dc33a4b44bbd",
     "semantic_hash": "d39342a6bfa0faa857d4dc33a4b44bbd"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/c3436cdfc-g86a6f15d-temporal-throughput-workflows-activities-per-second-scaling-benchmark-5.md": {
-    "mtime": 1782758575.8083978,
+    "mtime": 1782767533.0603316,
     "ast_hash": "01ba171d4f776bf03c5b79f910451c36",
     "semantic_hash": "01ba171d4f776bf03c5b79f910451c36"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/c3cc70cd6-ge13bb8e6-celery-throughput-tasks-per-second-prefetch-worker-concurrency-performance-2.md": {
-    "mtime": 1782758576.1061518,
+    "mtime": 1782767533.0604777,
     "ast_hash": "01a161fa56ef2700586bab8414f57840",
     "semantic_hash": "01a161fa56ef2700586bab8414f57840"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/c72a3f924-g1d9f83f6-river-queue-postgres-throughput-jobs-per-second-performance-benchmark-3.md": {
-    "mtime": 1782758575.0731857,
+    "mtime": 1782767533.062186,
     "ast_hash": "50706774d5d0ac86c68fb317546e109b",
     "semantic_hash": "50706774d5d0ac86c68fb317546e109b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/c7d59cf55-g442097a8-sidekiq-throughput-jobs-per-second-concurrency-threads-benchmark-3.md": {
-    "mtime": 1782758575.3646686,
+    "mtime": 1782767533.0623257,
     "ast_hash": "59324d658ef4e92fc041ad2ac71b153a",
     "semantic_hash": "59324d658ef4e92fc041ad2ac71b153a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/caad21db4-ge13bb8e6-celery-throughput-tasks-per-second-prefetch-worker-concurrency-performance-5.md": {
-    "mtime": 1782758576.5463896,
+    "mtime": 1782767533.0624456,
     "ast_hash": "0dd55de9c2486fec1fee6ffed0741f3c",
     "semantic_hash": "0dd55de9c2486fec1fee6ffed0741f3c"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/cab7b5230-ge13bb8e6-celery-throughput-tasks-per-second-prefetch-worker-concurrency-performance-3.md": {
-    "mtime": 1782758576.2540236,
+    "mtime": 1782767533.0626338,
     "ast_hash": "177d4a0d8f39a8417ac36ca97d243f69",
     "semantic_hash": "177d4a0d8f39a8417ac36ca97d243f69"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/cadab39c9-ge13bb8e6-celery-throughput-tasks-per-second-prefetch-worker-concurrency-performance-1.md": {
-    "mtime": 1782758575.9566216,
+    "mtime": 1782767533.0628233,
     "ast_hash": "4e10e06b5b5fb5d82013c5fffda050f1",
     "semantic_hash": "4e10e06b5b5fb5d82013c5fffda050f1"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/cca599229-g1d9f83f6-river-queue-postgres-throughput-jobs-per-second-performance-benchmark-1.md": {
-    "mtime": 1782758574.781134,
+    "mtime": 1782767533.0629432,
     "ast_hash": "f6edf8a3c660d2d2069fe7467adf8e3a",
     "semantic_hash": "f6edf8a3c660d2d2069fe7467adf8e3a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/ccee53635-g86a6f15d-temporal-throughput-workflows-activities-per-second-scaling-benchmark-2.md": {
-    "mtime": 1782758575.6624644,
+    "mtime": 1782767533.063154,
     "ast_hash": "e2f74a057adb5eb12d5409b360879724",
     "semantic_hash": "e2f74a057adb5eb12d5409b360879724"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/ce0c329d8-g442097a8-sidekiq-throughput-jobs-per-second-concurrency-threads-benchmark-1.md": {
-    "mtime": 1782758575.2206364,
+    "mtime": 1782767533.0633082,
     "ast_hash": "b79735e543f34d317d2b97f9df3935a2",
     "semantic_hash": "b79735e543f34d317d2b97f9df3935a2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/ce4944f95-g1d9f83f6-river-queue-postgres-throughput-jobs-per-second-performance-benchmark-2.md": {
-    "mtime": 1782758574.9245737,
+    "mtime": 1782767533.0634272,
     "ast_hash": "48a330b6922aae038b0e6a3fd5608f12",
     "semantic_hash": "48a330b6922aae038b0e6a3fd5608f12"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/cf1e5048d-g442097a8-sidekiq-throughput-jobs-per-second-concurrency-threads-benchmark-4.md": {
-    "mtime": 1782758575.5133867,
+    "mtime": 1782767533.0635443,
     "ast_hash": "99dd46c3b0e18ceada94972d61308b1b",
     "semantic_hash": "99dd46c3b0e18ceada94972d61308b1b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/c1d9724f7-g4f6e22d8-celery-operational-complexity-broker-result-backend-deployment-monitoring-flower-1.md": {
-    "mtime": 1782758577.22627,
+    "mtime": 1782767533.0638208,
     "ast_hash": "263b63df7f17e61bb5eb1b60a9375c9d",
     "semantic_hash": "263b63df7f17e61bb5eb1b60a9375c9d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/c266bb52e-g8694203b-temporal-operational-complexity-self-hosted-cluster-components-deployment-5.md": {
-    "mtime": 1782758578.1096463,
+    "mtime": 1782767533.0640836,
     "ast_hash": "ad9e5fcbd16ba8862f68afd772eb444f",
     "semantic_hash": "ad9e5fcbd16ba8862f68afd772eb444f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/c33cbcb8c-gfdb72c4f-sidekiq-operational-requirements-redis-deployment-monitoring-web-ui-4.md": {
-    "mtime": 1782758578.5639677,
+    "mtime": 1782767533.0646708,
     "ast_hash": "8635c5b66fd382f81759ccacbf97a125",
     "semantic_hash": "8635c5b66fd382f81759ccacbf97a125"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/c4a87ede8-g8694203b-temporal-operational-complexity-self-hosted-cluster-components-deployment-1.md": {
-    "mtime": 1782758577.6705358,
+    "mtime": 1782767533.064947,
     "ast_hash": "d6214983fd7a879801475bf5c5ee99ff",
     "semantic_hash": "d6214983fd7a879801475bf5c5ee99ff"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/c57c8b28f-g8694203b-temporal-operational-complexity-self-hosted-cluster-components-deployment-4.md": {
-    "mtime": 1782758577.964735,
+    "mtime": 1782767533.0652032,
     "ast_hash": "717750472707e61dd8412526ee084698",
     "semantic_hash": "717750472707e61dd8412526ee084698"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/c685ed0ec-g11c263e5-river-queue-operational-simplicity-postgres-only-no-separate-broker-deployment-5.md": {
-    "mtime": 1782758577.0796132,
+    "mtime": 1782767533.0655947,
     "ast_hash": "6314fd188ed4bcc815389337a39fa80e",
     "semantic_hash": "6314fd188ed4bcc815389337a39fa80e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/c8e155433-gfdb72c4f-sidekiq-operational-requirements-redis-deployment-monitoring-web-ui-2.md": {
-    "mtime": 1782758578.3999326,
+    "mtime": 1782767533.0658338,
     "ast_hash": "d450d8d7dec61f84f5e2abbd3e3ba73b",
     "semantic_hash": "d450d8d7dec61f84f5e2abbd3e3ba73b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/c8ebc897b-g8694203b-temporal-operational-complexity-self-hosted-cluster-components-deployment-2.md": {
-    "mtime": 1782758577.8160136,
+    "mtime": 1782767533.066454,
     "ast_hash": "05f1bc396412e55c0ae765a11461e9f1",
     "semantic_hash": "05f1bc396412e55c0ae765a11461e9f1"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/c983a4b42-gfdb72c4f-sidekiq-operational-requirements-redis-deployment-monitoring-web-ui-5.md": {
-    "mtime": 1782758578.713416,
+    "mtime": 1782767533.0665689,
     "ast_hash": "45f4c86629c6b1d3a41f6d3c12615e72",
     "semantic_hash": "45f4c86629c6b1d3a41f6d3c12615e72"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/ca2ca0f56-g11c263e5-river-queue-operational-simplicity-postgres-only-no-separate-broker-deployment-1.md": {
-    "mtime": 1782758576.7799945,
+    "mtime": 1782767533.066716,
     "ast_hash": "2c87370d563f89ce1c35228e26417eed",
     "semantic_hash": "2c87370d563f89ce1c35228e26417eed"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/cc6ce16fe-g11c263e5-river-queue-operational-simplicity-postgres-only-no-separate-broker-deployment-4.md": {
-    "mtime": 1782758576.9289718,
+    "mtime": 1782767533.0669184,
     "ast_hash": "94f75f9e8f7b6b68aae48d378e686153",
     "semantic_hash": "94f75f9e8f7b6b68aae48d378e686153"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/cd7ebc288-g4f6e22d8-celery-operational-complexity-broker-result-backend-deployment-monitoring-flower-5.md": {
-    "mtime": 1782758577.5199354,
+    "mtime": 1782767533.0671983,
     "ast_hash": "6a57dfc4328cbc75f70c23bfe5f5857e",
     "semantic_hash": "6a57dfc4328cbc75f70c23bfe5f5857e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/ce7433bff-g9c546f47-bullmq-operational-complexity-redis-deployment-monitoring-requirements-2.md": {
-    "mtime": 1782758578.2552516,
+    "mtime": 1782767533.0673902,
     "ast_hash": "0bfa343afa6909d0977a8b65772ee8a8",
     "semantic_hash": "0bfa343afa6909d0977a8b65772ee8a8"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/22-operational-complexity/sources/cf04262ad-g4f6e22d8-celery-operational-complexity-broker-result-backend-deployment-monitoring-flower-4.md": {
-    "mtime": 1782758577.3739595,
+    "mtime": 1782767533.0674946,
     "ast_hash": "d249c378e9b535250e6c6d12ce0de826",
     "semantic_hash": "d249c378e9b535250e6c6d12ce0de826"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/comparison-report.md": {
-    "mtime": 1782759431.8522816,
-    "ast_hash": "c5a22e13957198ea49c0e3092249384e",
-    "semantic_hash": "c5a22e13957198ea49c0e3092249384e"
+    "mtime": 1782768762.9220505,
+    "ast_hash": "e9bb5f2739706b0a5d3ee94df384be26",
+    "semantic_hash": "e9bb5f2739706b0a5d3ee94df384be26"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/SYNTHESIS.md": {
-    "mtime": 1782760341.2505443,
-    "ast_hash": "52c0df46000787155b65dc67d77584a7",
-    "semantic_hash": "52c0df46000787155b65dc67d77584a7"
+    "mtime": 1782768635.714531,
+    "ast_hash": "b3c71e07bfed196c4a61a36b7a569dbc",
+    "semantic_hash": "b3c71e07bfed196c4a61a36b7a569dbc"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/_drafts/d5abc4d87-specs-portability-layer.md": {
     "mtime": 1782753090.0729885,
@@ -2815,133 +2815,158 @@
     "semantic_hash": "dd539b227931774321c3ee53c2a8b41e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d0c6ef52a-ui-monitoring-deepening.md": {
-    "mtime": 1782760329.2742774,
+    "mtime": 1782767533.0678687,
     "ast_hash": "b433c7e2d9f593a74398daba9883045b",
     "semantic_hash": "b433c7e2d9f593a74398daba9883045b"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d14062f6d-education-deepening.md": {
-    "mtime": 1782759767.8197224,
+    "mtime": 1782767533.0680113,
     "ast_hash": "613c0810bb1b5445130bc24fb890e7fe",
     "semantic_hash": "613c0810bb1b5445130bc24fb890e7fe"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d2067494d-azure-managed-primitives.md": {
-    "mtime": 1782751524.17263,
+    "mtime": 1782767533.0681071,
     "ast_hash": "ff93ffd25e71fec550999b2d327a1c67",
     "semantic_hash": "ff93ffd25e71fec550999b2d327a1c67"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d2314b94b-systemd-timers-scheduling.md": {
-    "mtime": 1782752911.2787642,
+    "mtime": 1782767533.0681958,
     "ast_hash": "ca4d69f00a4c27490977c53880270654",
     "semantic_hash": "ca4d69f00a4c27490977c53880270654"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d2669ec87-cicd-job-graph-executors.md": {
-    "mtime": 1782752830.0763764,
+    "mtime": 1782767533.0683355,
     "ast_hash": "e3daa0773a35f2b1adf2cbf5b1550b90",
     "semantic_hash": "e3daa0773a35f2b1adf2cbf5b1550b90"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d2695a4d9-temporal-river-reliability.md": {
-    "mtime": 1782759184.6401172,
+    "mtime": 1782767533.0684667,
     "ast_hash": "5817fab5b84421fdc020d77e5d810927",
     "semantic_hash": "5817fab5b84421fdc020d77e5d810927"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d4e4f56ce-aws-managed-primitives.md": {
-    "mtime": 1782751416.4843202,
+    "mtime": 1782767533.0686867,
     "ast_hash": "a7cb6d11f6203717c26bc61c67669cae",
     "semantic_hash": "a7cb6d11f6203717c26bc61c67669cae"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d5797c35a-canonical-patterns.md": {
-    "mtime": 1782753900.9908378,
+    "mtime": 1782767533.0692286,
     "ast_hash": "191c34dd57396ea628eeb3fd8e6f3df7",
     "semantic_hash": "191c34dd57396ea628eeb3fd8e6f3df7"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d629d7d60-observability-monitoring-stack.md": {
-    "mtime": 1782750134.734889,
+    "mtime": 1782767533.069326,
     "ast_hash": "fc48250ba8a8e91ea4583cdc903b1a8e",
     "semantic_hash": "fc48250ba8a8e91ea4583cdc903b1a8e"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d63f65f39-compute-substrate-batch.md": {
-    "mtime": 1782752237.029697,
+    "mtime": 1782767533.069427,
     "ast_hash": "3b55e40fa6597932b37650214b2a33f2",
     "semantic_hash": "3b55e40fa6597932b37650214b2a33f2"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d6904c58a-specs-portability-layer.md": {
-    "mtime": 1782753233.3414183,
+    "mtime": 1782767533.0695505,
     "ast_hash": "dfe87c2454b7dc311aa04670d4f1833f",
     "semantic_hash": "dfe87c2454b7dc311aa04670d4f1833f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d77e4ce35-task-queues-deepening.md": {
-    "mtime": 1782759879.292383,
+    "mtime": 1782767533.0697238,
     "ast_hash": "a7f21e5296f2b518a1ae0c505883c86d",
     "semantic_hash": "a7f21e5296f2b518a1ae0c505883c86d"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d7c5d5a95-throughput.md": {
-    "mtime": 1782759038.721715,
+    "mtime": 1782767533.069878,
     "ast_hash": "5553d9fdb3ee0b193970bc3a95f0a92f",
     "semantic_hash": "5553d9fdb3ee0b193970bc3a95f0a92f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d8564cbd0-reliability-delivery-guarantees.md": {
-    "mtime": 1782748573.384428,
+    "mtime": 1782767533.0700305,
     "ast_hash": "2904408fa974b98c7119b95fe195a795",
     "semantic_hash": "2904408fa974b98c7119b95fe195a795"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d86b66b28-workflow-orchestration-engines.md": {
-    "mtime": 1782750596.2141533,
+    "mtime": 1782767533.0702229,
     "ast_hash": "f9292343a045fdac55db5566c864b294",
     "semantic_hash": "f9292343a045fdac55db5566c864b294"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d8bd7fe16-broker-paradigms.md": {
-    "mtime": 1782752151.2007139,
+    "mtime": 1782767533.070761,
     "ast_hash": "a1fcc48cc9ce1079742729724ade8240",
     "semantic_hash": "a1fcc48cc9ce1079742729724ade8240"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d8c5f2828-operator-uis.md": {
-    "mtime": 1782753698.3203714,
+    "mtime": 1782767533.0708752,
     "ast_hash": "791196dba40d62507cbee1451a7ffc66",
     "semantic_hash": "791196dba40d62507cbee1451a7ffc66"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d8ebac5c4-data-pipeline-stack.md": {
-    "mtime": 1782752481.7048955,
+    "mtime": 1782767533.0709875,
     "ast_hash": "d08d5cb733758f347faf0e54597c7cc3",
     "semantic_hash": "d08d5cb733758f347faf0e54597c7cc3"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/da41bf2a7-cross-cutting-concerns.md": {
-    "mtime": 1782754130.5421376,
+    "mtime": 1782767533.0710795,
     "ast_hash": "8b6f55ad02871293b80c01fc717ffc55",
     "semantic_hash": "8b6f55ad02871293b80c01fc717ffc55"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/da9c1d5da-core-patterns.md": {
-    "mtime": 1782755771.9312184,
+    "mtime": 1782767533.0711749,
     "ast_hash": "8ff68f6db644faf0e6a709531e65c522",
     "semantic_hash": "8ff68f6db644faf0e6a709531e65c522"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/daf5dbe8a-task-queue-architecture.md": {
-    "mtime": 1782750408.1574297,
+    "mtime": 1782767533.0712712,
     "ast_hash": "07b01feba181509b1d3343f23e9b101f",
     "semantic_hash": "07b01feba181509b1d3343f23e9b101f"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/dc998e846-gcp-firebase-managed-primitives.md": {
-    "mtime": 1782751776.0614994,
+    "mtime": 1782767533.0713623,
     "ast_hash": "23b85243a4f9812f6e397b90440632b5",
     "semantic_hash": "23b85243a4f9812f6e397b90440632b5"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/dd3344178-operational-complexity.md": {
-    "mtime": 1782759207.6466348,
+    "mtime": 1782767533.0715086,
     "ast_hash": "eb8f76d6be2180dca20cfe9e9096eb86",
     "semantic_hash": "eb8f76d6be2180dca20cfe9e9096eb86"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/dd681af26-durable-execution-model.md": {
-    "mtime": 1782750786.0386631,
+    "mtime": 1782767533.071607,
     "ast_hash": "5b40594e37654123346d1ed4d91bda8a",
     "semantic_hash": "5b40594e37654123346d1ed4d91bda8a"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/dd8f96260-local-dev-parity.md": {
-    "mtime": 1782753590.9197495,
+    "mtime": 1782767533.0717006,
     "ast_hash": "42e5b2a3b42d0ecf52b7c3b1437a9f57",
     "semantic_hash": "42e5b2a3b42d0ecf52b7c3b1437a9f57"
   },
   "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/report.md": {
-    "mtime": 1782755988.7833016,
-    "ast_hash": "ef43189f0d36b4a30e675878b109e007",
-    "semantic_hash": "ef43189f0d36b4a30e675878b109e007"
+    "mtime": 1782768856.4301207,
+    "ast_hash": "90c84f4d67d9b716ba76a33f64fe5871",
+    "semantic_hash": "90c84f4d67d9b716ba76a33f64fe5871"
+  },
+  "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/21-throughput/sources/c6dd75a7d-bullmq-throughput-jobs-per-second-maintainer-benchmark-nodejs.md": {
+    "mtime": 1782768086.626206,
+    "ast_hash": "39c04cf618c1d5663b918b1cf4fa81eb",
+    "semantic_hash": "39c04cf618c1d5663b918b1cf4fa81eb"
+  },
+  "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d478f3ee5-workflow-orchestration-airflow-execution-model.md": {
+    "mtime": 1782768475.5858073,
+    "ast_hash": "6961ad2e1af27a89b4f0d8f4ef08596d",
+    "semantic_hash": "6961ad2e1af27a89b4f0d8f4ef08596d"
+  },
+  "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d6a62b548-brokers-rabbitmq-delivery-guarantees.md": {
+    "mtime": 1782768359.052955,
+    "ast_hash": "5c390200e0c07e09f2c3ae7c58e59790",
+    "semantic_hash": "5c390200e0c07e09f2c3ae7c58e59790"
+  },
+  "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/d71fe93d4-throughput-bullmq.md": {
+    "mtime": 1782768124.1867552,
+    "ast_hash": "61bf7c100d23380feef276fb404086be",
+    "semantic_hash": "61bf7c100d23380feef276fb404086be"
+  },
+  "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/da1a9a445-durable-execution-temporal-failure-model.md": {
+    "mtime": 1782768553.190254,
+    "ast_hash": "04a0390282b8d6a013545fcaa6f8749b",
+    "semantic_hash": "04a0390282b8d6a013545fcaa6f8749b"
   }
 }
