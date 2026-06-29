@@ -29,3 +29,6 @@
 - [Temporal's durable-execution failure model: timeouts, activity retries, and replay-forced versioning](da1a9a445-durable-execution-temporal-failure-model.md) — durable-execution
 - [How RabbitMQ delivery guarantees underpin reliable job delivery](d6a62b548-brokers-rabbitmq-delivery-guarantees.md) — brokers
 - [Airflow's execution model: DAGs, scheduler, executor, and DAG runs](d478f3ee5-workflow-orchestration-airflow-execution-model.md) — workflow-orchestration
+- [SQS delivery semantics: visibility timeout, DLQ, and FIFO deduplication](d4c639ef8-sqs-delivery-semantics.md) — cloud-aws
+- [Step Functions Standard vs Express workflow types](d14148357-sfn-standard-vs-express.md) — cloud-aws
+- [Step Functions error handling and task-token callback](d3283ce2b-sfn-error-handling-task-token.md) — cloud-aws

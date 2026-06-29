@@ -4158,7 +4158,7 @@
     }
   ],
   "graph": {
-    "dirty": false,
+    "dirty": true,
     "last_update": "2026-06-29T00:00:00+00:00",
     "node_count": 1023,
     "edge_count": 1165
@@ -4764,6 +4764,51 @@
       "created_at": "2026-06-29T21:28:09.574742+00:00",
       "promoted_path": ".research/docs/findings/d6a62b548-brokers-rabbitmq-delivery-guarantees.md",
       "promoted_at": "2026-06-29T21:29:25.745716+00:00"
+    },
+    {
+      "id": "d14148357",
+      "topic": "cloud-aws",
+      "title": "Step Functions Standard vs Express workflow types",
+      "path": ".research/docs/findings/_drafts/d14148357-sfn-standard-vs-express.md",
+      "status": "promoted",
+      "cites": [
+        "c8acdab63",
+        "cd57f8ab2"
+      ],
+      "created_at": "2026-06-29T21:56:02.710781+00:00",
+      "promoted_path": ".research/docs/findings/d14148357-sfn-standard-vs-express.md",
+      "promoted_at": "2026-06-29T21:57:52.973522+00:00"
+    },
+    {
+      "id": "d3283ce2b",
+      "topic": "cloud-aws",
+      "title": "Step Functions error handling and task-token callback",
+      "path": ".research/docs/findings/_drafts/d3283ce2b-sfn-error-handling-task-token.md",
+      "status": "promoted",
+      "cites": [
+        "c6e7c00dd",
+        "cb1195201",
+        "c1061168e"
+      ],
+      "created_at": "2026-06-29T21:56:35.681675+00:00",
+      "promoted_path": ".research/docs/findings/d3283ce2b-sfn-error-handling-task-token.md",
+      "promoted_at": "2026-06-29T21:58:37.418726+00:00"
+    },
+    {
+      "id": "d4c639ef8",
+      "topic": "cloud-aws",
+      "title": "SQS delivery semantics: visibility timeout, DLQ, and FIFO deduplication",
+      "path": ".research/docs/findings/_drafts/d4c639ef8-sqs-delivery-semantics.md",
+      "status": "promoted",
+      "cites": [
+        "cbd1c78b2",
+        "c565f7ab3",
+        "c13277e4b",
+        "cb96f3ced"
+      ],
+      "created_at": "2026-06-29T21:56:35.725647+00:00",
+      "promoted_path": ".research/docs/findings/d4c639ef8-sqs-delivery-semantics.md",
+      "promoted_at": "2026-06-29T21:57:47.734823+00:00"
     }
   ],
   "goal": {
