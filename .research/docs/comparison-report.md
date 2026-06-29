@@ -1,21 +1,23 @@
 # Compare BullMQ, Sidekiq, Celery, Temporal, and River on reliability, throughput, and operational complexity
 
-> Regenerated over run `r88403b06` after the comparison was completed. All three planned
-> dimensions are now sourced. Each cell cites the corpus id(s) that bear it out; the one
-> remaining unfilled cell (BullMQ throughput) is marked honestly — no primary throughput
-> source exists for BullMQ (only promotional benchmarks, which were filtered out).
+> Regenerated after the comparison was completed and the BullMQ throughput cell was closed.
+> All three planned dimensions are sourced for all five entities. Each cell cites the corpus
+> id(s) that bear it out. The previously-blank BullMQ throughput cell is now filled from a
+> benchmark published by BullMQ's own maintainer — a vendor/synthetic measurement, attributed
+> as such and not laundered into a neutral production ceiling.
 >
 > Backing findings (all promoted, certainty: high unless noted):
 > - reliability, BullMQ/Sidekiq/Celery — `findings/d8564cbd0-reliability-delivery-guarantees.md` (certainty: low)
 > - reliability, Temporal/River + delivery-guarantee divide — `findings/d2695a4d9-temporal-river-reliability.md`
-> - throughput — `findings/d7c5d5a95-throughput.md`
+> - throughput, Sidekiq/Celery/Temporal/River — `findings/d7c5d5a95-throughput.md`
+> - throughput, BullMQ — `findings/d71fe93d4-throughput-bullmq.md` (maintainer benchmark, scope-bounded)
 > - operational complexity — `findings/dd3344178-operational-complexity.md`
 
 ## Matrix — entities × dimensions
 
 | Entity | reliability | throughput | operational complexity |
 | --- | --- | --- | --- |
-| **BullMQ** | Redis-backed Node.js successor to Bull; reliability rests on Redis persistence semantics vs RabbitMQ's AMQP acks/durable queues [c9d6b59a6] | **abstained** — no primary throughput source (only promotional benchmarks, filtered) | Redis as the in-memory job-state store; durability via Redis AOF (`appendonly`/`appendfsync everysec`); monitored with Bull Board [ce7433bff]. One Redis store + a dashboard |
+| **BullMQ** | Redis-backed Node.js successor to Bull; reliability rests on Redis persistence semantics vs RabbitMQ's AMQP acks/durable queues [c9d6b59a6] | Maintainer benchmark (BullMQ author, synthetic, local Redis-on-Docker, M2 Pro, best-of-5): on Node.js v24 ~54,113 jobs/s individual `add` and ~30,102 jobs/s processing (concurrency 100) at 50K-job scale; `add` drops to ~36,765/s at 100K (attributed to V8 GC) while processing holds. Vendor/synthetic — order-of-magnitude, not a neutral production ceiling [c6dd75a7d] | Redis as the in-memory job-state store; durability via Redis AOF (`appendonly`/`appendfsync everysec`); monitored with Bull Board [ce7433bff]. One Redis store + a dashboard |
 | **Sidekiq** | Default client does no push error-handling; Pro "reliable push" buffers locally but bounded (per-process, in-memory, last 1,000, lost on restart) [c7b4003f6] | Thread-per-process Redis model; concurrency = threads/process (default 5); maintainer claims "thousands of jobs per second… millions per day" (qualitative); scale by adding processes/servers [c7d59cf55][cf1e5048d] | Redis (7.0+/Valkey/Dragonfly) via `REDIS_URL`; 1+ processes per app server all sharing one Redis; built-in web UI + `sidekiqmon` [c8e155433][c33cbcb8c][c983a4b42] |
 | **Celery** | Auto-retry w/ `autoretry_for` + `retry_backoff`, capped attempts [c9397f0cc]; Redis broker needs `visibility_timeout` tuning to avoid duplicate/lost tasks [ca14577a1]; soft/hard timeouts [c9397f0cc] | Pluggable pools: prefork (CPU-bound), eventlet/gevent (IO-bound) [cadab39c9]; `worker_prefetch_multiplier` (default 4) trades latency vs throughput [c3cc70cd6][cab7b5230]; throughput is capacity-planning, not one headline number [c162af10e] | Broker (transport) + optional result backend + Flower for monitoring; Redis can be both broker and backend; backend not required unless results needed [c1d9724f7][cf04262ad][cd7ebc288] |
 | **Temporal** | Durable execution = "crash-proof" workflows via event-history replay; **exactly-once workflow-execution semantics** (replay/dedup), but activities are at-least-once and need idempotency [c80bc2a20][c64285464][c30e424ce] | Vendor metric is "State Transitions per second" (jobs/sec called "not a very useful metric"); persistence DB is the bottleneck, scaled via shards (4 dev → 512 → ~4,096) [ccee53635]; single Postgres ~100 RPS before failures in one independent test [c3436cdfc] | Heaviest: a cluster of multiple server processes + a persistence DB + (typically) an Elasticsearch visibility store + a separate UI server [c57c8b28f][c8ebc897b]; lighter single-binary CLI dev server for non-prod [c4a87ede8] |
@@ -57,10 +59,14 @@ scaling bottleneck addressed by shard count [ccee53635]; an independent test saw
 Postgres back-end fail past ~120 RPS of spiked load [c3436cdfc]. River's throughput is
 Postgres-queue-class — bulk `COPY` inserts and `SKIP LOCKED` fetch — and the only large
 numbers in the corpus are DBOS's own product benchmark, explicitly fenced as illustrative of
-the *class*, not a River measurement [cca599229][ce4944f95]. **BullMQ is abstained** — the
-only throughput figures found were promotional and were excluded.
+the *class*, not a River measurement [cca599229][ce4944f95]. **BullMQ** is the one engine with
+a hard jobs/sec source, but it is the maintainer's own synthetic benchmark: on Node.js v24,
+best-of-5 on a local Redis-on-Docker setup, ~54K jobs/s for individual `add` and ~30K jobs/s
+for processing at 50K jobs, with `add` falling to ~37K/s at 100K (V8 garbage collection) while
+processing stays I/O-bound on Redis round-trips [c6dd75a7d]. It is reported as a vendor,
+single-machine order-of-magnitude — useful for sizing, not a guaranteed production ceiling.
 
-Full finding: `findings/d7c5d5a95-throughput.md`.
+Full findings: `findings/d7c5d5a95-throughput.md`, `findings/d71fe93d4-throughput-bullmq.md`.
 
 ## operational complexity
 
@@ -81,8 +87,10 @@ Full finding: `findings/dd3344178-operational-complexity.md`.
 
 ## Open gaps
 
-- BullMQ throughput: no primary/independent source (the only benchmark found was
-  promotional, excluded). Honest blank in the matrix.
+- BullMQ throughput: now filled, but the only hard source is the maintainer's own synthetic
+  benchmark (vendor, single local machine, Redis on Docker). No neutral third-party BullMQ
+  throughput measurement is in the corpus; the figures are an order-of-magnitude, not a
+  production guarantee.
 - BullMQ quantitative reliability still rests on architectural facts only (its reliability
   benchmark source was promotional; see the reliability finding's scope note).
 - Per-engine numeric throughput headlines are intentionally not asserted — the corpus does

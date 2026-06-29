@@ -695,3 +695,5 @@
 {"run_id": "r88403b06", "cycle": 0, "seq": 63, "ts": "2026-06-29T19:10:21.730836+00:00", "flow": "review", "step": "review", "status": "ok", "data": {"draft": "d77e4ce35", "topic": "task-queues", "verdict": "promote", "certainty": "high"}}
 {"run_id": "r88403b06", "cycle": 0, "seq": 64, "ts": "2026-06-29T19:12:21.301049+00:00", "flow": "review", "step": "review", "status": "ok", "data": {"draft": "d0c6ef52a", "topic": "ui-monitoring", "verdict": "promote", "certainty": "high", "note": "softened docker-desktop nav overreach"}}
 {"run_id": "r88403b06", "cycle": 0, "seq": 65, "ts": "2026-06-29T20:54:37.389242+00:00", "flow": "run", "step": "run_end", "status": "ok", "data": {"status": "ok"}}
+{"run_id": "r88403b06", "cycle": 0, "seq": 66, "ts": "2026-06-29T21:21:26.690417+00:00", "flow": "ingest", "step": "normalize", "status": "ok", "data": {"corpus_id": "c6dd75a7d", "type": "rawtext"}}
+{"run_id": "r88403b06", "cycle": 0, "seq": 67, "ts": "2026-06-29T21:21:26.720575+00:00", "flow": "ingest", "step": "summary", "status": "ok", "data": {"corpus_added": 1, "graph_dirty": true}}

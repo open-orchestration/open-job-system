@@ -25,3 +25,7 @@
 - [Reliability and distributed-systems principles a generic job system must embody](d14062f6d-education-deepening.md) — education
 - [Task queue engines in depth: configuration, retries, scheduling, and per-engine design](d77e4ce35-task-queues-deepening.md) — task-queues
 - [Operator UIs in depth: engine dashboards, cloud consoles, and container monitoring](d0c6ef52a-ui-monitoring-deepening.md) — ui-monitoring
+- [BullMQ throughput: maintainer-measured jobs/sec and the scope that bounds it](d71fe93d4-throughput-bullmq.md) — throughput
+- [Temporal's durable-execution failure model: timeouts, activity retries, and replay-forced versioning](da1a9a445-durable-execution-temporal-failure-model.md) — durable-execution
+- [How RabbitMQ delivery guarantees underpin reliable job delivery](d6a62b548-brokers-rabbitmq-delivery-guarantees.md) — brokers
+- [Airflow's execution model: DAGs, scheduler, executor, and DAG runs](d478f3ee5-workflow-orchestration-airflow-execution-model.md) — workflow-orchestration

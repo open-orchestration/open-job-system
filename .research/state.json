@@ -4144,10 +4144,21 @@
       "extracted_path": ".research/docs/22-operational-complexity/sources/c983a4b42-gfdb72c4f-sidekiq-operational-requirements-redis-deployment-monitoring-web-ui-5.md",
       "lossy": false,
       "ingested_at": "2026-06-29T18:42:58.743142+00:00"
+    },
+    {
+      "id": "c6dd75a7d",
+      "title": "bullmq-throughput-jobs-per-second-maintainer-benchmark-nodejs",
+      "source": "file://bullmq-throughput-jobs-per-second-maintainer-benchmark-nodejs.md",
+      "topic": "throughput",
+      "lifecycle": "active",
+      "native_path": "ingest/.work/throughput-bullmq/_done/bullmq-throughput-jobs-per-second-maintainer-benchmark-nodejs.md",
+      "extracted_path": ".research/docs/21-throughput/sources/c6dd75a7d-bullmq-throughput-jobs-per-second-maintainer-benchmark-nodejs.md",
+      "lossy": false,
+      "ingested_at": "2026-06-29T21:21:26.656245+00:00"
     }
   ],
   "graph": {
-    "dirty": false,
+    "dirty": true,
     "last_update": "2026-06-29T00:00:00+00:00",
     "node_count": 1020,
     "edge_count": 1174
@@ -4684,6 +4695,75 @@
       "created_at": "2026-06-29T19:06:23.099518+00:00",
       "promoted_path": ".research/docs/findings/d77e4ce35-task-queues-deepening.md",
       "promoted_at": "2026-06-29T19:10:21.691476+00:00"
+    },
+    {
+      "id": "d71fe93d4",
+      "topic": "throughput",
+      "title": "BullMQ throughput: maintainer-measured jobs/sec and the scope that bounds it",
+      "path": ".research/docs/findings/_drafts/d71fe93d4-throughput-bullmq.md",
+      "status": "promoted",
+      "cites": [
+        "c6dd75a7d"
+      ],
+      "created_at": "2026-06-29T21:22:38.424832+00:00",
+      "promoted_path": ".research/docs/findings/d71fe93d4-throughput-bullmq.md",
+      "promoted_at": "2026-06-29T21:23:48.661796+00:00"
+    },
+    {
+      "id": "da1a9a445",
+      "topic": "durable-execution",
+      "title": "Temporal's durable-execution failure model: timeouts, activity retries, and replay-forced versioning",
+      "path": ".research/docs/findings/_drafts/da1a9a445-durable-execution-temporal-failure-model.md",
+      "status": "promoted",
+      "cites": [
+        "c1bd468eb",
+        "c207dad27",
+        "c2e8d1622",
+        "c3c530383",
+        "ce1e072b0",
+        "c98eed491"
+      ],
+      "created_at": "2026-06-29T21:28:09.488604+00:00",
+      "promoted_path": ".research/docs/findings/da1a9a445-durable-execution-temporal-failure-model.md",
+      "promoted_at": "2026-06-29T21:29:20.796642+00:00"
+    },
+    {
+      "id": "d478f3ee5",
+      "topic": "workflow-orchestration",
+      "title": "Airflow's execution model: DAGs, scheduler, executor, and DAG runs",
+      "path": ".research/docs/findings/_drafts/d478f3ee5-workflow-orchestration-airflow-execution-model.md",
+      "status": "promoted",
+      "cites": [
+        "c1be14e09",
+        "c3b02633d",
+        "ccc1d94ae",
+        "c7eff2026",
+        "cf5123b41",
+        "c18fa1028",
+        "cf76f81df",
+        "cd3f8af81"
+      ],
+      "created_at": "2026-06-29T21:28:09.531963+00:00",
+      "promoted_path": ".research/docs/findings/d478f3ee5-workflow-orchestration-airflow-execution-model.md",
+      "promoted_at": "2026-06-29T21:30:35.714348+00:00"
+    },
+    {
+      "id": "d6a62b548",
+      "topic": "brokers",
+      "title": "How RabbitMQ delivery guarantees underpin reliable job delivery",
+      "path": ".research/docs/findings/_drafts/d6a62b548-brokers-rabbitmq-delivery-guarantees.md",
+      "status": "promoted",
+      "cites": [
+        "ca1b52a3b",
+        "cba5dcf86",
+        "c1b49f029",
+        "ce2406bb0",
+        "ca2a2c636",
+        "cbe0826f3"
+      ],
+      "created_at": "2026-06-29T21:28:09.574742+00:00",
+      "promoted_path": ".research/docs/findings/d6a62b548-brokers-rabbitmq-delivery-guarantees.md",
+      "promoted_at": "2026-06-29T21:29:25.745716+00:00"
     }
   ],
   "goal": {
