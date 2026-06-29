@@ -32,3 +32,7 @@
 - [SQS delivery semantics: visibility timeout, DLQ, and FIFO deduplication](d4c639ef8-sqs-delivery-semantics.md) — cloud-aws
 - [Step Functions Standard vs Express workflow types](d14148357-sfn-standard-vs-express.md) — cloud-aws
 - [Step Functions error handling and task-token callback](d3283ce2b-sfn-error-handling-task-token.md) — cloud-aws
+- [Step Functions Map state: Inline vs Distributed mode](d2855df07-sfn-map-state.md) — cloud-aws
+- [SQS architecture and choosing among SQS, SNS, and Amazon MQ](d8e19f3eb-sqs-architecture.md) — cloud-aws
+- [Lambda asynchronous invocation: internal queue, retries, and DLQ](d8cbd8bbc-lambda-async-invoke.md) — cloud-aws
+- [AWS managed orchestration and integration service landscape](d44366119-aws-orchestration-landscape.md) — cloud-aws

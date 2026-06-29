@@ -4809,6 +4809,63 @@
       "created_at": "2026-06-29T21:56:35.725647+00:00",
       "promoted_path": ".research/docs/findings/d4c639ef8-sqs-delivery-semantics.md",
       "promoted_at": "2026-06-29T21:57:47.734823+00:00"
+    },
+    {
+      "id": "d2855df07",
+      "topic": "cloud-aws",
+      "title": "Step Functions Map state: Inline vs Distributed mode",
+      "path": ".research/docs/findings/_drafts/d2855df07-sfn-map-state.md",
+      "status": "promoted",
+      "cites": [
+        "c6c9cf97a"
+      ],
+      "created_at": "2026-06-29T22:02:24.075565+00:00",
+      "promoted_path": ".research/docs/findings/d2855df07-sfn-map-state.md",
+      "promoted_at": "2026-06-29T22:03:17.334270+00:00"
+    },
+    {
+      "id": "d8e19f3eb",
+      "topic": "cloud-aws",
+      "title": "SQS architecture and choosing among SQS, SNS, and Amazon MQ",
+      "path": ".research/docs/findings/_drafts/d8e19f3eb-sqs-architecture.md",
+      "status": "promoted",
+      "cites": [
+        "c4865634c"
+      ],
+      "created_at": "2026-06-29T22:02:41.471400+00:00",
+      "promoted_path": ".research/docs/findings/d8e19f3eb-sqs-architecture.md",
+      "promoted_at": "2026-06-29T22:03:50.810605+00:00"
+    },
+    {
+      "id": "d8cbd8bbc",
+      "topic": "cloud-aws",
+      "title": "Lambda asynchronous invocation: internal queue, retries, and DLQ",
+      "path": ".research/docs/findings/_drafts/d8cbd8bbc-lambda-async-invoke.md",
+      "status": "promoted",
+      "cites": [
+        "c4fcc4e49"
+      ],
+      "created_at": "2026-06-29T22:02:50.099826+00:00",
+      "promoted_path": ".research/docs/findings/d8cbd8bbc-lambda-async-invoke.md",
+      "promoted_at": "2026-06-29T22:06:21.722424+00:00"
+    },
+    {
+      "id": "d44366119",
+      "topic": "cloud-aws",
+      "title": "AWS managed orchestration and integration service landscape",
+      "path": ".research/docs/findings/_drafts/d44366119-aws-orchestration-landscape.md",
+      "status": "promoted",
+      "cites": [
+        "c6ac0dfc5",
+        "cb3dbff3c",
+        "cbde547a8",
+        "ce12ad49a",
+        "cdbd8c0c0",
+        "cb331285a"
+      ],
+      "created_at": "2026-06-29T22:03:45.660194+00:00",
+      "promoted_path": ".research/docs/findings/d44366119-aws-orchestration-landscape.md",
+      "promoted_at": "2026-06-29T22:07:11.080670+00:00"
     }
   ],
   "goal": {
