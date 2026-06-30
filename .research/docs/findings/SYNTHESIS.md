@@ -45,3 +45,8 @@
 - [Temporal programming model: child workflows and message passing](d8e9f8182-temporal-programming-model.md) — durable-execution
 - [Temporal architecture: Cluster, Workers, and SDKs](d5c5a0bde-temporal-architecture.md) — durable-execution
 - [Durable-execution engine landscape: Cadence, Conductor, Resonate, Trigger.dev, Vercel Workflow](d7bb29b7f-de-engine-landscape.md) — durable-execution
+- [RabbitMQ consumers: acknowledgements, prefetch, and consumer timeout](df270589c-rabbitmq-consumers.md) — brokers
+- [NATS JetStream: streams and consumers](dcf467312-nats-jetstream.md) — brokers
+- [ActiveMQ Artemis core model: addresses, queues, routing types, and journal persistence](d85d89ef8-artemis-core-model.md) — brokers
+- [ZeroMQ brokerless messaging patterns](d78b56460-zeromq-patterns.md) — brokers
+- [Redis messaging: Pub/Sub versus Streams](d6f918ca0-redis-pubsub-vs-streams.md) — brokers
