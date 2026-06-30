@@ -5290,6 +5290,39 @@
       "created_at": "2026-06-30T20:22:45.926805+00:00",
       "promoted_path": ".research/docs/findings/da5f99648-cicd-config-syntax.md",
       "promoted_at": "2026-06-30T20:25:23.520418+00:00"
+    },
+    {
+      "id": "d8e7a3202",
+      "topic": "cloud-azure",
+      "title": "Azure Workflow and Data-Integration Services: Logic Apps and Data Factory",
+      "path": ".research/docs/findings/_drafts/d8e7a3202-azure-logic-apps-data-factory.md",
+      "status": "promoted",
+      "cites": [
+        "c41adc238",
+        "cb73303e2"
+      ],
+      "created_at": "2026-06-30T20:28:41.174957+00:00",
+      "promoted_path": ".research/docs/findings/d8e7a3202-azure-logic-apps-data-factory.md",
+      "promoted_at": "2026-06-30T20:30:54.148218+00:00"
+    },
+    {
+      "id": "d86b346a1",
+      "topic": "cloud-azure",
+      "title": "Azure Durable Functions: Durable Execution Model",
+      "path": ".research/docs/findings/_drafts/d86b346a1-azure-durable-functions.md",
+      "status": "promoted",
+      "cites": [
+        "cfa15355b",
+        "c15a8c921",
+        "ce7a6a231",
+        "cf370497c",
+        "c987ab833",
+        "c986ff4cd",
+        "c1040e934"
+      ],
+      "created_at": "2026-06-30T20:31:48.687795+00:00",
+      "promoted_path": ".research/docs/findings/d86b346a1-azure-durable-functions.md",
+      "promoted_at": "2026-06-30T20:35:05.365069+00:00"
     }
   ],
   "goal": {

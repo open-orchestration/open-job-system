@@ -65,3 +65,5 @@
 - [Kubernetes Batch Jobs: Reliability and Parallelism](dc8157da0-k8s-batch-jobs.md) — container-batch
 - [CI/CD Pipeline Platform Landscape: GitHub Actions, Jenkins, Drone, and CircleCI](d318109e4-cicd-platform-survey.md) — cicd
 - [CI/CD Configuration-as-Code: Pipeline Definition Syntax](da5f99648-cicd-config-syntax.md) — cicd
+- [Azure Workflow and Data-Integration Services: Logic Apps and Data Factory](d8e7a3202-azure-logic-apps-data-factory.md) — cloud-azure
+- [Azure Durable Functions: Durable Execution Model](d86b346a1-azure-durable-functions.md) — cloud-azure
