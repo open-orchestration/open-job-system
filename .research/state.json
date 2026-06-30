@@ -5259,6 +5259,37 @@
       "created_at": "2026-06-30T20:14:23.661258+00:00",
       "promoted_path": ".research/docs/findings/dc8157da0-k8s-batch-jobs.md",
       "promoted_at": "2026-06-30T20:17:48.767758+00:00"
+    },
+    {
+      "id": "d318109e4",
+      "topic": "cicd",
+      "title": "CI/CD Pipeline Platform Landscape: GitHub Actions, Jenkins, Drone, and CircleCI",
+      "path": ".research/docs/findings/_drafts/d318109e4-cicd-platform-survey.md",
+      "status": "promoted",
+      "cites": [
+        "c9c1805a5",
+        "c428c480a",
+        "c797764b0",
+        "c3f8aaa77"
+      ],
+      "created_at": "2026-06-30T20:21:48.170501+00:00",
+      "promoted_path": ".research/docs/findings/d318109e4-cicd-platform-survey.md",
+      "promoted_at": "2026-06-30T20:23:58.829622+00:00"
+    },
+    {
+      "id": "da5f99648",
+      "topic": "cicd",
+      "title": "CI/CD Configuration-as-Code: Pipeline Definition Syntax",
+      "path": ".research/docs/findings/_drafts/da5f99648-cicd-config-syntax.md",
+      "status": "promoted",
+      "cites": [
+        "c16e7ac03",
+        "cebcb4921",
+        "cc0f727de"
+      ],
+      "created_at": "2026-06-30T20:22:45.926805+00:00",
+      "promoted_path": ".research/docs/findings/da5f99648-cicd-config-syntax.md",
+      "promoted_at": "2026-06-30T20:25:23.520418+00:00"
     }
   ],
   "goal": {

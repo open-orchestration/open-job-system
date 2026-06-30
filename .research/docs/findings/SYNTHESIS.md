@@ -63,3 +63,5 @@
 - [Spring Batch domain model: Job, JobInstance, JobExecution, Step](df87cdc82-spring-batch-domain.md) — task-queues
 - [Batch and HPC Scheduler Landscape: Ray, Volcano, and Nomad](d919ebeeb-batch-hpc-scheduler-survey.md) — container-batch
 - [Kubernetes Batch Jobs: Reliability and Parallelism](dc8157da0-k8s-batch-jobs.md) — container-batch
+- [CI/CD Pipeline Platform Landscape: GitHub Actions, Jenkins, Drone, and CircleCI](d318109e4-cicd-platform-survey.md) — cicd
+- [CI/CD Configuration-as-Code: Pipeline Definition Syntax](da5f99648-cicd-config-syntax.md) — cicd
