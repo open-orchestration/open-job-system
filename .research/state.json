@@ -5126,6 +5126,51 @@
       "created_at": "2026-06-30T18:29:27.649431+00:00",
       "promoted_path": ".research/docs/findings/d0c322808-cloudevents.md",
       "promoted_at": "2026-06-30T18:33:14.081747+00:00"
+    },
+    {
+      "id": "d90bfcee4",
+      "topic": "workflow-orchestration",
+      "title": "ML and data-pipeline orchestrators: Kubeflow Pipelines, Luigi, Mage, and Metaflow",
+      "path": ".research/docs/findings/_drafts/d90bfcee4-ml-pipeline-orchestrators.md",
+      "status": "promoted",
+      "cites": [
+        "c7a50cffa",
+        "c904f5453",
+        "c368c6093",
+        "c662849c7"
+      ],
+      "created_at": "2026-06-30T18:36:46.152187+00:00",
+      "promoted_path": ".research/docs/findings/d90bfcee4-ml-pipeline-orchestrators.md",
+      "promoted_at": "2026-06-30T18:38:21.676806+00:00"
+    },
+    {
+      "id": "d8432d7e0",
+      "topic": "workflow-orchestration",
+      "title": "Workflow-automation platforms: Kestra, n8n, Windmill, and Node-RED",
+      "path": ".research/docs/findings/_drafts/d8432d7e0-workflow-automation-platforms.md",
+      "status": "promoted",
+      "cites": [
+        "c25b85154",
+        "c87e53ec2",
+        "cc6584b00",
+        "c023d8cc3"
+      ],
+      "created_at": "2026-06-30T18:36:59.768435+00:00",
+      "promoted_path": ".research/docs/findings/d8432d7e0-workflow-automation-platforms.md",
+      "promoted_at": "2026-06-30T18:41:47.197810+00:00"
+    },
+    {
+      "id": "d648a190a",
+      "topic": "workflow-orchestration",
+      "title": "Apache Airflow DAG authoring best practices",
+      "path": ".research/docs/findings/_drafts/d648a190a-airflow-best-practices.md",
+      "status": "promoted",
+      "cites": [
+        "ce9d10d36"
+      ],
+      "created_at": "2026-06-30T18:37:44.737670+00:00",
+      "promoted_path": ".research/docs/findings/d648a190a-airflow-best-practices.md",
+      "promoted_at": "2026-06-30T18:40:17.898999+00:00"
     }
   ],
   "goal": {

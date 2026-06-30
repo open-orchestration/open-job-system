@@ -54,3 +54,6 @@
 - [API and process description standards: OpenAPI and BPMN](d2810d898-api-process-standards.md) — specs
 - [Serverless Workflow DSL: the workflow and task model](da74acefa-serverless-workflow-dsl.md) — specs
 - [CloudEvents: the event envelope, JSON format, and protocol bindings](d0c322808-cloudevents.md) — specs
+- [ML and data-pipeline orchestrators: Kubeflow Pipelines, Luigi, Mage, and Metaflow](d90bfcee4-ml-pipeline-orchestrators.md) — workflow-orchestration
+- [Apache Airflow DAG authoring best practices](d648a190a-airflow-best-practices.md) — workflow-orchestration
+- [Workflow-automation platforms: Kestra, n8n, Windmill, and Node-RED](d8432d7e0-workflow-automation-platforms.md) — workflow-orchestration
