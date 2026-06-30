@@ -50,3 +50,7 @@
 - [ActiveMQ Artemis core model: addresses, queues, routing types, and journal persistence](d85d89ef8-artemis-core-model.md) — brokers
 - [ZeroMQ brokerless messaging patterns](d78b56460-zeromq-patterns.md) — brokers
 - [Redis messaging: Pub/Sub versus Streams](d6f918ca0-redis-pubsub-vs-streams.md) — brokers
+- [JSON Schema: validation keywords and schema structuring](d3395da47-json-schema.md) — specs
+- [API and process description standards: OpenAPI and BPMN](d2810d898-api-process-standards.md) — specs
+- [Serverless Workflow DSL: the workflow and task model](da74acefa-serverless-workflow-dsl.md) — specs
+- [CloudEvents: the event envelope, JSON format, and protocol bindings](d0c322808-cloudevents.md) — specs

@@ -5067,6 +5067,65 @@
       "created_at": "2026-06-30T18:19:58.269335+00:00",
       "promoted_path": ".research/docs/findings/d6f918ca0-redis-pubsub-vs-streams.md",
       "promoted_at": "2026-06-30T18:22:14.157588+00:00"
+    },
+    {
+      "id": "d3395da47",
+      "topic": "specs",
+      "title": "JSON Schema: validation keywords and schema structuring",
+      "path": ".research/docs/findings/_drafts/d3395da47-json-schema.md",
+      "status": "promoted",
+      "cites": [
+        "ce4bbacfb",
+        "c569055f7",
+        "c0978fde7"
+      ],
+      "created_at": "2026-06-30T18:28:33.168693+00:00",
+      "promoted_path": ".research/docs/findings/d3395da47-json-schema.md",
+      "promoted_at": "2026-06-30T18:30:09.057414+00:00"
+    },
+    {
+      "id": "d2810d898",
+      "topic": "specs",
+      "title": "API and process description standards: OpenAPI and BPMN",
+      "path": ".research/docs/findings/_drafts/d2810d898-api-process-standards.md",
+      "status": "promoted",
+      "cites": [
+        "cba12dca9",
+        "c27d9d4d3"
+      ],
+      "created_at": "2026-06-30T18:29:27.480573+00:00",
+      "promoted_path": ".research/docs/findings/d2810d898-api-process-standards.md",
+      "promoted_at": "2026-06-30T18:31:54.799067+00:00"
+    },
+    {
+      "id": "da74acefa",
+      "topic": "specs",
+      "title": "Serverless Workflow DSL: the workflow and task model",
+      "path": ".research/docs/findings/_drafts/da74acefa-serverless-workflow-dsl.md",
+      "status": "promoted",
+      "cites": [
+        "c206336e5",
+        "cc117ea67"
+      ],
+      "created_at": "2026-06-30T18:29:27.566812+00:00",
+      "promoted_path": ".research/docs/findings/da74acefa-serverless-workflow-dsl.md",
+      "promoted_at": "2026-06-30T18:32:34.958406+00:00"
+    },
+    {
+      "id": "d0c322808",
+      "topic": "specs",
+      "title": "CloudEvents: the event envelope, JSON format, and protocol bindings",
+      "path": ".research/docs/findings/_drafts/d0c322808-cloudevents.md",
+      "status": "promoted",
+      "cites": [
+        "c2b839970",
+        "c2c73f13a",
+        "c20f15872",
+        "cb37a61c6"
+      ],
+      "created_at": "2026-06-30T18:29:27.649431+00:00",
+      "promoted_path": ".research/docs/findings/d0c322808-cloudevents.md",
+      "promoted_at": "2026-06-30T18:33:14.081747+00:00"
     }
   ],
   "goal": {
