@@ -24,12 +24,12 @@
     },
     "spent": {
       "tokens": 0,
-      "sources": 43,
+      "sources": 47,
       "cycle_started_at": null
     },
     "run": {
       "token_ceiling": 3000000,
-      "tokens_spent": 233858,
+      "tokens_spent": 353399,
       "started_at": "2026-06-29T15:46:30.922665+00:00"
     },
     "dimension_alpha": {
@@ -202,6 +202,14 @@
       "id": "g217d0295",
       "topic": "cloud-gcp-firebase",
       "desc": "Comparative concurrency/pricing/runtime limits across Cloud Run jobs, Composer, Cloud Functions, Extensions",
+      "origin": "process",
+      "status": "done",
+      "attempts": 0
+    },
+    {
+      "id": "g1c458fa0",
+      "topic": "gap-fill",
+      "desc": "DLQ redrive mechanism: moving messages from a dead-letter queue back to the source queue after fault resolution (c9a0d88a5 was mislabeled AWS intro page)",
       "origin": "process",
       "status": "queued",
       "attempts": 0
@@ -4212,6 +4220,50 @@
       "extracted_path": ".research/docs/08-cloud-gcp-firebase/sources/c4144b6cf-gf8aa99c5-cloud-tasks-concrete-maximum-task-retention-numeric-limit-2.md",
       "lossy": false,
       "ingested_at": "2026-06-30T20:52:36.921495+00:00"
+    },
+    {
+      "id": "c4db5a67c",
+      "title": "g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-2",
+      "source": "file://g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-2.md",
+      "topic": "cloud-gcp-firebase",
+      "lifecycle": "active",
+      "native_path": "ingest/.work/cloud-gcp-firebase/_done/g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-2.md",
+      "extracted_path": ".research/docs/08-cloud-gcp-firebase/sources/c4db5a67c-g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-2.md",
+      "lossy": false,
+      "ingested_at": "2026-06-30T21:06:48.321629+00:00"
+    },
+    {
+      "id": "ccd6e6615",
+      "title": "g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-3",
+      "source": "file://g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-3.md",
+      "topic": "cloud-gcp-firebase",
+      "lifecycle": "active",
+      "native_path": "ingest/.work/cloud-gcp-firebase/_done/g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-3.md",
+      "extracted_path": ".research/docs/08-cloud-gcp-firebase/sources/ccd6e6615-g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-3.md",
+      "lossy": false,
+      "ingested_at": "2026-06-30T21:06:48.467036+00:00"
+    },
+    {
+      "id": "c715a40e9",
+      "title": "g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-4",
+      "source": "file://g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-4.md",
+      "topic": "cloud-gcp-firebase",
+      "lifecycle": "active",
+      "native_path": "ingest/.work/cloud-gcp-firebase/_done/g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-4.md",
+      "extracted_path": ".research/docs/08-cloud-gcp-firebase/sources/c715a40e9-g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-4.md",
+      "lossy": false,
+      "ingested_at": "2026-06-30T21:06:48.611598+00:00"
+    },
+    {
+      "id": "c6eb4ceed",
+      "title": "g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-5",
+      "source": "file://g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-5.md",
+      "topic": "cloud-gcp-firebase",
+      "lifecycle": "active",
+      "native_path": "ingest/.work/cloud-gcp-firebase/_done/g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-5.md",
+      "extracted_path": ".research/docs/08-cloud-gcp-firebase/sources/c6eb4ceed-g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-5.md",
+      "lossy": false,
+      "ingested_at": "2026-06-30T21:06:48.761456+00:00"
     }
   ],
   "graph": {
@@ -5412,6 +5464,20 @@
       "created_at": "2026-06-30T20:55:08.978852+00:00",
       "promoted_path": ".research/docs/findings/d3ec778f9-gcp-firebase-services.md",
       "promoted_at": "2026-06-30T20:57:46.958075+00:00"
+    },
+    {
+      "id": "d96d129bf",
+      "topic": "gap-fill",
+      "title": "Distributed-System Patterns: Claim-Check and Strangler-Fig",
+      "path": "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/_drafts/d96d129bf-distributed-system-patterns.md",
+      "status": "promoted",
+      "cites": [
+        "c2f4da0bd",
+        "cdb0541dc"
+      ],
+      "created_at": "2026-06-30T21:10:57.796823+00:00",
+      "promoted_path": ".research/docs/findings/d96d129bf-distributed-system-patterns.md",
+      "promoted_at": "2026-06-30T21:12:28.874905+00:00"
     }
   ],
   "goal": {
