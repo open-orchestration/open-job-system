@@ -5171,6 +5171,61 @@
       "created_at": "2026-06-30T18:37:44.737670+00:00",
       "promoted_path": ".research/docs/findings/d648a190a-airflow-best-practices.md",
       "promoted_at": "2026-06-30T18:40:17.898999+00:00"
+    },
+    {
+      "id": "df87cdc82",
+      "topic": "task-queues",
+      "title": "Spring Batch domain model: Job, JobInstance, JobExecution, Step",
+      "path": ".research/docs/findings/_drafts/df87cdc82-spring-batch-domain.md",
+      "status": "promoted",
+      "cites": [
+        "c70cbc0f6",
+        "c9f14a04f"
+      ],
+      "created_at": "2026-06-30T18:45:14.585540+00:00",
+      "promoted_path": ".research/docs/findings/df87cdc82-spring-batch-domain.md",
+      "promoted_at": "2026-06-30T18:50:22.792070+00:00"
+    },
+    {
+      "id": "d93d3272e",
+      "topic": "task-queues",
+      "title": "Celery monitoring and management",
+      "path": ".research/docs/findings/_drafts/d93d3272e-celery-monitoring.md",
+      "status": "promoted",
+      "cites": [
+        "c5276a516"
+      ],
+      "created_at": "2026-06-30T18:45:24.804811+00:00",
+      "promoted_path": ".research/docs/findings/d93d3272e-celery-monitoring.md",
+      "promoted_at": "2026-06-30T18:46:49.091696+00:00"
+    },
+    {
+      "id": "d98b5abab",
+      "topic": "task-queues",
+      "title": "Redis-backed job queues: Bull and arq",
+      "path": ".research/docs/findings/_drafts/d98b5abab-bull-arq.md",
+      "status": "promoted",
+      "cites": [
+        "ce5f329e8",
+        "c5ebfb6d8"
+      ],
+      "created_at": "2026-06-30T18:46:05.808290+00:00",
+      "promoted_path": ".research/docs/findings/d98b5abab-bull-arq.md",
+      "promoted_at": "2026-06-30T18:48:35.897511+00:00"
+    },
+    {
+      "id": "d228fe3f9",
+      "topic": "task-queues",
+      "title": "Job-queue libraries across backends: Machinery and JobRunr",
+      "path": ".research/docs/findings/_drafts/d228fe3f9-job-queue-libraries.md",
+      "status": "promoted",
+      "cites": [
+        "ccb48ac57",
+        "cc53ad95f"
+      ],
+      "created_at": "2026-06-30T18:46:38.865073+00:00",
+      "promoted_path": ".research/docs/findings/d228fe3f9-job-queue-libraries.md",
+      "promoted_at": "2026-06-30T18:48:46.571770+00:00"
     }
   ],
   "goal": {

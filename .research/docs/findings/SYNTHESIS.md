@@ -57,3 +57,7 @@
 - [ML and data-pipeline orchestrators: Kubeflow Pipelines, Luigi, Mage, and Metaflow](d90bfcee4-ml-pipeline-orchestrators.md) — workflow-orchestration
 - [Apache Airflow DAG authoring best practices](d648a190a-airflow-best-practices.md) — workflow-orchestration
 - [Workflow-automation platforms: Kestra, n8n, Windmill, and Node-RED](d8432d7e0-workflow-automation-platforms.md) — workflow-orchestration
+- [Celery monitoring and management](d93d3272e-celery-monitoring.md) — task-queues
+- [Redis-backed job queues: Bull and arq](d98b5abab-bull-arq.md) — task-queues
+- [Job-queue libraries across backends: Machinery and JobRunr](d228fe3f9-job-queue-libraries.md) — task-queues
+- [Spring Batch domain model: Job, JobInstance, JobExecution, Step](df87cdc82-spring-batch-domain.md) — task-queues
