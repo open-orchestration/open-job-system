@@ -4158,10 +4158,10 @@
     }
   ],
   "graph": {
-    "dirty": true,
+    "dirty": false,
     "last_update": "2026-06-29T00:00:00+00:00",
-    "node_count": 1023,
-    "edge_count": 1165
+    "node_count": 858,
+    "edge_count": 979
   },
   "assertions": {
     "count": 0,
