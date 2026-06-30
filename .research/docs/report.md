@@ -4,10 +4,13 @@
 > (`.research-old/` → `.research/`). The work began from the comparison question
 > *"Compare BullMQ, Sidekiq, Celery, Temporal, and River on reliability, throughput, and
 > operational complexity"* and expanded into a full survey as the catalog topics were
-> re-researched through the Open Research System pipeline. The seed comparison is now fully
+> re-researched through the Open Research System pipeline. The seed comparison is fully
 > scored — see `comparison-report.md` (5 entities × 3 dimensions, all cells sourced).
-> **29 findings promoted** (each passed citation, faithfulness, and independent-reviewer
-> gates); certainty is **moderate** except where noted.
+> **61 findings promoted** (each passed citation, faithfulness, and independent-reviewer
+> gates); certainty is **moderate** except where noted. The most recent runs deepened the
+> ecosystem coverage — AWS managed primitives, the broker spectrum, vendor-neutral specs, the
+> durable-execution engine field, and workflow-automation platforms — alongside the
+> entity-level Temporal/Celery enrichments folded into the comparison.
 
 ## Cross-cutting synthesis
 
@@ -18,14 +21,16 @@ Five threads recur across the findings and define the target architecture:
    architecture justifies one model with swappable adapters — testable locally via emulators
    and Testcontainers.
 2. **Durable execution is the strongest core model** — persist-and-resume subsumes the
-   retry/timeout/state-recovery that queues bolt on.
+   retry/timeout/state-recovery that queues bolt on; the engine field around Temporal is now
+   surveyed (Cadence, Conductor, Resonate, Trigger.dev, Vercel Workflow).
 3. **At-least-once is the default delivery contract → idempotent consumers are mandatory.**
    Every managed scheduler and most brokers are at-least-once; exactly-once is a per-primitive
    opt-in (SQS FIFO, Step Functions Standard).
 4. **The transport splits queue vs log/stream**, and the compute substrate splits cloud-native
    (K8s) vs HPC vs language-native.
-5. **Observability is first-class**: OpenTelemetry → Prometheus → Grafana, plus engine-native
-   operator UIs; verified with chaos engineering.
+5. **Observability is first-class**: OpenTelemetry → Prometheus → Grafana (now with explicit
+   messaging semantic conventions), plus engine-native operator UIs; verified with chaos
+   engineering.
 
 ## Findings by topic
 
@@ -40,6 +45,12 @@ The five-way matrix is complete in `comparison-report.md`. Its backing findings:
   Node.js v24, vendor/synthetic and scope-bounded. → [d71fe93d4](findings/d71fe93d4-throughput-bullmq.md)
 - **Operational complexity** (all five) — moving-parts gradient from River (Postgres only)
   to Temporal (cluster + DB + visibility store + UI). → [dd3344178](findings/dd3344178-operational-complexity.md)
+- **Celery monitoring & management** — Flower as recommended web monitor, `inspect`/`control`
+  CLI, broker/backend introspection; enriches Celery's operational cell.
+  → [d93d3272e](findings/d93d3272e-celery-monitoring.md)
+- **Bull & arq** — Bull is BullMQ's Redis-backed predecessor; pessimistic re-attempt of
+  unfinished jobs, caller-owned `jobId` uniqueness — lineage context for BullMQ.
+  → [d98b5abab](findings/d98b5abab-bull-arq.md)
 
 ### Foundations
 - **Reliability & delivery guarantees** (BullMQ, Sidekiq, Celery) — broker sets the
@@ -62,14 +73,42 @@ The five-way matrix is complete in `comparison-report.md`. Its backing findings:
   the store choice is the differentiator. → [daf5dbe8a](findings/daf5dbe8a-task-queue-architecture.md)
 - **Task queue engines in depth** — per-engine configuration, retries, scheduling, design.
   → [d77e4ce35](findings/d77e4ce35-task-queues-deepening.md)
+- **Redis-backed job queues: Bull and arq** — two Redis libraries, different runtimes;
+  pessimistic vs re-instantiation re-attempt, opt-in uniqueness, retry caps.
+  → [d98b5abab](findings/d98b5abab-bull-arq.md)
+- **Job-queue libraries across backends: Machinery and JobRunr** — Go (broker-pluggable) and
+  Java (RDBMS-backed) takes on the same client→store→worker shape.
+  → [d228fe3f9](findings/d228fe3f9-job-queue-libraries.md)
+- **Spring Batch domain model** — Job / JobInstance / JobExecution / Step; the enterprise
+  batch lineage distinct from the loose-job queue. → [df87cdc82](findings/df87cdc82-spring-batch-domain.md)
 - **Workflow orchestration engines** — authoring model (Python vs K8s-YAML) × unit of
   abstraction (task/asset/typed-task/flow). → [d86b66b28](findings/d86b66b28-workflow-orchestration-engines.md)
 - **Airflow's execution model** — DAGs, scheduler, executor, DAG runs; interval-driven
   scheduling marks it an orchestrator, not a job queue. → [d478f3ee5](findings/d478f3ee5-workflow-orchestration-airflow-execution-model.md)
+- **Airflow DAG authoring best practices** — idempotent tasks, atomicity, top-level-code
+  hygiene; the operational complement to the execution model.
+  → [d648a190a](findings/d648a190a-airflow-best-practices.md)
+- **ML & data-pipeline orchestrators** — Kubeflow Pipelines, Luigi, Mage, Metaflow; the
+  data/ML wing of the orchestration field. → [d90bfcee4](findings/d90bfcee4-ml-pipeline-orchestrators.md)
+- **Workflow-automation platforms** — Kestra, n8n, Windmill, Node-RED; low-code/event-driven
+  automation adjacent to code-first orchestration. → [d8432d7e0](findings/d8432d7e0-workflow-automation-platforms.md)
+
+### Durable execution
 - **Durable execution** — persist each step, resume after crash; runtime vs library vs managed
   shapes. → [dd681af26](findings/dd681af26-durable-execution-model.md)
+- **Temporal architecture** — a Temporal Service (Server + persistence + visibility store),
+  Workers running your code, and language SDKs; the Service choreographs via task queues.
+  → [d5c5a0bde](findings/d5c5a0bde-temporal-architecture.md)
 - **Temporal's durable-execution failure model** — timeout taxonomy, activity retries, and
   why deterministic replay forces workflow versioning. → [da1a9a445](findings/da1a9a445-durable-execution-temporal-failure-model.md)
+- **Temporal programming model** — child workflows (parent-close policy) and message passing
+  (Signals / Queries / Updates) and their interaction with Event History.
+  → [d8e9f8182](findings/d8e9f8182-temporal-programming-model.md)
+- **Temporal production hardening** — mTLS (internode/frontend), authentication/authorization,
+  payload Codecs + Codec Server, and the Go SDK test framework (time-skipping, replay).
+  → [d7114325c](findings/d7114325c-temporal-production-hardening.md)
+- **Durable-execution engine landscape** — Cadence, Conductor, Resonate, Trigger.dev, Vercel
+  Workflow; the field around Temporal. → [d7bb29b7f](findings/d7bb29b7f-de-engine-landscape.md)
 
 ### Transport & compute
 - **Message brokers** — queue (consume-and-delete) vs log/stream (retain-and-replay); a
@@ -77,20 +116,51 @@ The five-way matrix is complete in `comparison-report.md`. Its backing findings:
 - **RabbitMQ delivery guarantees** — publisher confirms + consumer acks, durable/quorum
   queues, DLX; what the broker layer under Celery/Sidekiq/BullMQ must provide.
   → [d6a62b548](findings/d6a62b548-brokers-rabbitmq-delivery-guarantees.md)
+- **RabbitMQ consumers** — acknowledgements, prefetch (QoS), and the consumer timeout; the
+  consumer-side mechanics of at-least-once. → [df270589c](findings/df270589c-rabbitmq-consumers.md)
+- **NATS JetStream** — streams and consumers; the log/stream paradigm with at-least-once and
+  dedup windows. → [dcf467312](findings/dcf467312-nats-jetstream.md)
+- **ActiveMQ Artemis core model** — addresses, queues, routing types, and journal persistence;
+  the JMS-lineage broker. → [d85d89ef8](findings/d85d89ef8-artemis-core-model.md)
+- **Redis messaging: Pub/Sub vs Streams** — fire-and-forget vs persisted consumer groups; the
+  store under Sidekiq/BullMQ in two modes. → [d6f918ca0](findings/d6f918ca0-redis-pubsub-vs-streams.md)
+- **ZeroMQ brokerless messaging** — library-as-socket patterns (REQ/REP, PUB/SUB, PUSH/PULL)
+  with no broker; the far end of the spectrum. → [d78b56460](findings/d78b56460-zeromq-patterns.md)
 - **Compute substrate** — K8s Job/CronJob + Kueue/KEDA, the HPC lineage (Slurm), and
   language-native (Dask). → [d63f65f39](findings/d63f65f39-compute-substrate-batch.md)
+- **KEDA event-driven autoscaling** — ScaledObject (scale a Deployment to/from zero) vs
+  ScaledJob (one Job per queued item); the autoscaling glue for the substrate.
+  → [d1f3c9011](findings/d1f3c9011-keda-scaledobject-vs-scaledjob.md)
 - **Data pipeline stack** — capture (Debezium) → process (Flink/Beam) → transform (dbt);
   adjacent to, not the same as, the job system. → [d8ebac5c4](findings/d8ebac5c4-data-pipeline-stack.md)
 
 ### Cloud providers (the three-cloud parallel)
 - **AWS managed primitives** — Step Functions / SQS / Lambda / SNS / EventBridge Scheduler;
   guarantees vary per primitive. → [d4e4f56ce](findings/d4e4f56ce-aws-managed-primitives.md)
+- **AWS orchestration & integration landscape** — the wider managed-service map around Step
+  Functions and EventBridge. → [d44366119](findings/d44366119-aws-orchestration-landscape.md)
+- **Step Functions: Standard vs Express** — exactly-once durable (Standard) vs high-volume
+  at-least-once (Express) workflow types. → [d14148357](findings/d14148357-sfn-standard-vs-express.md)
+- **Step Functions error handling & task token** — Retry/Catch and the `.waitForTaskToken`
+  callback pattern for human/async steps. → [d3283ce2b](findings/d3283ce2b-sfn-error-handling-task-token.md)
+- **Step Functions Map state** — Inline vs Distributed mode for fan-out parallelism.
+  → [d2855df07](findings/d2855df07-sfn-map-state.md)
+- **SQS delivery semantics** — visibility timeout, DLQ, and FIFO deduplication; the
+  at-least-once vs exactly-once knobs. → [d4c639ef8](findings/d4c639ef8-sqs-delivery-semantics.md)
+- **SQS architecture & choosing SQS vs SNS vs Amazon MQ** — when each transport fits.
+  → [d8e19f3eb](findings/d8e19f3eb-sqs-architecture.md)
+- **Lambda asynchronous invocation** — the internal queue, retries, and DLQ for async event
+  sources. → [d8cbd8bbc](findings/d8cbd8bbc-lambda-async-invoke.md)
+- **Lambda provisioned concurrency** — pre-warmed execution environments to bound cold-start
+  latency. → [d297f224c](findings/d297f224c-lambda-provisioned-concurrency.md)
+- **AWS messaging security & large payloads** — SQS encryption, the S3 extended client, SNS
+  data protection. → [de418bb60](findings/de418bb60-aws-messaging-security.md)
 - **Azure managed primitives** — Durable Functions / Service Bus / Queue Storage / Container
   Apps jobs / Event Grid / Batch; mirrors AWS. → [d2067494d](findings/d2067494d-azure-managed-primitives.md)
 - **GCP & Firebase managed primitives** — Cloud Tasks / Pub/Sub / Cloud Scheduler / Workflows
   / Dataflow; completes the parallel. → [dc998e846](findings/dc998e846-gcp-firebase-managed-primitives.md)
 
-### Operations
+### Operations & security
 - **CI/CD as job-graph executors** — pipelines are the scheduler→executor→worker pattern for
   build/test/deploy. → [d2669ec87](findings/d2669ec87-cicd-job-graph-executors.md)
 - **Scheduling** — systemd timers' design lessons: timer/unit decoupling, monotonic vs
@@ -98,24 +168,42 @@ The five-way matrix is complete in `comparison-report.md`. Its backing findings:
   → [d2314b94b](findings/d2314b94b-systemd-timers-scheduling.md)
 - **Observability stack** — OpenTelemetry → Prometheus → Grafana, with engine UIs.
   → [d629d7d60](findings/d629d7d60-observability-monitoring-stack.md)
+- **OpenTelemetry messaging semantic conventions** — span and metric conventions for producers,
+  consumers, and processing; the standard the observability stack speaks.
+  → [d88e13383](findings/d88e13383-otel-messaging-semconv.md)
 - **Operator UIs** — engine-native dashboards vs general observability dashboards.
   → [d8c5f2828](findings/d8c5f2828-operator-uis.md)
 - **Operator UIs in depth** — engine dashboards, cloud consoles, container monitoring.
   → [d0c6ef52a](findings/d0c6ef52a-ui-monitoring-deepening.md)
+- **Authorization models: AWS IAM vs Kubernetes RBAC** — action/resource/condition keys vs
+  verb/resource role bindings; the AuthZ shapes a multi-substrate job system must bridge.
+  → [d1e67736c](findings/d1e67736c-iam-vs-k8s-rbac.md)
 
 ### Interop & dev
 - **Vendor-neutral specs** — CloudEvents (envelope), OpenAPI (control plane), Serverless
   Workflow (DSL) as the portability layer. → [d6904c58a](findings/d6904c58a-specs-portability-layer.md)
+- **CloudEvents** — the event envelope, JSON format, and protocol bindings (HTTP/Kafka/etc.).
+  → [d0c322808](findings/d0c322808-cloudevents.md)
+- **Serverless Workflow DSL** — the workflow and task model for a portable orchestration spec.
+  → [da74acefa](findings/da74acefa-serverless-workflow-dsl.md)
+- **JSON Schema** — validation keywords and schema structuring; the payload-contract layer.
+  → [d3395da47](findings/d3395da47-json-schema.md)
+- **API & process description standards: OpenAPI and BPMN** — control-plane and
+  business-process description standards. → [d2810d898](findings/d2810d898-api-process-standards.md)
 - **Local parity** — cloud emulators (LocalStack/Azurite/Firebase) + Testcontainers for the
   OSS substrate. → [dd8f96260](findings/dd8f96260-local-dev-parity.md)
 
 ## Honest limits
 
 - The original five-way comparison (BullMQ/Sidekiq/Celery/Temporal/River on reliability,
-  throughput & operational complexity) is **now fully scored** in `comparison-report.md` — all
+  throughput & operational complexity) is **fully scored** in `comparison-report.md` — all
   three dimensions are sourced for all five entities. The one residual caveat is that BullMQ's
   only hard throughput number is the maintainer's own synthetic benchmark (vendor, not a
   neutral third-party measurement); every cell's provenance is disclosed in that report.
+- The newest findings expand **ecosystem breadth** (AWS primitives, brokers, specs, the
+  durable-execution engine field, workflow-automation platforms) rather than the five-entity
+  comparison. They are LANDSCAPE/BACKGROUND depth and are surveyed here, not forced into the
+  comparison matrix; only the Temporal and Celery enrichments are entity-level data.
 - Every topic finding is a **scoped survey** drawn from a representative subset of its sources
   (often 4–6 of 20–40), with un-synthesized sources listed per finding's gaps.
 - Findings rest largely on **official/primary docs** (good provenance) but are mostly

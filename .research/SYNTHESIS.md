@@ -6,13 +6,19 @@ and independent-reviewer gates. Claims the catalog gestures at but that no promo
 finding yet backs are quarantined under [Not yet grounded](#not-yet-grounded) rather
 than stated as fact.
 
-Grounding status: **29 promoted findings** across 20 topics. The seed comparison
+Grounding status: **61 promoted findings**. The seed comparison
 (BullMQ, Sidekiq, Celery, Temporal, River × reliability, throughput, operational
 complexity) is **fully scored** — all three dimensions are sourced for all five entities
-in [`comparison-report.md`](docs/comparison-report.md). The survey then extends across
-brokers, durable execution, workflow orchestration, the three clouds, compute substrate,
-specs, observability, and patterns. Certainty is **moderate** except where a finding
-notes otherwise (the BullMQ/Sidekiq/Celery reliability finding is **low**).
+in [`comparison-report.md`](docs/comparison-report.md). The most recent runs deepened the
+ecosystem coverage: AWS managed primitives (Step Functions Standard/Express, SQS semantics,
+Lambda async/provisioned concurrency), the broker spectrum (RabbitMQ consumers, NATS
+JetStream, Artemis, Redis Pub/Sub vs Streams, ZeroMQ), vendor-neutral specs (CloudEvents,
+Serverless Workflow DSL, JSON Schema, OpenAPI/BPMN), the durable-execution engine field
+(Cadence, Conductor, Resonate, Trigger.dev, Vercel Workflow), and workflow-automation
+platforms (Kestra, n8n, Windmill, Node-RED). The survey thus extends across brokers, durable
+execution, workflow orchestration, the three clouds, compute substrate, specs, observability,
+and patterns. Certainty is **moderate** except where a finding notes otherwise (the
+BullMQ/Sidekiq/Celery reliability finding is **low**).
 
 ## What the evidence supports
 
@@ -41,9 +47,20 @@ Temporal's failure handling is concrete: a four-timeout activity taxonomy
 versioning tax that deterministic replay forces on long-running workflows — a cost queue
 libraries never pay
 ([Temporal failure model](docs/findings/da1a9a445-durable-execution-temporal-failure-model.md)).
+Structurally, a Temporal Service is a Temporal Server plus a persistence store and a
+visibility store, with Workers running user code via language SDKs and the Service
+choreographing through task queues
+([Temporal architecture](docs/findings/d5c5a0bde-temporal-architecture.md)); running
+workflows accept input through Signals (async write), Queries (read-only, no Event-History
+entry), and Updates (synchronous, history-recording write), so what each message does to
+durable state is explicit
+([Temporal programming model](docs/findings/d8e9f8182-temporal-programming-model.md)).
 Durable execution as a model — persist each step, resume after crash — subsumes the
 retry/timeout/state-recovery that queues bolt on
-([Durable execution model](docs/findings/dd681af26-durable-execution-model.md)).
+([Durable execution model](docs/findings/dd681af26-durable-execution-model.md)), and a
+broader engine field now sits around Temporal (Cadence, Conductor, Resonate, Trigger.dev,
+Vercel Workflow)
+([Durable-execution engine landscape](docs/findings/d7bb29b7f-de-engine-landscape.md)).
 
 ### Throughput is architecture, not a headline number
 No engine publishes a trustworthy unconditioned jobs/sec figure; throughput is a
@@ -59,7 +76,15 @@ order-of-magnitude and not a neutral production ceiling
 A clear gradient: River (Postgres only) → Sidekiq/BullMQ (one Redis + a dashboard) →
 Celery (broker + optional result backend + Flower) → Temporal (a cluster of server
 processes + persistence DB + visibility store + UI server)
-([Operational complexity](docs/findings/dd3344178-operational-complexity.md)).
+([Operational complexity](docs/findings/dd3344178-operational-complexity.md)). Celery's
+management surface is concrete: Flower is the recommended real-time web monitor (remote
+control, HTTP API, OpenID), backed by the `inspect`/`control` CLI and broker/backend
+introspection
+([Celery monitoring & management](docs/findings/d93d3272e-celery-monitoring.md)). At the
+heavy end, taking Temporal to production adds still more surface — mTLS with separate
+internode/frontend certificates, an authorizer/claim-mapper, and a Codec Server when payloads
+are encrypted at rest
+([Temporal production hardening](docs/findings/d7114325c-temporal-production-hardening.md)).
 
 ### Workflow orchestration is a distinct category from job queues
 Orchestrators schedule DAGs on interval-driven timetables rather than dispatching loose
@@ -79,9 +104,18 @@ Saga, Write-Ahead Log, Raft — not inventions
 ([Canonical patterns](docs/findings/d5797c35a-canonical-patterns.md),
 [Core patterns](docs/findings/da9c1d5da-core-patterns.md)). At-least-once is the default
 delivery contract, so idempotent consumers are mandatory; exactly-once is a per-primitive
-opt-in with real costs.
+opt-in with real costs — made concrete in the newer ecosystem findings: Step Functions
+Standard vs Express trades exactly-once durability for high-volume at-least-once, and SQS's
+visibility timeout, DLQ, and FIFO deduplication are the same dial in another vendor's hands
+([Step Functions Standard vs Express](docs/findings/d14148357-sfn-standard-vs-express.md),
+[SQS delivery semantics](docs/findings/d4c639ef8-sqs-delivery-semantics.md)). The recent runs
+also grounded the portability layer (CloudEvents, Serverless Workflow DSL, JSON Schema) and
+the observability standard the stack speaks (OpenTelemetry messaging semantic conventions)
+([CloudEvents](docs/findings/d0c322808-cloudevents.md),
+[OTel messaging semconv](docs/findings/d88e13383-otel-messaging-semconv.md)) — these are
+LANDSCAPE/BACKGROUND breadth, surveyed in `report.md`, not entity-level comparison data.
 
-The full topic-by-topic index of all 29 promoted findings is the narrative
+The full topic-by-topic index of all 61 promoted findings is the narrative
 [`report.md`](docs/report.md) and the auto-generated
 [findings index](docs/findings/SYNTHESIS.md).
 
