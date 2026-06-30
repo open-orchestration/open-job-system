@@ -67,3 +67,5 @@
 - [CI/CD Configuration-as-Code: Pipeline Definition Syntax](da5f99648-cicd-config-syntax.md) — cicd
 - [Azure Workflow and Data-Integration Services: Logic Apps and Data Factory](d8e7a3202-azure-logic-apps-data-factory.md) — cloud-azure
 - [Azure Durable Functions: Durable Execution Model](d86b346a1-azure-durable-functions.md) — cloud-azure
+- [Google Cloud Tasks: Managed Queue Model](dc60a9ff4-google-cloud-tasks.md) — cloud-gcp-firebase
+- [GCP and Firebase Job and Serverless Execution Services: Cloud Run Jobs, Composer, Cloud Functions, and Extensions](d3ec778f9-gcp-firebase-services.md) — cloud-gcp-firebase

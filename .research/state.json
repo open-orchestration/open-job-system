@@ -4,7 +4,7 @@
     "sources_per_cycle": 50,
     "max_subagents": 8,
     "max_workers": 4,
-    "phase": "gather",
+    "phase": "deepen",
     "weights": {
       "gather": {
         "search": 0.7,
@@ -24,12 +24,12 @@
     },
     "spent": {
       "tokens": 0,
-      "sources": 40,
+      "sources": 43,
       "cycle_started_at": null
     },
     "run": {
       "token_ceiling": 3000000,
-      "tokens_spent": 77788,
+      "tokens_spent": 233858,
       "started_at": "2026-06-29T15:46:30.922665+00:00"
     },
     "dimension_alpha": {
@@ -99,8 +99,8 @@
       "topic": "throughput",
       "desc": "BullMQ throughput jobs per second benchmark concurrency Redis",
       "origin": "process",
-      "status": "queued",
-      "attempts": 2
+      "status": "failed",
+      "attempts": 3
     },
     {
       "id": "g442097a8",
@@ -179,8 +179,32 @@
       "topic": "throughput",
       "desc": "BullMQ benchmark messages per second performance Bull Redis queue",
       "origin": "process",
+      "status": "failed",
+      "attempts": 3
+    },
+    {
+      "id": "g6f609b02",
+      "topic": "cloud-gcp-firebase",
+      "desc": "Cloud Tasks max_burst_size derivation formula from max_dispatches_per_second",
+      "origin": "process",
+      "status": "done",
+      "attempts": 0
+    },
+    {
+      "id": "gf8aa99c5",
+      "topic": "cloud-gcp-firebase",
+      "desc": "Cloud Tasks concrete maximum task retention numeric limit",
+      "origin": "process",
+      "status": "done",
+      "attempts": 0
+    },
+    {
+      "id": "g217d0295",
+      "topic": "cloud-gcp-firebase",
+      "desc": "Comparative concurrency/pricing/runtime limits across Cloud Run jobs, Composer, Cloud Functions, Extensions",
+      "origin": "process",
       "status": "queued",
-      "attempts": 1
+      "attempts": 0
     }
   ],
   "inbox": [],
@@ -4155,10 +4179,43 @@
       "extracted_path": ".research/docs/21-throughput/sources/c6dd75a7d-bullmq-throughput-jobs-per-second-maintainer-benchmark-nodejs.md",
       "lossy": false,
       "ingested_at": "2026-06-29T21:21:26.656245+00:00"
+    },
+    {
+      "id": "c7be2fd23",
+      "title": "g6f609b02-cloud-tasks-max-burst-size-derivation-formula-from-max-dispatches-per-second-5",
+      "source": "file://g6f609b02-cloud-tasks-max-burst-size-derivation-formula-from-max-dispatches-per-second-5.md",
+      "topic": "cloud-gcp-firebase",
+      "lifecycle": "active",
+      "native_path": "ingest/.work/cloud-gcp-firebase/_done/g6f609b02-cloud-tasks-max-burst-size-derivation-formula-from-max-dispatches-per-second-5.md",
+      "extracted_path": ".research/docs/08-cloud-gcp-firebase/sources/c7be2fd23-g6f609b02-cloud-tasks-max-burst-size-derivation-formula-from-max-dispatches-per-second-5.md",
+      "lossy": false,
+      "ingested_at": "2026-06-30T20:52:36.630326+00:00"
+    },
+    {
+      "id": "c8a5cbf60",
+      "title": "gf8aa99c5-cloud-tasks-concrete-maximum-task-retention-numeric-limit-1",
+      "source": "file://gf8aa99c5-cloud-tasks-concrete-maximum-task-retention-numeric-limit-1.md",
+      "topic": "cloud-gcp-firebase",
+      "lifecycle": "active",
+      "native_path": "ingest/.work/cloud-gcp-firebase/_done/gf8aa99c5-cloud-tasks-concrete-maximum-task-retention-numeric-limit-1.md",
+      "extracted_path": ".research/docs/08-cloud-gcp-firebase/sources/c8a5cbf60-gf8aa99c5-cloud-tasks-concrete-maximum-task-retention-numeric-limit-1.md",
+      "lossy": false,
+      "ingested_at": "2026-06-30T20:52:36.777617+00:00"
+    },
+    {
+      "id": "c4144b6cf",
+      "title": "gf8aa99c5-cloud-tasks-concrete-maximum-task-retention-numeric-limit-2",
+      "source": "file://gf8aa99c5-cloud-tasks-concrete-maximum-task-retention-numeric-limit-2.md",
+      "topic": "cloud-gcp-firebase",
+      "lifecycle": "active",
+      "native_path": "ingest/.work/cloud-gcp-firebase/_done/gf8aa99c5-cloud-tasks-concrete-maximum-task-retention-numeric-limit-2.md",
+      "extracted_path": ".research/docs/08-cloud-gcp-firebase/sources/c4144b6cf-gf8aa99c5-cloud-tasks-concrete-maximum-task-retention-numeric-limit-2.md",
+      "lossy": false,
+      "ingested_at": "2026-06-30T20:52:36.921495+00:00"
     }
   ],
   "graph": {
-    "dirty": false,
+    "dirty": true,
     "last_update": "2026-06-29T00:00:00+00:00",
     "node_count": 858,
     "edge_count": 979
@@ -5323,6 +5380,38 @@
       "created_at": "2026-06-30T20:31:48.687795+00:00",
       "promoted_path": ".research/docs/findings/d86b346a1-azure-durable-functions.md",
       "promoted_at": "2026-06-30T20:35:05.365069+00:00"
+    },
+    {
+      "id": "dc60a9ff4",
+      "topic": "cloud-gcp-firebase",
+      "title": "Google Cloud Tasks: Managed Queue Model",
+      "path": ".research/docs/findings/_drafts/dc60a9ff4-google-cloud-tasks.md",
+      "status": "promoted",
+      "cites": [
+        "ca057179c",
+        "c8bbf2e4d",
+        "c15acad57",
+        "c37dae40d"
+      ],
+      "created_at": "2026-06-30T20:48:23.129807+00:00",
+      "promoted_path": ".research/docs/findings/dc60a9ff4-google-cloud-tasks.md",
+      "promoted_at": "2026-06-30T20:51:10.891370+00:00"
+    },
+    {
+      "id": "d3ec778f9",
+      "topic": "cloud-gcp-firebase",
+      "title": "GCP and Firebase Job and Serverless Execution Services: Cloud Run Jobs, Composer, Cloud Functions, and Extensions",
+      "path": ".research/docs/findings/_drafts/d3ec778f9-gcp-firebase-services.md",
+      "status": "promoted",
+      "cites": [
+        "c45b51242",
+        "cd1a4f815",
+        "c32a79a8f",
+        "c812a53be"
+      ],
+      "created_at": "2026-06-30T20:55:08.978852+00:00",
+      "promoted_path": ".research/docs/findings/d3ec778f9-gcp-firebase-services.md",
+      "promoted_at": "2026-06-30T20:57:46.958075+00:00"
     }
   ],
   "goal": {
