@@ -4,12 +4,12 @@
     "sources_per_cycle": 50,
     "max_subagents": 8,
     "max_workers": 4,
-    "phase": "deepen",
+    "phase": "gather",
     "weights": {
       "gather": {
         "search": 0.7,
         "ingest": 0.3,
-        "process": 0.0
+        "process": 0
       },
       "deepen": {
         "search": 0.4,
@@ -211,23 +211,12 @@
       "topic": "gap-fill",
       "desc": "DLQ redrive mechanism: moving messages from a dead-letter queue back to the source queue after fault resolution (c9a0d88a5 was mislabeled AWS intro page)",
       "origin": "process",
-      "status": "queued",
+      "status": "failed",
       "attempts": 0
     }
   ],
   "inbox": [],
   "corpus": [
-    {
-      "id": "c6030ea42",
-      "title": "g15f5eada-temporal-reliability-2",
-      "source": "file://g15f5eada-temporal-reliability-2.md",
-      "topic": "reliability",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/reliability/_done/g15f5eada-temporal-reliability-2.md",
-      "extracted_path": ".research/docs/01-reliability/sources/c6030ea42-g15f5eada-temporal-reliability-2.md",
-      "lossy": false,
-      "ingested_at": "2026-06-29T15:48:11.276923+00:00"
-    },
     {
       "id": "c7b4003f6",
       "title": "g3edaad3d-sidekiq-reliability-3",
@@ -1241,17 +1230,6 @@
       "ingested_at": "2026-06-29T16:18:00.482795+00:00"
     },
     {
-      "id": "c62b2d0a8",
-      "title": "design",
-      "source": "file://design.md",
-      "topic": "brokers",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/brokers/_done/design.md",
-      "extracted_path": ".research/docs/09-brokers/sources/c62b2d0a8-design.md",
-      "lossy": false,
-      "ingested_at": "2026-06-29T16:18:00.632234+00:00"
-    },
-    {
       "id": "ce2406bb0",
       "title": "dlx",
       "source": "file://dlx.md",
@@ -1769,28 +1747,6 @@
       "ingested_at": "2026-06-29T16:18:08.516707+00:00"
     },
     {
-      "id": "c2db8de1a",
-      "title": "_SYNTHESIS",
-      "source": "file://_SYNTHESIS.md",
-      "topic": "ui-monitoring",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/ui-monitoring/_done/_SYNTHESIS.md",
-      "extracted_path": ".research/docs/17-ui-monitoring/sources/c2db8de1a-synthesis.md",
-      "lossy": false,
-      "ingested_at": "2026-06-29T16:18:08.809881+00:00"
-    },
-    {
-      "id": "ce7df5cce",
-      "title": "cloud-ui",
-      "source": "file://cloud-ui.md",
-      "topic": "ui-monitoring",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/ui-monitoring/_done/cloud-ui.md",
-      "extracted_path": ".research/docs/17-ui-monitoring/sources/ce7df5cce-cloud-ui.md",
-      "lossy": false,
-      "ingested_at": "2026-06-29T16:18:08.958003+00:00"
-    },
-    {
       "id": "c1e484888",
       "title": "container-logs",
       "source": "file://container-logs.md",
@@ -1844,17 +1800,6 @@
       "extracted_path": ".research/docs/17-ui-monitoring/sources/cc5e4a0a5-execution-details.md",
       "lossy": false,
       "ingested_at": "2026-06-29T16:18:09.707389+00:00"
-    },
-    {
-      "id": "c540804ee",
-      "title": "execution-history",
-      "source": "file://execution-history.md",
-      "topic": "ui-monitoring",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/ui-monitoring/_done/execution-history.md",
-      "extracted_path": ".research/docs/17-ui-monitoring/sources/c540804ee-execution-history.md",
-      "lossy": false,
-      "ingested_at": "2026-06-29T16:18:09.855531+00:00"
     },
     {
       "id": "c74eb273d",
@@ -1943,17 +1888,6 @@
       "extracted_path": ".research/docs/17-ui-monitoring/sources/ca5210dec-runs-dashboard.md",
       "lossy": false,
       "ingested_at": "2026-06-29T16:18:11.067720+00:00"
-    },
-    {
-      "id": "c48f43286",
-      "title": "screenshots",
-      "source": "file://screenshots.md",
-      "topic": "ui-monitoring",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/ui-monitoring/_done/screenshots.md",
-      "extracted_path": ".research/docs/17-ui-monitoring/sources/c48f43286-screenshots.md",
-      "lossy": false,
-      "ingested_at": "2026-06-29T16:18:11.212669+00:00"
     },
     {
       "id": "ccefae857",
@@ -2297,17 +2231,6 @@
       "ingested_at": "2026-06-29T16:18:16.178662+00:00"
     },
     {
-      "id": "c41ae3b26",
-      "title": "blog",
-      "source": "file://blog.md",
-      "topic": "gap-fill",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/gap-fill/_done/blog.md",
-      "extracted_path": ".research/docs/19-gap-fill/sources/c41ae3b26-blog.md",
-      "lossy": false,
-      "ingested_at": "2026-06-29T16:18:16.330536+00:00"
-    },
-    {
       "id": "c573f2c4a",
       "title": "cockburn",
       "source": "file://cockburn.md",
@@ -2339,17 +2262,6 @@
       "extracted_path": ".research/docs/19-gap-fill/sources/c3d1ba0f9-deployments.md",
       "lossy": false,
       "ingested_at": "2026-06-29T16:18:16.833272+00:00"
-    },
-    {
-      "id": "c9a0d88a5",
-      "title": "dlq-redrive",
-      "source": "file://dlq-redrive.md",
-      "topic": "gap-fill",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/gap-fill/_done/dlq-redrive.md",
-      "extracted_path": ".research/docs/19-gap-fill/sources/c9a0d88a5-dlq-redrive.md",
-      "lossy": false,
-      "ingested_at": "2026-06-29T16:18:16.982578+00:00"
     },
     {
       "id": "cdb0541dc",
@@ -2614,17 +2526,6 @@
       "extracted_path": ".research/docs/03-task-queues/sources/cc53ad95f-jobrunr-documentation.md",
       "lossy": false,
       "ingested_at": "2026-06-29T16:19:18.501047+00:00"
-    },
-    {
-      "id": "c2890f63d",
-      "title": "pg-boss_readme",
-      "source": "file://pg-boss_readme.md",
-      "topic": "task-queues",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/task-queues/_done/pg-boss_readme.md",
-      "extracted_path": ".research/docs/03-task-queues/sources/c2890f63d-pg-boss-readme.md",
-      "lossy": false,
-      "ingested_at": "2026-06-29T16:19:18.798918+00:00"
     },
     {
       "id": "c2d724def",
@@ -3496,17 +3397,6 @@
       "ingested_at": "2026-06-29T16:19:49.756684+00:00"
     },
     {
-      "id": "cc3200b67",
-      "title": "cloud-tasks-console_monitoring",
-      "source": "file://cloud-tasks-console_monitoring.md",
-      "topic": "ui-monitoring",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/ui-monitoring/_done/cloud-tasks-console_monitoring.md",
-      "extracted_path": ".research/docs/17-ui-monitoring/sources/cc3200b67-cloud-tasks-console-monitoring.md",
-      "lossy": false,
-      "ingested_at": "2026-06-29T16:19:50.054318+00:00"
-    },
-    {
       "id": "ccb08675c",
       "title": "cloudwatch_dashboards",
       "source": "file://cloudwatch_dashboards.md",
@@ -3659,17 +3549,6 @@
       "extracted_path": ".research/docs/20-patterns/sources/c2d3133e6-aws-builder-library-timeouts-retries-backoff.md",
       "lossy": false,
       "ingested_at": "2026-06-29T17:54:22.454534+00:00"
-    },
-    {
-      "id": "c399aec44",
-      "title": "aws-builder-library_workflow-state-machines",
-      "source": "file://aws-builder-library_workflow-state-machines.md",
-      "topic": "patterns",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/patterns/_done/aws-builder-library_workflow-state-machines.md",
-      "extracted_path": ".research/docs/20-patterns/sources/c399aec44-aws-builder-library-workflow-state-machines.md",
-      "lossy": false,
-      "ingested_at": "2026-06-29T17:54:22.604167+00:00"
     },
     {
       "id": "cb7874314",
@@ -4231,46 +4110,13 @@
       "extracted_path": ".research/docs/08-cloud-gcp-firebase/sources/c4db5a67c-g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-2.md",
       "lossy": false,
       "ingested_at": "2026-06-30T21:06:48.321629+00:00"
-    },
-    {
-      "id": "ccd6e6615",
-      "title": "g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-3",
-      "source": "file://g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-3.md",
-      "topic": "cloud-gcp-firebase",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/cloud-gcp-firebase/_done/g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-3.md",
-      "extracted_path": ".research/docs/08-cloud-gcp-firebase/sources/ccd6e6615-g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-3.md",
-      "lossy": false,
-      "ingested_at": "2026-06-30T21:06:48.467036+00:00"
-    },
-    {
-      "id": "c715a40e9",
-      "title": "g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-4",
-      "source": "file://g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-4.md",
-      "topic": "cloud-gcp-firebase",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/cloud-gcp-firebase/_done/g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-4.md",
-      "extracted_path": ".research/docs/08-cloud-gcp-firebase/sources/c715a40e9-g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-4.md",
-      "lossy": false,
-      "ingested_at": "2026-06-30T21:06:48.611598+00:00"
-    },
-    {
-      "id": "c6eb4ceed",
-      "title": "g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-5",
-      "source": "file://g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-5.md",
-      "topic": "cloud-gcp-firebase",
-      "lifecycle": "active",
-      "native_path": "ingest/.work/cloud-gcp-firebase/_done/g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-5.md",
-      "extracted_path": ".research/docs/08-cloud-gcp-firebase/sources/c6eb4ceed-g217d0295-comparative-concurrency-pricing-runtime-limits-across-cloud-run-jobs-composer-cloud-functions-extensions-5.md",
-      "lossy": false,
-      "ingested_at": "2026-06-30T21:06:48.761456+00:00"
     }
   ],
   "graph": {
-    "dirty": true,
+    "dirty": false,
     "last_update": "2026-06-29T00:00:00+00:00",
-    "node_count": 858,
-    "edge_count": 979
+    "node_count": 850,
+    "edge_count": 968
   },
   "assertions": {
     "count": 0,
@@ -5537,6 +5383,59 @@
       "created_at": "2026-06-30T21:30:39.523532+00:00",
       "promoted_path": ".research/docs/findings/d87204291-data-pipeline-scheduling.md",
       "promoted_at": "2026-06-30T21:32:36.084503+00:00"
+    },
+    {
+      "id": "d2154f673",
+      "topic": "reliability",
+      "title": "BullMQ Reliability: Comparison-Blog-Reported Characteristics",
+      "path": "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/_drafts/d2154f673-bullmq-reliability.md",
+      "status": "promoted",
+      "cites": [
+        "c427d1dd9"
+      ],
+      "created_at": "2026-06-30T21:52:31.283722+00:00",
+      "promoted_path": ".research/docs/findings/d2154f673-bullmq-reliability.md",
+      "promoted_at": "2026-06-30T21:54:17.314210+00:00"
+    },
+    {
+      "id": "d88f2cbe7",
+      "topic": "local-dev",
+      "title": "Docker Compose for Local Multi-Container Job Development",
+      "path": "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/_drafts/d88f2cbe7-docker-compose-local-dev.md",
+      "status": "promoted",
+      "cites": [
+        "cf07b08f2"
+      ],
+      "created_at": "2026-06-30T21:52:45.727597+00:00",
+      "promoted_path": ".research/docs/findings/d88f2cbe7-docker-compose-local-dev.md",
+      "promoted_at": "2026-06-30T21:54:54.692636+00:00"
+    },
+    {
+      "id": "def7bc43f",
+      "topic": "ui-monitoring",
+      "title": "AWS SQS and Step Functions: Service Overviews",
+      "path": "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/_drafts/def7bc43f-aws-sqs-stepfunctions-overview.md",
+      "status": "promoted",
+      "cites": [
+        "c653cda54",
+        "cc5e4a0a5"
+      ],
+      "created_at": "2026-06-30T21:53:04.696029+00:00",
+      "promoted_path": ".research/docs/findings/def7bc43f-aws-sqs-stepfunctions-overview.md",
+      "promoted_at": "2026-06-30T21:54:39.436510+00:00"
+    },
+    {
+      "id": "d2279003a",
+      "topic": "education",
+      "title": "Distributed-Systems Reliability Fundamentals",
+      "path": "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/_drafts/d2279003a-distributed-systems-reliability.md",
+      "status": "rejected",
+      "cites": [
+        "c7c7a0c1b"
+      ],
+      "created_at": "2026-06-30T21:53:04.776271+00:00",
+      "promoted_path": null,
+      "reject_reason": "ai-independent: canon-worthiness fail — index/catalog page, nine TOC one-liner blurbs glued to templated framing, no mechanism/tradeoff depth"
     }
   ],
   "goal": {

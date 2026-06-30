@@ -74,3 +74,6 @@
 - [Microservice and Distributed-System Patterns: Messaging, API Composition, and Avoiding Fallback](d3653056c-microservice-patterns.md) — patterns
 - [Celery and Sidekiq Throughput: Benchmark-Reported Figures](dc0381db4-celery-sidekiq-throughput.md) — throughput
 - [Data-Pipeline Job Scheduling: Apache Spark and Apache NiFi](d87204291-data-pipeline-scheduling.md) — data-pipeline
+- [BullMQ Reliability: Comparison-Blog-Reported Characteristics](d2154f673-bullmq-reliability.md) — reliability
+- [AWS SQS and Step Functions: Service Overviews](def7bc43f-aws-sqs-stepfunctions-overview.md) — ui-monitoring
+- [Docker Compose for Local Multi-Container Job Development](d88f2cbe7-docker-compose-local-dev.md) — local-dev
