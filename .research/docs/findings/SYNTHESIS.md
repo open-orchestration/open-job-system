@@ -72,3 +72,5 @@
 - [Distributed-System Patterns: Claim-Check and Strangler-Fig](d96d129bf-distributed-system-patterns.md) — gap-fill
 - [Cloud Tasks and Cloud Run: Operational Limits and Quotas](d40a062f5-cloud-tasks-run-limits.md) — cloud-gcp-firebase
 - [Microservice and Distributed-System Patterns: Messaging, API Composition, and Avoiding Fallback](d3653056c-microservice-patterns.md) — patterns
+- [Celery and Sidekiq Throughput: Benchmark-Reported Figures](dc0381db4-celery-sidekiq-throughput.md) — throughput
+- [Data-Pipeline Job Scheduling: Apache Spark and Apache NiFi](d87204291-data-pipeline-scheduling.md) — data-pipeline

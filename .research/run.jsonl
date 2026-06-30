@@ -742,3 +742,7 @@
 {"run_id": "rbeb18af0", "cycle": 5, "seq": 42, "ts": "2026-06-30T21:21:43.700116+00:00", "flow": "process", "step": "draft", "status": "ok", "data": {"draft_id": "d3653056c"}}
 {"run_id": "rbeb18af0", "cycle": 5, "seq": 43, "ts": "2026-06-30T21:25:00.330831+00:00", "flow": "process", "step": "review", "status": "ok", "data": {"draft_id": "d3653056c", "decision": "promote", "certainty": "moderate", "reviewer": "ai-independent"}}
 {"run_id": "rbeb18af0", "cycle": 5, "seq": 44, "ts": "2026-06-30T21:25:00.448483+00:00", "flow": "dimension", "step": "gate", "status": "ok", "data": {"accepted": 0, "rejected": 0}}
+{"run_id": "rbeb18af0", "cycle": 6, "seq": 45, "ts": "2026-06-30T21:30:04.049600+00:00", "flow": "process", "step": "cite_check", "status": "ok", "data": {}}
+{"run_id": "rbeb18af0", "cycle": 6, "seq": 46, "ts": "2026-06-30T21:30:39.482109+00:00", "flow": "process", "step": "cite_check", "status": "ok", "data": {}}
+{"run_id": "rbeb18af0", "cycle": 6, "seq": 47, "ts": "2026-06-30T21:31:27.614077+00:00", "flow": "process", "step": "review", "status": "ok", "data": {"draft_id": "dc0381db4", "decision": "promote", "certainty": "low", "reviewer": "ai-independent"}}
+{"run_id": "rbeb18af0", "cycle": 6, "seq": 48, "ts": "2026-06-30T21:32:36.124391+00:00", "flow": "process", "step": "review", "status": "ok", "data": {"draft_id": "d87204291", "decision": "promote", "certainty": "high", "reviewer": "ai-independent"}}

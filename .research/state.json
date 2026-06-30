@@ -5509,6 +5509,34 @@
       "created_at": "2026-06-30T21:21:43.661635+00:00",
       "promoted_path": ".research/docs/findings/d3653056c-microservice-patterns.md",
       "promoted_at": "2026-06-30T21:25:00.291780+00:00"
+    },
+    {
+      "id": "dc0381db4",
+      "topic": "throughput",
+      "title": "Celery and Sidekiq Throughput: Benchmark-Reported Figures",
+      "path": "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/_drafts/dc0381db4-celery-sidekiq-throughput.md",
+      "status": "promoted",
+      "cites": [
+        "caad21db4",
+        "ce0c329d8"
+      ],
+      "created_at": "2026-06-30T21:30:04.090859+00:00",
+      "promoted_path": ".research/docs/findings/dc0381db4-celery-sidekiq-throughput.md",
+      "promoted_at": "2026-06-30T21:31:27.573834+00:00"
+    },
+    {
+      "id": "d87204291",
+      "topic": "data-pipeline",
+      "title": "Data-Pipeline Job Scheduling: Apache Spark and Apache NiFi",
+      "path": "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/_drafts/d87204291-data-pipeline-scheduling.md",
+      "status": "promoted",
+      "cites": [
+        "cfb07f903",
+        "cfaca0434"
+      ],
+      "created_at": "2026-06-30T21:30:39.523532+00:00",
+      "promoted_path": ".research/docs/findings/d87204291-data-pipeline-scheduling.md",
+      "promoted_at": "2026-06-30T21:32:36.084503+00:00"
     }
   ],
   "goal": {
