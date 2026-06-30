@@ -42,3 +42,6 @@
 - [OpenTelemetry messaging semantic conventions: spans and metrics](d88e13383-otel-messaging-semconv.md) — gap-fill
 - [Authorization models: AWS IAM action/resource/condition keys vs Kubernetes RBAC](d1e67736c-iam-vs-k8s-rbac.md) — gap-fill
 - [Lambda provisioned concurrency](d297f224c-lambda-provisioned-concurrency.md) — gap-fill
+- [Temporal programming model: child workflows and message passing](d8e9f8182-temporal-programming-model.md) — durable-execution
+- [Temporal architecture: Cluster, Workers, and SDKs](d5c5a0bde-temporal-architecture.md) — durable-execution
+- [Durable-execution engine landscape: Cadence, Conductor, Resonate, Trigger.dev, Vercel Workflow](d7bb29b7f-de-engine-landscape.md) — durable-execution

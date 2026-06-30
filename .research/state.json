@@ -4952,6 +4952,52 @@
       "created_at": "2026-06-29T22:14:04.143811+00:00",
       "promoted_path": ".research/docs/findings/d297f224c-lambda-provisioned-concurrency.md",
       "promoted_at": "2026-06-29T22:17:16.441395+00:00"
+    },
+    {
+      "id": "d8e9f8182",
+      "topic": "durable-execution",
+      "title": "Temporal programming model: child workflows and message passing",
+      "path": ".research/docs/findings/_drafts/d8e9f8182-temporal-programming-model.md",
+      "status": "promoted",
+      "cites": [
+        "ce9306d1f",
+        "c3c7c6653"
+      ],
+      "created_at": "2026-06-30T00:42:18.249821+00:00",
+      "promoted_path": ".research/docs/findings/d8e9f8182-temporal-programming-model.md",
+      "promoted_at": "2026-06-30T00:43:37.172172+00:00"
+    },
+    {
+      "id": "d7bb29b7f",
+      "topic": "durable-execution",
+      "title": "Durable-execution engine landscape: Cadence, Conductor, Resonate, Trigger.dev, Vercel Workflow",
+      "path": ".research/docs/findings/_drafts/d7bb29b7f-de-engine-landscape.md",
+      "status": "promoted",
+      "cites": [
+        "c135ef9ee",
+        "c0e3bb531",
+        "cc4b57008",
+        "ca8f99140",
+        "cebbccd61"
+      ],
+      "created_at": "2026-06-30T00:42:25.766009+00:00",
+      "promoted_path": ".research/docs/findings/d7bb29b7f-de-engine-landscape.md",
+      "promoted_at": "2026-06-30T00:51:41.764118+00:00"
+    },
+    {
+      "id": "d5c5a0bde",
+      "topic": "durable-execution",
+      "title": "Temporal architecture: Cluster, Workers, and SDKs",
+      "path": ".research/docs/findings/_drafts/d5c5a0bde-temporal-architecture.md",
+      "status": "promoted",
+      "cites": [
+        "cdd95b319",
+        "ca75d348d",
+        "c71a7776f"
+      ],
+      "created_at": "2026-06-30T00:43:59.880400+00:00",
+      "promoted_path": ".research/docs/findings/d5c5a0bde-temporal-architecture.md",
+      "promoted_at": "2026-06-30T00:46:09.375826+00:00"
     }
   ],
   "goal": {
