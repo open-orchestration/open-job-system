@@ -70,3 +70,5 @@
 - [Google Cloud Tasks: Managed Queue Model](dc60a9ff4-google-cloud-tasks.md) — cloud-gcp-firebase
 - [GCP and Firebase Job and Serverless Execution Services: Cloud Run Jobs, Composer, Cloud Functions, and Extensions](d3ec778f9-gcp-firebase-services.md) — cloud-gcp-firebase
 - [Distributed-System Patterns: Claim-Check and Strangler-Fig](d96d129bf-distributed-system-patterns.md) — gap-fill
+- [Cloud Tasks and Cloud Run: Operational Limits and Quotas](d40a062f5-cloud-tasks-run-limits.md) — cloud-gcp-firebase
+- [Microservice and Distributed-System Patterns: Messaging, API Composition, and Avoiding Fallback](d3653056c-microservice-patterns.md) — patterns

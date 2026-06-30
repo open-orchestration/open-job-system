@@ -734,3 +734,11 @@
 {"run_id": "rbeb18af0", "cycle": 3, "seq": 34, "ts": "2026-06-30T21:10:57.873963+00:00", "flow": "process", "step": "draft", "status": "ok", "data": {"draft_id": "d96d129bf"}}
 {"run_id": "rbeb18af0", "cycle": 3, "seq": 35, "ts": "2026-06-30T21:12:28.914781+00:00", "flow": "process", "step": "review", "status": "ok", "data": {"draft_id": "d96d129bf", "decision": "promote", "certainty": "high", "reviewer": "ai-independent"}}
 {"run_id": "rbeb18af0", "cycle": 3, "seq": 36, "ts": "2026-06-30T21:12:29.070475+00:00", "flow": "dimension", "step": "gate", "status": "ok", "data": {"accepted": 0, "rejected": 0}}
+{"run_id": "rbeb18af0", "cycle": 4, "seq": 37, "ts": "2026-06-30T21:16:05.081876+00:00", "flow": "process", "step": "cite_check", "status": "ok", "data": {}}
+{"run_id": "rbeb18af0", "cycle": 4, "seq": 38, "ts": "2026-06-30T21:16:05.162485+00:00", "flow": "process", "step": "draft", "status": "ok", "data": {"draft_id": "d40a062f5"}}
+{"run_id": "rbeb18af0", "cycle": 4, "seq": 39, "ts": "2026-06-30T21:18:11.373739+00:00", "flow": "process", "step": "review", "status": "ok", "data": {"draft_id": "d40a062f5", "decision": "promote", "certainty": "moderate", "reviewer": "ai-independent"}}
+{"run_id": "rbeb18af0", "cycle": 4, "seq": 40, "ts": "2026-06-30T21:18:11.490358+00:00", "flow": "dimension", "step": "gate", "status": "ok", "data": {"accepted": 0, "rejected": 0}}
+{"run_id": "rbeb18af0", "cycle": 5, "seq": 41, "ts": "2026-06-30T21:21:43.619764+00:00", "flow": "process", "step": "cite_check", "status": "ok", "data": {}}
+{"run_id": "rbeb18af0", "cycle": 5, "seq": 42, "ts": "2026-06-30T21:21:43.700116+00:00", "flow": "process", "step": "draft", "status": "ok", "data": {"draft_id": "d3653056c"}}
+{"run_id": "rbeb18af0", "cycle": 5, "seq": 43, "ts": "2026-06-30T21:25:00.330831+00:00", "flow": "process", "step": "review", "status": "ok", "data": {"draft_id": "d3653056c", "decision": "promote", "certainty": "moderate", "reviewer": "ai-independent"}}
+{"run_id": "rbeb18af0", "cycle": 5, "seq": 44, "ts": "2026-06-30T21:25:00.448483+00:00", "flow": "dimension", "step": "gate", "status": "ok", "data": {"accepted": 0, "rejected": 0}}

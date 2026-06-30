@@ -29,7 +29,7 @@
     },
     "run": {
       "token_ceiling": 3000000,
-      "tokens_spent": 353399,
+      "tokens_spent": 389833,
       "started_at": "2026-06-29T15:46:30.922665+00:00"
     },
     "dimension_alpha": {
@@ -5478,6 +5478,37 @@
       "created_at": "2026-06-30T21:10:57.796823+00:00",
       "promoted_path": ".research/docs/findings/d96d129bf-distributed-system-patterns.md",
       "promoted_at": "2026-06-30T21:12:28.874905+00:00"
+    },
+    {
+      "id": "d40a062f5",
+      "topic": "cloud-gcp-firebase",
+      "title": "Cloud Tasks and Cloud Run: Operational Limits and Quotas",
+      "path": "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/_drafts/d40a062f5-cloud-tasks-run-limits.md",
+      "status": "promoted",
+      "cites": [
+        "c8a5cbf60",
+        "c4144b6cf",
+        "c7be2fd23",
+        "c4db5a67c"
+      ],
+      "created_at": "2026-06-30T21:16:05.122801+00:00",
+      "promoted_path": ".research/docs/findings/d40a062f5-cloud-tasks-run-limits.md",
+      "promoted_at": "2026-06-30T21:18:11.332131+00:00"
+    },
+    {
+      "id": "d3653056c",
+      "topic": "patterns",
+      "title": "Microservice and Distributed-System Patterns: Messaging, API Composition, and Avoiding Fallback",
+      "path": "/Users/joshua/Documents/GitHub/open-job-system/.research/docs/findings/_drafts/d3653056c-microservice-patterns.md",
+      "status": "promoted",
+      "cites": [
+        "c290494f5",
+        "cb7874314",
+        "cfe9dcaec"
+      ],
+      "created_at": "2026-06-30T21:21:43.661635+00:00",
+      "promoted_path": ".research/docs/findings/d3653056c-microservice-patterns.md",
+      "promoted_at": "2026-06-30T21:25:00.291780+00:00"
     }
   ],
   "goal": {
