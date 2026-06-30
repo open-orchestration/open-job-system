@@ -6,3 +6,6 @@ ingest/
 .research/state.lock
 .research/.tmp_draft_id
 .research/docs/findings/_drafts/
+
+# graphify output under research docs (per-machine, non-canonical)
+.research/docs/graphify-out/
