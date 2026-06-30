@@ -61,3 +61,5 @@
 - [Redis-backed job queues: Bull and arq](d98b5abab-bull-arq.md) — task-queues
 - [Job-queue libraries across backends: Machinery and JobRunr](d228fe3f9-job-queue-libraries.md) — task-queues
 - [Spring Batch domain model: Job, JobInstance, JobExecution, Step](df87cdc82-spring-batch-domain.md) — task-queues
+- [Batch and HPC Scheduler Landscape: Ray, Volcano, and Nomad](d919ebeeb-batch-hpc-scheduler-survey.md) — container-batch
+- [Kubernetes Batch Jobs: Reliability and Parallelism](dc8157da0-k8s-batch-jobs.md) — container-batch
